@@ -68,7 +68,7 @@
 
 
 
-  <meta name="keywords" content="Hexo, NexT">
+  <meta name="keywords" content="datasets,">
 
 
 
@@ -79,13 +79,20 @@
 
 
 
-<meta property="og:type" content="website">
-<meta property="og:title" content="与阳光共进早餐">
-<meta property="og:url" content="http://yoursite.com/index.html">
+<meta name="description" content="一  写在前面未经允许，不得转载，谢谢~ 这篇文章是对UCF101视频数据集处理以及加载的一个记录，也适用于其他的视频数据集。 1 需求所在PyTorch提供了像对CIFAR10这样计算机视觉中经常会用到的数据集的接口，直接调用即可方便的获取到我们想要的train_x, train_y, test_x, test_y. 而我这次需要的UCF101还没有得到这样的待遇，所以首先要完成数据的读入，才能">
+<meta name="keywords" content="datasets">
+<meta property="og:type" content="article">
+<meta property="og:title" content="视频数据集UCF101的处理与加载（未使用深度学习框架)">
+<meta property="og:url" content="http://yoursite.com/2019/04/15/视频数据集UCF101的处理与加载（未使用深度学习框架/index.html">
 <meta property="og:site_name" content="与阳光共进早餐">
+<meta property="og:description" content="一  写在前面未经允许，不得转载，谢谢~ 这篇文章是对UCF101视频数据集处理以及加载的一个记录，也适用于其他的视频数据集。 1 需求所在PyTorch提供了像对CIFAR10这样计算机视觉中经常会用到的数据集的接口，直接调用即可方便的获取到我们想要的train_x, train_y, test_x, test_y. 而我这次需要的UCF101还没有得到这样的待遇，所以首先要完成数据的读入，才能">
 <meta property="og:locale" content="zh-Hans">
+<meta property="og:image" content="http://upload-images.jianshu.io/upload_images/9933353-e402bc1a9745de7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
+<meta property="og:updated_time" content="2019-04-15T04:50:47.494Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="与阳光共进早餐">
+<meta name="twitter:title" content="视频数据集UCF101的处理与加载（未使用深度学习框架)">
+<meta name="twitter:description" content="一  写在前面未经允许，不得转载，谢谢~ 这篇文章是对UCF101视频数据集处理以及加载的一个记录，也适用于其他的视频数据集。 1 需求所在PyTorch提供了像对CIFAR10这样计算机视觉中经常会用到的数据集的接口，直接调用即可方便的获取到我们想要的train_x, train_y, test_x, test_y. 而我这次需要的UCF101还没有得到这样的待遇，所以首先要完成数据的读入，才能">
+<meta name="twitter:image" content="http://upload-images.jianshu.io/upload_images/9933353-e402bc1a9745de7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
 
 
 
@@ -115,13 +122,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/">
+  <link rel="canonical" href="http://yoursite.com/2019/04/15/视频数据集UCF101的处理与加载（未使用深度学习框架/">
 
 
 
 
 
-  <title>与阳光共进早餐</title>
+  <title>视频数据集UCF101的处理与加载（未使用深度学习框架) | 与阳光共进早餐</title>
   
 
 
@@ -140,8 +147,7 @@
     
   
 
-  <div class="container sidebar-position-left 
-  page-home">
+  <div class="container sidebar-position-left page-post-detail">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -244,9 +250,9 @@
         <div class="content-wrap">
           <div id="content" class="content">
             
-  <section id="posts" class="posts-expand">
+
+  <div id="posts" class="posts-expand">
     
-      
 
   
 
@@ -276,9 +282,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">
-                
-                <a class="post-title-link" href="/2019/04/15/视频数据集UCF101的处理与加载（未使用深度学习框架/" itemprop="url">视频数据集UCF101的处理与加载（未使用深度学习框架)</a></h1>
+          <h1 class="post-title" itemprop="name headline">视频数据集UCF101的处理与加载（未使用深度学习框架)</h1>
         
 
         <div class="post-meta">
@@ -350,9 +354,7 @@
       
 
       
-        
-          
-            <h1 id="一-写在前面"><a href="#一-写在前面" class="headerlink" title="一  写在前面"></a>一  写在前面</h1><p><strong>未经允许，不得转载，谢谢~</strong></p>
+        <h1 id="一-写在前面"><a href="#一-写在前面" class="headerlink" title="一  写在前面"></a>一  写在前面</h1><p><strong>未经允许，不得转载，谢谢~</strong></p>
 <p>这篇文章是对UCF101视频数据集处理以及加载的一个记录，也适用于其他的视频数据集。</p>
 <h2 id="1-需求所在"><a href="#1-需求所在" class="headerlink" title="1 需求所在"></a>1 需求所在</h2><p>PyTorch提供了像对CIFAR10这样计算机视觉中经常会用到的数据集的接口，直接调用即可方便的获取到我们想要的train_x, train_y, test_x, test_y. 而我这次需要的UCF101还没有得到这样的待遇，所以首先要完成数据的读入，才能进行后面的网络训练及测试工作。</p>
 <p>简单来说，这篇文章实现了对UCF101的处理及加载，使其能够每次根据batch_size的大小，返回需要的train_x, train_y, test_x, test_y用于视频分类任务. </p>
@@ -429,8 +431,6 @@
 <li><a href="https://zhuanlan.zhihu.com/p/27661382" target="_blank" rel="noopener">让你秒懂Python 类特殊方法<strong>getitem</strong></a></li>
 </ul>
 
-          
-        
       
     </div>
     
@@ -445,14 +445,20 @@
 
     <footer class="post-footer">
       
+        <div class="post-tags">
+          
+            <a href="/tags/datasets/" rel="tag"># datasets</a>
+          
+        </div>
+      
+
+      
+      
+      
 
       
 
       
-
-      
-      
-        <div class="post-eof"></div>
       
     </footer>
   </div>
@@ -462,10 +468,11 @@
   </article>
 
 
-    
-  </section>
 
-  
+    <div class="post-spread">
+      
+    </div>
+  </div>
 
 
           </div>
@@ -473,6 +480,10 @@
 
 
           
+
+  
+
+
 
         </div>
         
@@ -493,8 +504,17 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
 
-      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <section class="site-overview-wrap sidebar-panel">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
@@ -554,6 +574,22 @@
         </div>
       </section>
 
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#一-写在前面"><span class="nav-number">1.</span> <span class="nav-text">一  写在前面</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#1-需求所在"><span class="nav-number">1.1.</span> <span class="nav-text">1 需求所在</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-不足之处"><span class="nav-number">1.2.</span> <span class="nav-text">2 不足之处</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#二-UCF101数据集"><span class="nav-number">2.</span> <span class="nav-text">二 UCF101数据集</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#三-具体实现思路"><span class="nav-number">3.</span> <span class="nav-text">三 具体实现思路</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#1-数据集准备"><span class="nav-number">3.1.</span> <span class="nav-text">1 数据集准备</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-预处理"><span class="nav-number">3.2.</span> <span class="nav-text">2 预处理</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-后续处理"><span class="nav-number">3.3.</span> <span class="nav-text">3 后续处理</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4-使用方法"><span class="nav-number">3.4.</span> <span class="nav-text">4 使用方法</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#四-完整代码"><span class="nav-number">4.</span> <span class="nav-text">四 完整代码</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#五-写在最后"><span class="nav-number">5.</span> <span class="nav-text">五 写在最后</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#参考材料"><span class="nav-number">6.</span> <span class="nav-text">参考材料</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
       
 
       
@@ -687,6 +723,10 @@
   
 
   
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
 
   
 
