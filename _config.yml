@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "A student of Fudan University"
   location         : "ShangHai"
-  employer         : "Fudan University"
+  employer         : #"Fudan University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=y3Bpp1IAAAAJ&hl=zh-CN"
   email            :  "fuyq20@fudan.edu.cn"
