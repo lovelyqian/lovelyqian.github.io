@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Yuqian Fu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yuqian Fu"
+description              : &description "Yuqian Fu's website"
 url                      : https://lovelyqian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lovelyqian/lovelyqian.github.io"
@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "A student of Fudan University"
   location         : "ShangHai"
-  employer         :
+  employer         : "Fudan University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=y3Bpp1IAAAAJ&hl=zh-CN"
-  email            :
+  email            :  "fuyq20@fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "lovelyqian"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
