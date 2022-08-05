@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuqian Fu"
+title                    : "Welcome to Yuqian Fu's Homepage"
 title_separator          : "-"
 name                     : &name "Yuqian Fu"
 description              : &description "Yuqian Fu's website"
