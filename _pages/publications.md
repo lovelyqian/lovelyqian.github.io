@@ -10,10 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello, world
 
-Publications
-------
 
 <ul>
   <li>
