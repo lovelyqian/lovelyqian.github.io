@@ -48,7 +48,7 @@ Publications
     <p><a href="https://arxiv.org/abs/2107.11978">Meta-FDMixup: Cross-Domain Few-Shot Learning Guided by Labeled Target Data</a><br /><strong>Yuqian Fu</strong>, Yanwei Fu, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2021. <br /> [<a href="https://arxiv.org/pdf/2107.11978.pdf">Paper</a>][<a href="https://github.com/lovelyqian/Meta-FDMixup">Code</a>][<a href="https://www.youtube.com/watch?v=G8Mlde4FpsU">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1xT4y1f7B6?spm_id_from=333.999.0.0&vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili Video</a>]</p>
   </li>
   <li>
-    <p><a href="https://arxiv.org/abs/2107.11756">Can Action be Imitated? Learn to Reconstruct and Transfer Human Dynamics from Videos</a><br /><strong>Yuqian Fu</strong>, Yanwei Fu, Yu-Gang Jiang<br /> International Conference on Multimedia Retrieval (<strong>ICMR</strong>). 2021. (<strong>Oral</strong>)<br /> [<a href="https://arxiv.org/pdf/2107.11756.pdf">Paper</a>]</p>
+    <p><a href="https://arxiv.org/abs/2107.11756">Can Action be Imitated? Learn to Reconstruct and Transfer Human Dynamics from Videos</a><br /><strong>Yuqian Fu</strong>, Yanwei Fu, Yu-Gang Jiang<br /> International Conference on Multimedia Retrieval (<strong>ICMR</strong>). 2021. (<strong>Oral</strong>)<br /> [<a href="https://arxiv.org/pdf/2107.11756.pdf">Paper</a>][<a href="https://www.bilibili.com/video/BV1VY41147xt?spm_id_from=333.999.0.0">Bilibili Video</a>]</p>
   </li>
   <li>
     <p><a href="https://arxiv.org/abs/2010.09982">Depth Guided Adaptive Meta-Fusion Network for Few-shot Video Recognition
