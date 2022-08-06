@@ -42,9 +42,6 @@ Publications
     <p><a href="">TGDM: Target Guided Dynamic Mixup for Cross-Domain Few-Shot Learning</a><br />Linhai Zhuo, <strong>Yuqian Fu</strong>, Jingjing Chen, Yixin Cao, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.<br /> [<a href="">Paper Coming Soon</a>]</p>
   </li>
   <li>
-    <p><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_Partner-Assisted_Learning_for_Few-Shot_Image_Classification_ICCV_2021_paper.pdf">Partner-Assisted Learning for Few-Shot Image Classification</a><br /> Jiawei Ma*, Hanchen Xie*, <strong>Guangxing Han</strong>, Shih-Fu Chang, Aram Galstyan, Wael AbdAlmageed <br /> IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>). Virtual, 2021. (Full paper, acceptance rate 25.9%)<br /> [<a href="https://arxiv.org/pdf/2109.07607.pdf">Paper</a>]</p>
-  </li>
-  <li>
     <p><a href="https://arxiv.org/abs/2203.07656">Wave-SAN: Wavelet based Style Augmentation Network for Cross-Domain Few-Shot Learning</a><br /> <strong>Yuqian Fu</strong>, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang<br /> arXiv preprint, 2022. <br /> [<a href="https://arxiv.org/pdf/2203.07656.pdf">Paper</a>]</p>
   </li>
   <li>
@@ -58,7 +55,7 @@ Publications
 </a><br /><strong>Yuqian Fu</strong>, Li Zhang, Junke Wang, Yanwei Fu, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2020. (<strong>Oral</strong>)<br /> [<a href="https://arxiv.org/pdf/2010.09982.pdf">Paper</a>][<a href="https://github.com/lovelyqian/AMeFu-Net">Code</a>][<a href="https://www.youtube.com/watch?v=KqNYuZD5xdw">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1i44y1t78U?spm_id_from=333.999.0.0">Bilibili Video</a>]</p>
   </li>
   <li>
-    <p><a href="http://www.cs.cmu.edu/~yuxiongw/research/Embodied_One-Shot_Video_Recognition_Learning_from_Actions_of_a_Virtual_Embodied_Agent.pdf"> Embodied One-Shot Video Recognition: Learning from Actions of a Virtual Embodied Agent </a><br /> <strong>Yuqian Fu</strong>, Chengrong Wang, Yanwei Fu, Yu-Xiong Wang, Cong Bai, Xiangyang Xue, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2019. (<strong>Oral</strong>) <br /> [<a href="http://www.cs.cmu.edu/~yuxiongw/research/Embodied_One-Shot_Video_Recognition_Learning_from_Actions_of_a_Virtual_Embodied_Agent.pdf">Paper</a>][<a href="https://github.com/lovelyqian/Embodied-One-Shot-Video-Recognition">Code</a>]</p>
+    <p><a href="http://www.cs.cmu.edu/~yuxiongw/research/Embodied_One-Shot_Video_Recognition_Learning_from_Actions_of_a_Virtual_Embodied_Agent.pdf"> Embodied One-Shot Video Recognition: Learning from Actions of a Virtual Embodied Agent </a><br /> <strong>Yuqian Fu</strong>, Chengrong Wang, Yanwei Fu, Yu-Xiong Wang, Cong Bai, Xiangyang Xue, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2019. (<strong>Oral</strong>) <br /> [<a href="http://www.cs.cmu.edu/~yuxiongw/research/Embodied_One-Shot_Video_Recognition_Learning_from_Actions_of_a_Virtual_Embodied_Agent.pdf">Paper</a>][<a href="https://github.com/lovelyqian/Embodied-One-Shot-Video-Recognition">Code</a>][<a href="http://www.sdspeople.fudan.edu.cn/fuyanwei/dataset/UnrealAction/">UnrealAction Dataset</a>]</p>
   </li>
 </ul>
 
