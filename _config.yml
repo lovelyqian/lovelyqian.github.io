@@ -219,16 +219,16 @@ defaults:
       share: true
       comments: true
   # _publications
-  - scope:
-      path: ""
-      #type: publications
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  _portfolio
+  # - scope:
+  #     path: ""
+  #     #type: publications
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  #_portfolio
   - scope:
       path: ""
       type: portfolio
