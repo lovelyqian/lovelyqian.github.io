@@ -10,10 +10,10 @@ redirect_from:
 
 Biography
 ======
-<p>I am currently a Ph.D. Candidate at <a href="https://fvl.fudan.edu.cn">FVL</a> Lab, Fudan University, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>.<p>
-<p>Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, Hangzhou, China, in 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>.<p>
+I am currently a Ph.D. Candidate at <a href="https://fvl.fudan.edu.cn">FVL</a> Lab, Fudan University, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>.
+Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, Hangzhou, China, in 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>.
 
-<p>My current research topics are computer vision and deep learning, and I am mainly focused on meta-learning, few-shot video action recognition, and cross-domain few-shot learning.<p>
+My current research topics are computer vision and deep learning, and I am mainly focused on meta-learning, few-shot video action recognition, and cross-domain few-shot learning.
 
 
 News
