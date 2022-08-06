@@ -36,7 +36,7 @@ Publications
 
 <ul>
   <li>
-    <p><a href="">ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning</a><br /><strong>Yuqian Fu</strong>, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.<br /> [<a href="">Paper Coming Soon</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>]</p>
+    <p><a href="">ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning</a><br /><strong>Yuqian Fu</strong>, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.<br /> [<a href="">Paper Coming Soon</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>]</p><img src='profile.png'>
   </li>
   <li>
     <p><a href="">TGDM: Target Guided Dynamic Mixup for Cross-Domain Few-Shot Learning</a><br />Linhai Zhuo, <strong>Yuqian Fu</strong>, Jingjing Chen, Yixin Cao, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.<br /> [<a href="">Paper Coming Soon</a>]</p>
