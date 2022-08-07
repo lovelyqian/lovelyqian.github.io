@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 Biography
 ------
 I am currently a Ph.D. Candidate at <a href="https://fvl.fudan.edu.cn">FVL</a> Lab, Fudan University, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, Hangzhou, China, in 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>.
@@ -30,9 +29,20 @@ News
 
 Selected Publications
 ------
+<div class="img">
+            <div id="pic" class="baguetteBox gallery">
+                <img src="images/framework-MED2N.png" />
+            </div>     
+            <div class="details" >
+            <p><a href="">ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning</a><br /><strong>Yuqian Fu</strong>, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.<br /> [<a href="">Paper Coming Soon</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>]</p>
+            </div>
+
+</div>
+------
+
 <ul id="selected_publications">
         <li>
-            <div class="details">
+            <div class="details" >
                 <h3>Shot in the Dark: Few-Shot Learning with No Base-Class Labels
                 </h3>
                 <p>Preprint
