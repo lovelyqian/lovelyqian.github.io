@@ -37,7 +37,7 @@ Selected Publications
                 </h3>
                 <p>Preprint
                     <a href="http://chenzt.net/cv/UBCTFSL.pdf" target="_blank">
-                        <img src="images/profile.png">
+                        <img src="cv/paper.png">
                     </a>
                 </p>
                 <h5><b>Zitian Chen</b>, Subhransu Maji, Erik Learned-Miller</h5>
