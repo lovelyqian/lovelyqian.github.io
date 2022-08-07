@@ -27,7 +27,8 @@ News
   <li>[07/2019] One paper is accepted by ACM MM 2019.</li>
 </ul>
 
-Selected Publications
+<!-- Selected Publications
+# To update this
 ------
 <div class="img">
             <div id="pic" class="baguetteBox gallery">
@@ -37,27 +38,7 @@ Selected Publications
             <p><a href="">ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning</a><br /><strong>Yuqian Fu</strong>, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.<br /> [<a href="">Paper Coming Soon</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>]</p>
             </div>
 
-</div>
-------
-
-<ul id="selected_publications">
-        <li>
-            <div class="details" >
-                <h3>Shot in the Dark: Few-Shot Learning with No Base-Class Labels
-                </h3>
-                <p>Preprint
-                    <a href="http://chenzt.net/cv/UBCTFSL.pdf" target="_blank">
-                        <img src="cv/paper.png">
-                    </a>
-                </p>
-                <h5><b>Zitian Chen</b>, Subhransu Maji, Erik Learned-Miller</h5>
-            </div>
-            <div id="pic" class="baguetteBox gallery">
-                <a href="images/500x300.png"><img src="images/500x300.png"></a>
-            </div>
-        </li>
-</ul>
-
+</div> -->
 
 Publications
 ------
