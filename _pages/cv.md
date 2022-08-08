@@ -9,8 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+
 Education
-======
+------
 * Ph.D: Fudan University (2018-)
   * GPA: 3.7/4.0 (Top 1)
   * Computer Science and Technology
@@ -21,7 +24,7 @@ Education
 
 
 Service and Leadership
-======
+------
 * MVAP Reviewer
 * AAAI2022 PC
 * International Artificial Intelligence Fair (IAIF) 2021 Judge
@@ -41,8 +44,9 @@ Service and Leadership
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
 
+
 Awards
-======
+------
 * Chinese National Scholarship (2016, 2017)
 * Graduate Chinese National Scholarship (2019)
 * CCF National Outstanding College Students （2017）
@@ -57,7 +61,7 @@ Skills
 
 
 More
-======
+------
 * [Chinese Blog](https://www.jianshu.com/u/b3c66a77e742)
 
 
