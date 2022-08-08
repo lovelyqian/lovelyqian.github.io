@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-
-
 Education
 ------
 * Ph.D: Fudan University (2018-)
@@ -55,7 +53,7 @@ Awards
 
 
 Skills
-======
+------
 * **Python**, **Pytorch**
 * Latex, Vim, Matlab, Meshlab
 
