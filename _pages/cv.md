@@ -11,11 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D: Fudan University (2018-)
+  * GPA: 3.7/4.0 (Top 1)
+  * Computer Science and Technology
+  * Computer Vision and Deep Learning,  especially few-shot video action recognition, and cross-domain few-shot learning
+* B.S.: Zhejiang University of Technology (2014-2018) (Honours Degree)
+  * GPA: 4.2/5.0 (Rank 1st in about 500 students)
+  * Double Major: Computer Science and Technology, Automation
 
-Work experience
+
+Service and Leadership
+======
+* MVAP Reviewer
+* AAAI2022 PC
+* International Artificial Intelligence Fair (IAIF) 2021 Judge
+* World Artificial Intelligence Conference (WAIC) 2021 Secretariat Member
+* China Computer Federation (CCF) Campus Propaganda Ambassador (2019-2022)
+
+
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -25,18 +39,29 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  * Supervisor: Professor Hub -->
+
+Awards
+======
+* Chinese National Scholarship (2016, 2017)
+* Graduate Chinese National Scholarship (2019)
+* CCF National Outstanding College Students （2017）
+* Outstanding Student of Fudan University (2021)
+* Outstanding Graduates in Zhejiang Province (2018)
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Python**, **Pytorch**
+* Latex, Vim, Matlab, Meshlab
 
-Publications
+
+More
+======
+* [Chinese Blog](https://www.jianshu.com/u/b3c66a77e742)
+
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,8 +77,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
