@@ -45,11 +45,11 @@ Services and Leadership
 
 Awards
 ------
-* Chinese National Scholarship (2016, 2017)
-* Graduate Chinese National Scholarship (2019)
-* CCF National Outstanding College Student (2017)
-* Outstanding Student of Fudan University (2021) 
-* Outstanding Graduate in Zhejiang Province (2018)
+* Chinese <strong>National Scholarship</strong> (2016, 2017) (<strong>top 0.4%</strong>)
+* Graduate Chinese <strong>National Scholarship></strong> (2019) (<strong>top 2%</strong>)
+* <strong>CCF National Outstanding College Student</strong> (2017) 
+* <strong>Outstanding Student of Fudan University</strong> (2021) (<strong>top 0.03%</strong>)
+* Outstanding Graduate in Zhejiang Province (2018) 
 
 
 Skills
