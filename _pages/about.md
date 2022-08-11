@@ -42,7 +42,6 @@ News
 
 Publications
 ------
-
 <table style="width:100%" frame=void>
   <tr>
     <th>
