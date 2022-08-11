@@ -45,7 +45,7 @@ Publications
 <table style="width:100%">
   <tr>
     <th>
-      <img src="../images/framework-MED2N.png" width="350"/>
+      <img src="../images/framework-MED2N.png" width="30%"/>
     </th>
     <th style="text-align:left">
             <span style="font-size:18px">ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning</span><br>
@@ -59,7 +59,7 @@ Publications
 <table style="width:100%">
   <tr>
     <th>
-      <img src="../images/framework-TGDM.png" width="350"/>
+      <img src="../images/framework-TGDM.png" width="30%"/>
     </th>
     <th style="text-align:left">
             <span style="font-size:18px">TGDM: Target Guided Dynamic Mixup for Cross-Domain Few-Shot Learning</span><br>
