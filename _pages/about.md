@@ -49,7 +49,10 @@ Publications
       <img src="../images/framework-MED2N.png" width="350"/>
     </th>
     <th style="text-align:left">
-        <p><a href="">ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning</a><br /><strong>Yuqian Fu</strong>, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.<br /> [<a href="">Paper Coming Soon</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>]</p>
+            <a href="">ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning</a><br>
+            <strong>Yuqian Fu</strong>, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang<br>
+            ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022. <br>
+            <span style="font-weight:normal;font-size:16px"><a href="https://video-edit-gan.github.io/">project page</a> | [<a href="">Paper Coming Soon</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>]
     </th>
   </tr>
   
