@@ -43,7 +43,7 @@ News
 Publications
 ------
 
-<table style="width:100%">
+<table style="width:100%" frame=void>
   <tr>
     <th>
       <img src="../images/framework-MED2N.png" width="350"/>
