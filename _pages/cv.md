@@ -13,11 +13,11 @@ redirect_from:
 Education
 ------
 * Ph.D: Fudan University (2018-)
-  * GPA: 3.7/4.0 (Top 1)
+  * GPA: 3.7/4.0 (<strong>Top 1</strong>)
   * Computer Science and Technology
   * Computer Vision and Deep Learning,  especially Few-shot Video Action Recognition, and Cross-domain Few-shot Learning
 * B.S.: Zhejiang University of Technology (2014-2018) (Honours Degree)
-  * GPA: 4.2/5.0 (Rank 1st among about 500 students)
+  * GPA: 4.2/5.0 (<strong>Rank 1st among about 500 students</strong>)
   * Double Major: Computer Science and Technology, Automation
 
 
@@ -48,7 +48,7 @@ Awards
 * Chinese National Scholarship (2016, 2017)
 * Graduate Chinese National Scholarship (2019)
 * CCF National Outstanding College Student (2017)
-* Outstanding Student of Fudan University (2021)
+* Outstanding Student of Fudan University (2021) 
 * Outstanding Graduate in Zhejiang Province (2018)
 
 
