@@ -88,7 +88,7 @@ Publications
 
    <tr>
     <th>
-      <img src="../images/framwork-metaFDMixup.png" width="350"/>
+      <img src="../images/framework-metaFDMixup.png" width="350"/>
     </th>
     <th style="text-align:left">
             <span style="font-size:18px">Meta-FDMixup: Cross-Domain Few-Shot Learning Guided by Labeled Target Data</span><br>
