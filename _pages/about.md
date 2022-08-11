@@ -60,7 +60,7 @@ Publications
 
   <tr>
     <th>
-      <img src="../images/framework-TGDM" width="350"/>
+      <img src="../images/framework-TGDM.png" width="350"/>
     </th>
     <th style="text-align:left">
             <span style="font-size:18px">TGDM: Target Guided Dynamic Mixup for Cross-Domain Few-Shot Learning</span><br>
@@ -74,7 +74,7 @@ Publications
 
   <tr>
     <th>
-      <img src="../images/framework-waveSAN" width="350"/>
+      <img src="../images/framework-waveSAN.png" width="350"/>
     </th>
     <th style="text-align:left">
             <span style="font-size:18px">Wave-SAN: Wavelet based Style Augmentation Network for Cross-Domain Few-Shot Learning</span><br>
@@ -102,7 +102,7 @@ Publications
 
    <tr>
     <th>
-      <img src="../images/framework-ActionImitation" width="350"/>
+      <img src="../images/framework-ActionImitation,png" width="350"/>
     </th>
     <th style="text-align:left">
             <span style="font-size:18px">Can Action be Imitated? Learn to Reconstruct and Transfer Human Dynamics from Videos</span><br>
@@ -116,7 +116,7 @@ Publications
   
   <tr>
     <th>
-      <img src="../images/framework-AMeFu" width="350"/>
+      <img src="../images/framework-AMeFu.png" width="350"/>
     </th>
     <th style="text-align:left">
             <span style="font-size:18px">Depth Guided Adaptive Meta-Fusion Network for Few-shot Video Recognition</span><br>
@@ -128,7 +128,7 @@ Publications
 
   <tr>
     <th>
-      <img src="../images/framework-embodied" width="350"/>
+      <img src="../images/framework-embodied.png" width="350"/>
     </th>
     <th style="text-align:left">
             <span style="font-size:18px">Embodied One-Shot Video Recognition: Learning from Actions of a Virtual Embodied Agent</span><br>
