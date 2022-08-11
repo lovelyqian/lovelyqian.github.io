@@ -43,6 +43,22 @@ News
 Publications
 ------
 
+<table style="width:100%">
+  <tr>
+    <th>
+      <img src="../images/profile.png" width="350"/>
+    </th>
+    <th style="text-align:left">
+            Temporally Consistent Semantic Video Editing<br>
+            <span style="font-size:16px"><span style="font-weight:normal">Yiran Xu</span>, Badour AlBahar<span style="font-weight:normal">, and Jia-Bin Huang</span></span><br>
+            <span style="font-weight:normal;font-size:16px">ECCV 2022</span><br>
+            <span style="font-weight:normal;font-size:16px"><a href="https://video-edit-gan.github.io/">project page</a> | <a href="https://arxiv.org/pdf/2206.10590.pdf">paper</a> | <a href="">code (coming soon)</a></span>
+    </th>
+  </tr>
+  
+  <br>
+</table>
+
 <ul>
   <li>
     <p><a href="">ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning</a><br /><strong>Yuqian Fu</strong>, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.<br /> [<a href="">Paper Coming Soon</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>]</p>
