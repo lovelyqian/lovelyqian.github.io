@@ -72,92 +72,71 @@ Publications
 
 <table style="width:100%">
   <tr>
-    <th>
-      <img src="../images/framework-MED2N.png" width="350"/>
+    <th width="30%">
+       <img src="../images/framework-waveSAN.png" width="350"/>
     </th>
-    <th style="text-align:left">
-            <span style="font-size:18px">ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning</span><br>
-            <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="">Paper</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>]</span>
-    </th>
-  </tr> 
-
-  <br>
-
-  <tr>
-    <th>
-      <img src="../images/framework-TGDM.png" width="350"/>
-    </th>
-    <th style="text-align:left">
-            <span style="font-size:18px">TGDM: Target Guided Dynamic Mixup for Cross-Domain Few-Shot Learning</span><br>
-            <span style="font-size:16px">Linhai Zhuo, Yuqian Fu<span style="font-weight:normal">, Jingjing Chen, Yixin Cao, Yu-Gang Jiang</span></span><br>
-            <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="">Paper</a>]</span>
-    </th>
-  </tr> 
-
-  <br>
-
-  <tr>
-    <th>
-      <img src="../images/framework-waveSAN.png" width="350"/>
-    </th>
-    <th style="text-align:left">
-            <span style="font-size:18px">Wave-SAN: Wavelet based Style Augmentation Network for Cross-Domain Few-Shot Learning</span><br>
+    <th style="text-align:left" width="70%">
+  <span style="font-size:18px">Wave-SAN: Wavelet based Style Augmentation Network for Cross-Domain Few-Shot Learning</span><br>
             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang</span></span><br>
             <span style="font-weight:normal;font-size:16px">arXiv preprint, 2022.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2203.07656.pdf">Paper</a>]</span>
     </th>
   </tr> 
+</table>
 
-  <br>
 
-   <tr>
-    <th>
+<table style="width:100%">
+  <tr>
+    <th width="30%">
       <img src="../images/framework-metaFDMixup.png" width="350"/>
     </th>
-    <th style="text-align:left">
+    <th style="text-align:left" width="70%">
             <span style="font-size:18px">Meta-FDMixup: Cross-Domain Few-Shot Learning Guided by Labeled Target Data</span><br>
             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yanwei Fu, Yu-Gang Jiang</span></span><br>
             <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2021.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2107.11978.pdf">Paper</a>][<a href="https://github.com/lovelyqian/Meta-FDMixup">Code</a>][<a href="https://www.youtube.com/watch?v=G8Mlde4FpsU">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1xT4y1f7B6?spm_id_from=333.999.0.0&vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili Video</a>]</span>
     </th>
   </tr> 
+</table>
 
-  <br>
 
-   <tr>
-    <th>
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
       <img src="../images/framework-ActionImitation.png" width="350"/>
     </th>
-    <th style="text-align:left">
+    <th style="text-align:left" width="70%">
             <span style="font-size:18px">Can Action be Imitated? Learn to Reconstruct and Transfer Human Dynamics from Videos</span><br>
             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yanwei Fu, Yu-Gang Jiang</span></span><br>
             <span style="font-weight:normal;font-size:16px">International Conference on Multimedia Retrieval (<strong>ICMR</strong>). 2021. (<strong>Oral</strong>)</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2107.11756.pdf">Paper</a>][<a href="https://www.bilibili.com/video/BV1VY41147xt?spm_id_from=333.999.0.0">Bilibili Video</a>]</span>
     </th>
   </tr> 
+</table>
 
-  <br>
-  
+
+<table style="width:100%">
   <tr>
-    <th>
+    <th width="30%">
       <img src="../images/framework-AMeFu.png" width="350"/>
     </th>
-    <th style="text-align:left">
-            <span style="font-size:18px">Depth Guided Adaptive Meta-Fusion Network for Few-shot Video Recognition</span><br>
+    <th style="text-align:left" width="70%">
+             <span style="font-size:18px">Depth Guided Adaptive Meta-Fusion Network for Few-shot Video Recognition</span><br>
             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Li Zhang, Junke Wang, Yanwei Fu, Yu-Gang Jiang</span></span><br>
             <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2020. (<strong>Oral</strong>)</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2010.09982.pdf">Paper</a>][<a href="https://github.com/lovelyqian/AMeFu-Net">Code</a>][<a href="https://www.youtube.com/watch?v=KqNYuZD5xdw">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1i44y1t78U?spm_id_from=333.999.0.0">Bilibili Video</a>]</span>
     </th>
   </tr> 
+</table>
 
+
+<table style="width:100%">
   <tr>
-    <th>
+    <th width="30%">
       <img src="../images/framework-embodied.png" width="350"/>
     </th>
-    <th style="text-align:left">
+    <th style="text-align:left" width="70%">
             <span style="font-size:18px">Embodied One-Shot Video Recognition: Learning from Actions of a Virtual Embodied Agent</span><br>
             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Chengrong Wang, Yanwei Fu, Yu-Xiong Wang, Cong Bai, Xiangyang Xue, Yu-Gang Jiang</span></span><br>
             <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2019. (<strong>Oral</strong>)</span><br>
@@ -165,6 +144,7 @@ Publications
     </th>
   </tr> 
 </table>
+
 
 
 <!-- <ul>
