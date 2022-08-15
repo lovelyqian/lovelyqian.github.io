@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yuqian Fu's homepage"
+title: "Welcome to Yuqian Fu (傅宇倩)'s homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
