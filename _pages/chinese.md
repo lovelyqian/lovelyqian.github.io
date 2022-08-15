@@ -40,11 +40,11 @@ redirect_from:
 
 奖项荣誉
 ------
-* <strong>复旦大学优秀学生标兵</strong> (2021) (全校仅<strong>10</strong>名，</strong>Top 0.03%</strong>)
+* <strong>复旦大学优秀学生标兵</strong> (2021) (全校仅<strong>10</strong>名，<strong>Top 0.03%</strong>)
 * 研究生<strong>国家奖学金</strong> (2019) (<strong>Top 2%</strong>)
 * <strong>国家奖学金</strong> (2016, 2017) (<strong>Top 0.4%</strong>)
 * <strong>CCF全国优秀大学生</strong> (2017) （全校仅<strong>2</strong>名）
-* 浙江省万名好党员 （2018）（全校仅<strong>3</strong>名学生）
+* <strong>浙江省万名好党员</strong> （2018）（全校仅<strong>3</strong>名学生）
 * 浙江省普通高等学校优秀毕业生 (2018) 
 * 复旦大学优秀团干部 （2019）
 
