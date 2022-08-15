@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "中文"
+permalink: /chinese/
 author_profile: true
 redirect_from:
   - /resume
