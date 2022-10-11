@@ -27,7 +27,7 @@ redirect_from:
 
 学术任职
 ------
-* MVAP, TOMM 期刊审稿人
+* TMM, MVAP, TOMM期刊审稿人
 * AAAI 2022 程序委员会成员（PC）
 
 
@@ -46,6 +46,8 @@ redirect_from:
 * <strong>CCF全国优秀大学生</strong> (2017) （全校仅<strong>2</strong>名）
 * <strong>浙江省万名好党员</strong> （2018）（全校仅<strong>3</strong>名学生）
 * 浙江省普通高等学校优秀毕业生 (2018) 
+* 复旦英特尔冠名奖学金 （2022）
+* 复旦华为冠名奖学金 （2021）
 * 复旦大学优秀团干部 （2019）
 
 

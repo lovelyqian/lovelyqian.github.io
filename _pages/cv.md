@@ -23,7 +23,7 @@ Education
 
 Services and Leadership
 ------
-* MVAP, TOMM Reviewer
+* TMM, MVAP, TOMM Reviewer
 * AAAI 2022 Program Committee (PC) Member
 * International Artificial Intelligence Fair (IAIF) 2021 Judge
 * World Artificial Intelligence Conference (WAIC) 2021 Secretariat Member
