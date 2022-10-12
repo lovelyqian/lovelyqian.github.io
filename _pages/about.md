@@ -51,7 +51,7 @@ Publications
             <span style="font-size:18px">ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning</span><br>
             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang</span></span><br>
             <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="">Paper Coming Soon</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>][<a href="https://www.youtube.com/watch?v=crCoaBLuFeA">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1GG4y1p7if/?vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili Video</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2210.05280.pdf">Paper</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>][<a href="https://www.youtube.com/watch?v=crCoaBLuFeA">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1GG4y1p7if/?vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili Video</a>]</span>
     </th>
   </tr> 
 </table>
@@ -68,7 +68,7 @@ Publications
             <span style="font-size:18px">TGDM: Target Guided Dynamic Mixup for Cross-Domain Few-Shot Learning</span><br>
             <span style="font-size:16px"><span style="font-weight:normal">Linhai Zhuo</span>, Yuqian Fu<span style="font-weight:normal">, Jingjing Chen, Yixin Cao, Yu-Gang Jiang</span></span><br>
             <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="">Paper Coming Soon</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2210.05392.pdf">Paper</a>]</span>
     </th>
   </tr> 
 </table>
