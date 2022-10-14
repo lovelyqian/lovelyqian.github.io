@@ -18,6 +18,7 @@ My current research topics are computer vision and deep learning, and I am mainl
 News
 ------
 <ul>
+  <li>[10/2022] One paper accepted by TIP. </li>
   <li>[06/2022] Two papers are accepted by ACM MM 2022.</li>
   <li>[12/2021] I am recognized as an outstanding student of Fudan University.</li>
   <li>[06/2021] One paper is accepted by ACM MM 2021.</li>
