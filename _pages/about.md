@@ -46,6 +46,20 @@ Publications
 <table style="width:100%">
   <tr>
     <th width="30%">
+      <img src="../images/framework-GMetaFDMixup.jpg" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Generalized Meta-FDMixup: Cross-Domain Few-Shot Learning Guided by Labeled Target Data</span><br>
+            <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang</span></span><br>
+            <span style="font-weight:normal;font-size:16px">IEEE Transactions on Image Processinig (<strong>TIP</strong>), 2022.</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9942934">Paper</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
       <img src="../images/framework-MED2N.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
