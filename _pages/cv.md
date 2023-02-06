@@ -23,9 +23,10 @@ Education
 
 Services and Leadership
 ------
-* TMM, MVAP, TOMM Reviewer
-* AAAI 2022 Program Committee (PC) Member
-* International Artificial Intelligence Fair (IAIF) 2021 Judge
+* Journal Reviewer：TMM, TCSVT，TOMM，MVAP
+* Confence Reviewer：CVPR-2023, ICCV-2023
+* AAAI-2022 Program Committee (PC) Member
+* International Artificial Intelligence Fair (IAIF) 2021/2022 Judge
 * World Artificial Intelligence Conference (WAIC) 2021 Secretariat Member
 * China Computer Federation (CCF) Campus Propaganda Ambassador (2019-2022)
 
@@ -50,7 +51,7 @@ Awards
 * Chinese <strong>National Scholarship</strong> (2016, 2017) (<strong>Top 0.4%</strong>)
 * CCF <strong>National Outstanding</strong> College Student (2017) 
 * <strong>Outstanding Graduate</strong> in Zhejiang Province (2018) 
-
+* Intel Fellowship 2022
 
 Skills
 ------
