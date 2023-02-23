@@ -14,6 +14,9 @@ redirect_from:
 
 <ul>
   <li>
+    <p><a href="">Meta Style Adversarial Training for Cross-Domain Few-Shot Learning</a><br /><strong>Yuqian Fu</strong>, Yu Xie, Yanwei Fu, Yu-Gang Jiang<br /> arXiv preprint, 2023. <br /> [<a href="https://arxiv.org/pdf/2302.09309.pdf">Paper</a>]</p>
+  </li>
+  <li>
     <p><a href="">Generalized Meta-FDMixup: Cross-Domain Few-Shot Learning Guided by Labeled Target Data</a><br /><strong>Yuqian Fu</strong>, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang<br /> IEEE Transactions on Image Processing (<strong>TIP</strong>), 2022.<br /> [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9942934">Paper</a>]</p>
   </li>
   <li>

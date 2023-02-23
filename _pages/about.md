@@ -12,7 +12,7 @@ Biography
 ------
 I am currently a Ph.D. Candidate at <a href="https://fvl.fudan.edu.cn">FVL</a> Lab, Fudan University, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, Hangzhou, China, in 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>.
 
-My current research topics are computer vision and deep learning, and I am mainly focused on meta-learning, few-shot video action recognition, and cross-domain few-shot learning.
+My current research topics are computer vision and deep learning, and I am mainly focused on meta-learning, cross-domain few-shot learning, and few-shot video action recognition, and 
 
 
 News
@@ -43,6 +43,21 @@ News
 
 Publications
 ------
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/framework-styleadv.jpg" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Meta Style Adversarial Training for Cross-Domain Few-Shot Learning</span><br>
+            <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yu Xie, Yanwei Fu, Yu-Gang Jiang</span></span><br>
+             <span style="font-weight:normal;font-size:16px">arXiv preprint, 2023.</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.09309.pdf">Paper</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+
 <table style="width:100%">
   <tr>
     <th width="30%">

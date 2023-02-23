@@ -51,6 +51,7 @@ Awards
 * Chinese <strong>National Scholarship</strong> (2016, 2017) (<strong>Top 0.4%</strong>)
 * CCF <strong>National Outstanding</strong> College Student (2017) 
 * <strong>Outstanding Graduate</strong> in Zhejiang Province (2018) 
+* Huawei Fellowship 2020
 * Intel Fellowship 2022
 
 Skills
