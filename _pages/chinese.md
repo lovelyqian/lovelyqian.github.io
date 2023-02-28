@@ -69,7 +69,7 @@ redirect_from:
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">Meta Style Adversarial Training for Cross-Domain Few-Shot Learning</span><br>
             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yu Xie, Yanwei Fu, Yu-Gang Jiang</span></span><br>
-             <span style="font-weight:normal;font-size:16px">arXiv preprint, 2023.</span><br>
+             <span style="font-weight:normal;font-size:16px">to appear on CVPR, 2023.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.09309.pdf">Paper</a>]</span>
     </th>
   </tr> 

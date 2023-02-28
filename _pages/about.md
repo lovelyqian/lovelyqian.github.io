@@ -12,13 +12,14 @@ Biography
 ------
 I am currently a Ph.D. Candidate at <a href="https://fvl.fudan.edu.cn">FVL</a> Lab, Fudan University, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, Hangzhou, China, in 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>.
 
-My current research topics are computer vision and deep learning, and I am mainly focused on meta-learning, cross-domain few-shot learning, and few-shot video action recognition, and 
+My current research topics are computer vision and deep learning, and I am mainly focused on meta-learning, cross-domain few-shot learning, and few-shot video action recognition.
 
 
 News
 ------
 <ul>
-  <li>[10/2022] One paper accepted by TIP. </li>
+  <li>[02/2023] One paper is accepted by CVPR2023. </li>
+  <li>[10/2022] One paper is accepted by TIP. </li>
   <li>[06/2022] Two papers are accepted by ACM MM 2022.</li>
   <li>[12/2021] I am recognized as an outstanding student of Fudan University.</li>
   <li>[06/2021] One paper is accepted by ACM MM 2021.</li>
@@ -51,7 +52,7 @@ Publications
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">Meta Style Adversarial Training for Cross-Domain Few-Shot Learning</span><br>
             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yu Xie, Yanwei Fu, Yu-Gang Jiang</span></span><br>
-             <span style="font-weight:normal;font-size:16px">arXiv preprint, 2023.</span><br>
+             <span style="font-weight:normal;font-size:16px">to appear on CVPR, 2023.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.09309.pdf">Paper</a>]</span>
     </th>
   </tr> 
