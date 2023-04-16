@@ -27,7 +27,7 @@ redirect_from:
 
 学术任职
 ------
-* 期刊审稿人：TMM，TCSVT，TOMM，MVAP
+* 期刊审稿人：Information Fusion, TMM，TCSVT，TOMM，MVAP
 * 会议审稿人：CVPR-2023，ICCV-2023
 * AAAI 2022 程序委员会成员（PC）
 

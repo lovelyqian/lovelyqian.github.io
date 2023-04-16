@@ -18,6 +18,7 @@ My current research topics are computer vision and deep learning, and I am mainl
 News
 ------
 <ul>
+  <li>[04/2023] I have received 100 citations! </li>
   <li>[02/2023] One paper is accepted by CVPR2023. </li>
   <li>[10/2022] One paper is accepted by TIP. </li>
   <li>[06/2022] Two papers are accepted by ACM MM 2022.</li>
