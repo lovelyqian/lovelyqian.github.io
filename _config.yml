@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Yuqian Fu(傅宇倩)'s Homepage"
+title                    : "Welcome to Yuqian Fu (傅宇倩)'s Homepage"
 title_separator          : "-"
 name                     : &name "Yuqian Fu"
 description              : &description "Yuqian Fu's Website"

@@ -13,7 +13,7 @@ redirect_from:
 
 教育背景
 ------
-* <strong>复旦大学</strong> (2018-)
+* <strong>复旦大学</strong> (2018-2023)
   * 硕博连读生
   * GPA: 3.7/4.0 (<strong>专业第一</strong>)
   * 专业: 计算机应用技术
@@ -27,8 +27,8 @@ redirect_from:
 
 学术任职
 ------
-* 期刊审稿人：Information Fusion, TMM，TCSVT，TOMM，MVAP
-* 会议审稿人：CVPR-2023，ICCV-2023，ACM MM-2023
+* 期刊审稿人：TNNLS, Information Fusion, TMM，TCSVT，TOMM，MVAP
+* 会议审稿人：CVPR-2023，ICCV-2023，ACM MM-2023, WACV-2024
 * AAAI 2022 程序委员会成员（PC）
 
 
@@ -44,6 +44,7 @@ redirect_from:
 
 奖项荣誉
 ------
+* 上海市优秀毕业生 (2023) 
 * <strong>复旦大学优秀学生标兵</strong> (2021) (全校仅<strong>10</strong>名，<strong>Top 0.03%</strong>)
 * 研究生<strong>国家奖学金</strong> (2019) (<strong>Top 2%</strong>)
 * <strong>国家奖学金</strong> (2016, 2017) (<strong>Top 0.4%</strong>)
@@ -60,6 +61,19 @@ redirect_from:
 
 科研工作
 ------
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/framework-SACT.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">On the Importance of Spatial Relations for Few-shot Action Recognition</span><br>
+            <span style="font-size:16px"><span style="font-weight:normal">Yilun Zhang</span>, Yuqian Fu<span style="font-weight:normal">, Xingjun Ma, Lizhe Qi, Jingjing Chen, Yu-Gang Jiang</span></span><br>
+            <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2023.</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2308.07119.pdf">论文</a>]</span>
+    </th>
+  </tr> 
+</table>
 
 <table style="width:100%">
   <tr>
