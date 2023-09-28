@@ -13,7 +13,7 @@ Biography
 I am currectly a postdoc researcher at <a href="https://vision.ee.ethz.ch/">Computer Vision Lab (CVL)</a>, ETH Zürich,  Switzerland, working with Prof. <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html">Luc Van Gool</a>. I received my Ph.D. degree from School of Computer Science, Fudan University, China,  advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>, in June 2023. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, China, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>, in June 2018. 
 
 
-My research topics are computer vision and deep learning. I mainly focus on few-shot learning, especially cross-domain few-shot learning, and few-shot video action recognition. I am also open and willing to explore other 2D vision tasks, e.g., continual learning, prompt learning, domain adaptation/generalization. If you are interested in my topics, please do not hestitae to reach out. 
+My research topics are computer vision and deep learning. I mainly focus on few-shot learning, especially cross-domain few-shot learning, and few-shot video action recognition. I am also open and willing to explore other 2D vision tasks, e.g., continual learning, prompt learning, domain adaptation/generalization. <font color=red>If you are interested in my topics, please do not hestitae to reach out. </font>
 
 
 
