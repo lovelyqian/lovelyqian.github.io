@@ -13,7 +13,7 @@ redirect_from:
 
 <ul>
   <li>
-    <p><a href="">OntheImportanceofSpatialRelationsforFew-shot ActionRecognition</a><br />Yilun Zhang, <strong>Yuqian Fu</strong>, Xingjun Ma, Lizhe Qi, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2023.<br /> [<a href="https://arxiv.org/pdf/2308.07119.pdf">Paper</a>]</p>
+    <p><a href="">On the Importance of Spatial Relations for Few-shot Action Recognition</a><br />Yilun Zhang, <strong>Yuqian Fu</strong>, Xingjun Ma, Lizhe Qi, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2023.<br /> [<a href="https://arxiv.org/pdf/2308.07119.pdf">Paper</a>]</p>
   </li>
   <li>
     <p><a href="">StyleAdv: Meta Style Adversarial Training for Cross-Domain Few-Shot Learning</a><br /><strong>Yuqian Fu</strong>, Yu Xie, Yanwei Fu, Yu-Gang Jiang<br /> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023. <br /> [<a href="https://arxiv.org/pdf/2302.09309.pdf">Paper</a>][<a href="https://github.com/lovelyqian/StyleAdv-CDFSL">Code</a>][<a href="https://youtu.be/YB-S2YF22mc">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1th4y1s78H/?spm_id_from=333.999.0.0&vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili Video</a>]</p>
