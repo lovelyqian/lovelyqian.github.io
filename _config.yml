@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Yuqian Fu's Homepage"
+title                    : "Welcome to Yuqian Fu(傅宇倩)'s Homepage"
 title_separator          : "-"
-name                     : &name "Yuqian Fu (傅宇倩)"
+name                     : &name "Yuqian Fu"
 description              : &description "Yuqian Fu's Website"
 url                      : https://lovelyqian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -99,7 +99,7 @@ author:
   github           : "lovelyqian"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/yuqiannn98/"
+  instagram        : "yuqiannn98"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : 
   linkedin         :
