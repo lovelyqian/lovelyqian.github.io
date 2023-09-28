@@ -10,14 +10,21 @@ redirect_from:
 
 Biography
 ------
-I am currently a Ph.D. Candidate at <a href="https://fvl.fudan.edu.cn">FVL</a> Lab, Fudan University, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, Hangzhou, China, in 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>.
+I am currectly a postdoc researcher at <a href="https://vision.ee.ethz.ch/">Computer Vision Lab (CVL)</a>, ETH Zürich,  Switzerland, working with Prof. <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html">Luc Van Gool</a>. I received my Ph.D. degree from School of Computer Science, Fudan University, China,  advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>, in June 2023. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, China, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>, in June 2018. 
 
-My current research topics are computer vision and deep learning, and I am mainly focused on meta-learning, cross-domain few-shot learning, and few-shot video action recognition.
+My research topics are computer vision and deep learning with a primary focus on few-shot learning especially cross-domain few-shot learning, and few-shot video action recognition. I am also open and willing to explore other 2D vision tasks, e.g., continual learning, prompt learning, domain adaptation/generalization. If you are interested in my topics, please do not hestitae to reach out. 
 
+
+# I am currently a Ph.D. Candidate at <a href="https://fvl.fudan.edu.cn">FVL</a> Lab, Fudan University, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, Hangzhou, China, in 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>.
+
+# My current research topics are computer vision and deep learning, and I am mainly focused on few-shot learning especially cross-domain few-shot learning, and few-shot video action recognition. 
 
 News
 ------
 <ul>
+  <li>[09/2023] I joined CVL lab at ETH Zürich. </li>
+  <li>[07/2023] One paper is accepted by ACM MM 2023. </li>
+  <li>[06/2023] I have earned a doctoral degree. </li>
   <li>[04/2023] I have received 100 citations! </li>
   <li>[02/2023] One paper is accepted by CVPR2023. </li>
   <li>[10/2022] One paper is accepted by TIP. </li>
@@ -28,6 +35,7 @@ News
   <li>[07/2020] One paper is accepted by ACM MM 2020.</li>
   <li>[12/2019] I am awarded the Chinese National Scholarship.</li>
   <li>[07/2019] One paper is accepted by ACM MM 2019.</li>
+  <li>[07/2018] I joined FVL lab at Fudan University. </li>
 </ul>
 
 <!-- Selected Publications
