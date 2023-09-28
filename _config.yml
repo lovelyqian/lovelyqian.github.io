@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Welcome to Yuqian Fu's Homepage"
 title_separator          : "-"
-name                     : &name "Yuqian Fu"
+name                     : &name "Yuqian Fu (傅宇倩)"
 description              : &description "Yuqian Fu's Website"
 url                      : https://lovelyqian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yuqian Fu"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at Fudan University."
-  location         : "Shanghai"
+  bio              : "Postdoc"
+  location         : "Switzerland"
   employer         : #"Fudan University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=y3Bpp1IAAAAJ&hl=zh-CN"
@@ -99,9 +99,9 @@ author:
   github           : "lovelyqian"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        : "https://www.instagram.com/yuqiannn98/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  lastfm           : 
   linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
