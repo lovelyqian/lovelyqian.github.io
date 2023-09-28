@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ------
-* Ph.D: Fudan University (2018-)
+* Ph.D: Fudan University (2018-2023)
   * GPA: 3.7/4.0 (<strong>Top 1</strong>)
   * Computer Science and Technology
   * Computer Vision and Deep Learning,  especially Few-shot Video Action Recognition, and Cross-domain Few-shot Learning
@@ -23,8 +23,8 @@ Education
 
 Services and Leadership
 ------
-* Journal Reviewer：Information Fusion, TMM, TCSVT，TOMM，MVAP
-* Confence Reviewer：CVPR-2023, ICCV-2023, ACM MM-2023
+* Journal Reviewer：TNNLS, Information Fusion, TMM, TCSVT，TOMM，MVAP
+* Confence Reviewer：CVPR-2023, ICCV-2023, ACM MM-2023, WACV-2024
 * AAAI-2022 Program Committee (PC) Member
 * International Artificial Intelligence Fair (IAIF) 2021/2022 Judge
 * World Artificial Intelligence Conference (WAIC) 2021 Secretariat Member
@@ -46,6 +46,7 @@ Services and Leadership
 
 Awards
 ------
+* <strong>Outstanding Graduate</strong> in Shanghai (2023) 
 * <strong>Outstanding Student of Fudan University</strong> (2021) (<strong>Top 0.03%</strong>)
 * Graduate Chinese <strong>National Scholarship</strong> (2019) (<strong>Top 2%</strong>)
 * Chinese <strong>National Scholarship</strong> (2016, 2017) (<strong>Top 0.4%</strong>)
