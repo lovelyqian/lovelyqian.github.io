@@ -64,7 +64,7 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/framework-SACT.png" width="350"/>
+      <img src="../images/framework-SACT.jpg" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">On the Importance of Spatial Relations for Few-shot Action Recognition</span><br>
