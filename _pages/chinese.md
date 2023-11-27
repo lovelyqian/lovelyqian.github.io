@@ -13,6 +13,8 @@ redirect_from:
 
 教育背景
 ------
+* <strong>苏黎世联邦理工学院</strong> (2023-)
+  * 博士后
 * <strong>复旦大学</strong> (2018-2023)
   * 硕博连读生
   * GPA: 3.7/4.0 (<strong>专业第一</strong>)
@@ -27,9 +29,9 @@ redirect_from:
 
 学术任职
 ------
-* 期刊审稿人：TNNLS, Information Fusion, TMM，TCSVT，TOMM，MVAP
-* 会议审稿人：CVPR-2023，ICCV-2023，ACM MM-2023, WACV-2024
-* AAAI 2022 程序委员会成员（PC）
+* 期刊审稿人：IJCV, TIP, TNNLS, Information Fusion, TMM，TCSVT，TOMM，MVAP
+* 会议审稿人：CVPR-2023，ICCV-2023，ACM MM-2023, AAAI-2022, WACV-2024
+<!-- * AAAI 2022 程序委员会成员（PC）-->
 
 
 
