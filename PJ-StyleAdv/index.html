@@ -1,0 +1,228 @@
+
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>StyleAdv</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- <base href="/"> -->
+
+        <!--FACEBOOK-->
+    <meta property="og:image" content="https://jonbarron.info/mipnerf/img/rays_square.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="682">
+    <meta property="og:image:height" content="682">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://jonbarron.info/mipnerf/"/>
+    <meta property="og:title" content="mip-NeRF" />
+    <meta property="og:description" content="Project page for Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields." />
+
+        <!--TWITTER-->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="mip-NeRF" />
+    <meta name="twitter:description" content="Project page for Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields." />
+    <meta name="twitter:image" content="https://jonbarron.info/mipnerf/img/rays_square.png" />
+
+
+<!--     <link rel="apple-touch-icon" href="apple-touch-icon.png"> -->
+  <!-- <link rel="icon" type="image/png" href="img/seal_icon.png"> -->
+    <!-- Place favicon.ico in the root directory -->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.8.0/codemirror.min.css">
+    <link rel="stylesheet" href="css/app.css">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.8.0/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.3/clipboard.min.js"></script>
+    
+    <script src="js/app.js"></script>
+</head>
+
+<body>
+    <div class="container" id="main">
+        <div class="row">
+            <h2 class="col-md-12 text-center">
+                <b>StyleAdv: Meta Style Adversarial Training for Cross-Domain Few-Shot Learning</b> </br>
+                <small>
+                    CVPR 2023
+                </small>
+            </h2>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <ul class="list-inline">
+                    <li>
+                        <a href="http://yuqianfu.com/">
+                          Yuqian Fu
+                        </a>
+                        </br>Fudan 
+                    </li>
+                    <li>
+                        <a href="">
+                            Yu Xie
+                        </a>
+                        </br>Fudan 
+                    </li>
+                    <li>
+                        <a href="https://yanweifu.github.io/">
+                          Yanwei Fu
+                        </a>
+                        </br>Fudan 
+                    </li>
+                    <li>
+                        <a href="https://fvl.fudan.edu.cn/people/yugangjiang">
+                          Yu-Gang Jiang
+                        </a>
+                        </br>Fudan
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="row">
+                <div class="col-md-4 col-md-offset-4 text-center">
+                    <ul class="nav nav-pills nav-justified">
+                        <li>
+                            <a href="https://arxiv.org/pdf/2302.09309">
+                            <image src="img/paper_icon.png" height="60px">
+                                <h4><strong>Paper</strong></h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.bilibili.com/video/BV1th4y1s78H/?spm_id_from=333.999.0.0&vd_source=668a0bb77d7d7b855bde68ecea1232e7">
+                            <image src="img/bilibili_icon.png" height="60px">
+                                <h4><strong>Video</strong></h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://youtu.be/YB-S2YF22mc">
+                            <image src="img/youtube_icon.png" height="60px">
+                                <h4><strong>Video</strong></h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/lovelyqian/StyleAdv-CDFSL">
+                            <image src="img/github.png" height="60px">
+                                <h4><strong>Code</strong></h4>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+        </div>
+
+
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    <b>Abstract</b>
+                </h3>
+                <image src="img/abstract.png" class="img-responsive" alt="overview"><br>
+                <p class="text-justify">
+                    Cross-Domain Few-Shot Learning (CD-FSL) is a recently emerging task that tackles few-shot learning across different domains. It aims at transferring prior knowledge learned on the source dataset to novel target datasets. The CD-FSL task is especially challenged by the huge domain gap between different datasets. Critically, such a domain gap actually comes from the changes of visual styles, and wave-SAN empirically shows that spanning the style distribution of the source data helps alleviate this issue.
+                    However, wave-SAN simply swaps styles of two images. Such a vanilla operation makes the generated styles ``real'' and ``easy'', which still fall into the original set of the source styles.
+                    Thus, inspired by vanilla adversarial learning, a novel model-agnostic meta Style Adversarial training (StyleAdv) method together with a novel style adversarial attack method is proposed for CD-FSL. 
+                    Particularly, our style attack method synthesizes both ``virtual'' and ``hard'' adversarial styles for model training. This is achieved by perturbing the original style with the signed style gradients.
+                    By continually attacking styles and forcing the model to recognize these challenging adversarial styles, our model is gradually robust to the visual styles, thus boosting the generalization ability for novel target datasets.
+                    Besides the typical CNN-based backbone, we also employ our StyleAdv method on large-scale pretrained vision transformer. Extensive experiments conducted on eight various target datasets show the effectiveness of our method.  Whether built upon ResNet or ViT, we achieve the new state of the art for CD-FSL.
+                </p>
+            </div>
+        </div>
+            
+
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                   <b>StyleAdv Method</b>
+                </h3>
+                <p class="text-justify">
+                    StyleAdv solves CD-FSL via generating both "virtual" and "hard" styles.  Generally, we have two iterative loops: 
+                    <ul>
+                        <li>Inner loop: synthesizing new adversarial styles by attacking the original source styles; </li>
+                        <li>Outer loop: optimizing the whole network by classifying source images with both original and adversarial styles; </li>
+                    </ul>
+                    By interatively perform the inner loop and the outer loop, the generalization ability on various styles is improved. 
+                </p>
+                <p style="text-align:center;">
+                    <image src="img/styleAdv-framework.png" class="img-responsive" alt="scales">
+                </p>
+                <p class="text-justify">
+                   The details of how we achieve the style attack and apply StyleAdv on both ResNet and ViT backbones please see the paper.  
+                </p>
+            </div>
+        </div>
+            
+
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                <b>Results</b>
+                </h3>
+                <p class="text-justify">
+                    We conduct experiments on both RN10/ViT-small with eight target targets including ChestX, ISIC, EuroSAT, CropDisease, CUB, Cars, Places, and Plantae.  Both the results of StyleAdv (only meta-trained) and StyleAdv-FT (finetuned with few target support images) are reported. 
+                </p>  
+                <p style="text-align:center;">
+                    <image src="img/styleAdv-result.png" class="img-responsive" alt="scales">
+                </p>
+                <p class="text-justify">
+                   We also provide the visulization result. Note that wave-SAN is our former work for StyleAdv which also augments style but in a easier way.
+                </p> 
+                <p style="text-align:center;">
+                    <image src="img/styleAdv-vis.png" class="img-responsive" alt="scales">
+                </p> 
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    <b>Related Works</b>
+                </h3>
+                <p class="text-justify">
+                    <a href="https://github.com/lovelyqian/wave-SAN-CDFSL">Wave-SAN</a> is the former work that tackles CD-FSL via style augmentation.
+                </p>
+                <p class="text-justify">
+                    <a href="https://github.com/lovelyqian/Meta-FDMixup">Meta-FDMixup</a>, <a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Me-D2N</a>, and <a href="https://arxiv.org/abs/2210.05392">TGDM</a> are our works that address CD-FSL with few-labeled target examples.
+                </p>
+            </div>
+        </div>
+        
+            
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    <b>Citation</b>
+                </h3>
+                <div class="form-group col-md-10 col-md-offset-1">
+                    <textarea id="bibtex" class="form-control" readonly>
+@inproceedings{fu2023styleadv,
+    title={StyleAdv: Meta Style Adversarial Training for Cross-Domain Few-Shot
+           Learning},
+    author={Fu, Yuqian and Xie, Yu and Fu, Yanwei and Jiang, Yu-Gang},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and
+               Pattern Recognition},
+    pages={24575--24584},
+    year={2023}
+}
+</textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
