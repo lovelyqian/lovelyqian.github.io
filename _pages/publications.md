@@ -13,6 +13,9 @@ redirect_from:
 
 <ul>
   <li>
+    <p><a href="">Open-Vocabulary Video Relation Extraction</a><br />Wentao Tian, Zheng Wang, <strong>Yuqian Fu</strong>, Jingjing Chen, Lechao Cheng<br /> AAAI Conference on Artificial Intelligence  (<strong>AAAI</strong>), 2024.<br /> [<a href="https://arxiv.org/abs/2312.15670">Paper</a>]</p>
+  </li>
+  <li>
     <p><a href="">On the Importance of Spatial Relations for Few-shot Action Recognition</a><br />Yilun Zhang, <strong>Yuqian Fu</strong>, Xingjun Ma, Lizhe Qi, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2023.<br /> [<a href="https://arxiv.org/pdf/2308.07119.pdf">Paper</a>]</p>
   </li>
   <li>
@@ -28,7 +31,7 @@ redirect_from:
     <p><a href="">TGDM: Target Guided Dynamic Mixup for Cross-Domain Few-Shot Learning</a><br />Linhai Zhuo, <strong>Yuqian Fu</strong>, Jingjing Chen, Yixin Cao, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.<br /> [<a href="https://arxiv.org/pdf/2210.05392.pdf">Paper</a>]</p>
   </li>
   <li>
-    <p><a href="https://arxiv.org/abs/2203.07656">Wave-SAN: Wavelet based Style Augmentation Network for Cross-Domain Few-Shot Learning</a><br /> <strong>Yuqian Fu</strong>, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang<br /> arXiv preprint, 2022. <br /> [<a href="https://arxiv.org/pdf/2203.07656.pdf">Paper</a>]</p>
+    <p><a href="https://arxiv.org/abs/2203.07656">Wave-SAN: Wavelet based Style Augmentation Network for Cross-Domain Few-Shot Learning</a><br /> <strong>Yuqian Fu</strong>, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang<br /> arXiv preprint, 2022. <br /> [<a href="https://arxiv.org/pdf/2203.07656.pdf">Paper</a>][<a href="https://github.com/lovelyqian/wave-SAN-CDFSL">Code</a>]</p>
   </li>
   <li>
     <p><a href="https://arxiv.org/abs/2107.11978">Meta-FDMixup: Cross-Domain Few-Shot Learning Guided by Labeled Target Data</a><br /><strong>Yuqian Fu</strong>, Yanwei Fu, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2021. <br /> [<a href="https://arxiv.org/pdf/2107.11978.pdf">Paper</a>][<a href="https://github.com/lovelyqian/Meta-FDMixup">Code</a>][<a href="https://www.youtube.com/watch?v=G8Mlde4FpsU">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1xT4y1f7B6?spm_id_from=333.999.0.0&vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili Video</a>]</p>

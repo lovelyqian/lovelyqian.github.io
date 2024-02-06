@@ -29,8 +29,8 @@ redirect_from:
 
 学术任职
 ------
-* 期刊审稿人：IJCV, TIP, TNNLS, Information Fusion, TMM，TCSVT，TOMM，MVAP
-* 会议审稿人：CVPR-2023，ICCV-2023，ACM MM-2023, AAAI-2022, WACV-2024
+* 期刊审稿人：IJCV, TIP, TMLR， TNNLS, Information Fusion, TMM, TCSVT, Neurocomputing, TOMM, MVAP
+* 会议审稿人：CVPR（2023/24）, ECCV-2024， ICCV-2023, ACM MM（2023/24）, AAAI-2022, WACV-2024
 <!-- * AAAI 2022 程序委员会成员（PC）-->
 
 

@@ -12,6 +12,8 @@ redirect_from:
 
 Education
 ------
+* Postdoc: ETH Zürich (2023-)
+  * Research Interests: Few-Shot Learning, Domain Generalization, Open-Vocabulary Learning, Human Brain Reading
 * Ph.D: Fudan University (2018-2023)
   * GPA: 3.7/4.0 (<strong>Top 1</strong>)
   * Computer Science and Technology
@@ -23,8 +25,8 @@ Education
 
 Services and Leadership
 ------
-* Journal Reviewer：IJCV, TIP, TNNLS, Information Fusion, TMM, TCSVT，TOMM，MVAP
-* Confence Reviewer：CVPR-2023, ICCV-2023, ACM MM-2023, AAAI-2022, WACV-2024
+* Journal Reviewer：IJCV, TIP, TMLR， TNNLS, Information Fusion, TMM, TCSVT, Neurocomputing, TOMM, MVAP
+* Confence Reviewer：CVPR（2023/24）, ECCV-2024， ICCV-2023, ACM MM（2023/24）, AAAI-2022, WACV-2024
 <!-- * AAAI-2022 Program Committee (PC) Member -->
 * International Artificial Intelligence Fair (IAIF) 2021/2022 Judge
 * World Artificial Intelligence Conference (WAIC) 2021 Secretariat Member
