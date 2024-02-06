@@ -29,8 +29,8 @@ redirect_from:
 
 学术任职
 ------
-* 期刊审稿人：IJCV, TIP, TMLR， TNNLS, Information Fusion, TMM, TCSVT, Neurocomputing, TOMM, MVAP
-* 会议审稿人：CVPR（2023/24）, ECCV-2024， ICCV-2023, ACM MM（2023/24）, AAAI-2022, WACV-2024
+* 期刊审稿人：IJCV, TIP, TMLR, TNNLS, Information Fusion, TMM, TCSVT, Neurocomputing, TOMM, MVAP
+* 会议审稿人：CVPR(2023/24), ECCV-2024, ICCV-2023, ACM MM(2023/24), AAAI-2022, WACV-2024
 <!-- * AAAI 2022 程序委员会成员（PC）-->
 
 
@@ -63,6 +63,20 @@ redirect_from:
 
 科研工作
 ------
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/framework-OVRE.jpg" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Open-Vocabulary Video Relation Extraction</span><br>
+            <span style="font-size:16px"><span style="font-weight:normal">Wentao Tian</span>, Zheng Wang, Yuqian Fu<span style="font-weight:normal">, Jingjing Chen, Lechao Cheng</span></span><br>
+            <span style="font-weight:normal;font-size:16px">AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024.</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2312.15670">论文</a>]</span>
+    </th>
+  </tr> 
+</table>
+
 <table style="width:100%">
   <tr>
     <th width="30%">

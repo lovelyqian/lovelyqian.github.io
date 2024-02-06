@@ -25,8 +25,8 @@ Education
 
 Services and Leadership
 ------
-* Journal Reviewer：IJCV, TIP, TMLR， TNNLS, Information Fusion, TMM, TCSVT, Neurocomputing, TOMM, MVAP
-* Confence Reviewer：CVPR（2023/24）, ECCV-2024， ICCV-2023, ACM MM（2023/24）, AAAI-2022, WACV-2024
+* Journal Reviewer：IJCV, TIP, TMLR, TNNLS, Information Fusion, TMM, TCSVT, Neurocomputing, TOMM, MVAP
+* Confence Reviewer：CVPR(2023/24), ECCV-2024, ICCV-2023, ACM MM(2023/24), AAAI-2022, WACV-2024
 <!-- * AAAI-2022 Program Committee (PC) Member -->
 * International Artificial Intelligence Fair (IAIF) 2021/2022 Judge
 * World Artificial Intelligence Conference (WAIC) 2021 Secretariat Member
