@@ -1,0 +1,282 @@
+
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>AMeFu-Net</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- <base href="/"> -->
+
+        <!--FACEBOOK-->
+    <meta property="og:image" content="https://jonbarron.info/mipnerf/img/rays_square.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="682">
+    <meta property="og:image:height" content="682">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://jonbarron.info/mipnerf/"/>
+    <meta property="og:title" content="mip-NeRF" />
+    <meta property="og:description" content="Project page for Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields." />
+
+        <!--TWITTER-->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="mip-NeRF" />
+    <meta name="twitter:description" content="Project page for Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields." />
+    <meta name="twitter:image" content="https://jonbarron.info/mipnerf/img/rays_square.png" />
+
+
+<!--     <link rel="apple-touch-icon" href="apple-touch-icon.png"> -->
+  <!-- <link rel="icon" type="image/png" href="img/seal_icon.png"> -->
+    <!-- Place favicon.ico in the root directory -->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.8.0/codemirror.min.css">
+    <link rel="stylesheet" href="css/app.css">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.8.0/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.3/clipboard.min.js"></script>
+    
+    <script src="js/app.js"></script>
+</head>
+
+<body>
+    <div class="container" id="main">
+        <div class="row">
+            <h2 class="col-md-12 text-center">
+                <b>AMeFu-Net: Depth Guided Adaptive Meta-Fusion Network for Few-shot Video Recognition</b> </br>
+                <small>
+                    ACM MM 2020 (oral)
+                </small>
+            </h2>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <ul class="list-inline">
+                    <li>
+                        <a href="http://yuqianfu.com/">
+                          Yuqian Fu
+                        </a>
+                        </br>Fudan 
+                    </li>
+                    <li>
+                        <a href="https://lzrobots.github.io/">
+                          Li Zhang
+                        </a>
+                        </br>Oxford
+                    </li>
+                    <li>
+                        <a href="">
+                          Junke Wang
+                        </a>
+                        </br>Fudan
+                    </li>
+                    <li>
+                        <a href="https://yanweifu.github.io/">
+                          Yanwei Fu
+                        </a>
+                        </br>Fudan 
+                    </li>
+                    <li>
+                        <a href="https://fvl.fudan.edu.cn/people/yugangjiang">
+                          Yu-Gang Jiang
+                        </a>
+                        </br>Fudan
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="row">
+                <div class="col-md-4 col-md-offset-4 text-center">
+                    <ul class="nav nav-pills nav-justified">
+                        <li>
+                            <a href="https://arxiv.org/pdf/2010.09982.pdf">
+                            <image src="img/paper_icon.png" height="60px">
+                                <h4><strong>Paper</strong></h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.bilibili.com/video/BV1i44y1t78U?spm_id_from=333.999.0.0">
+                            <image src="img/bilibili_icon.png" height="60px">
+                                <h4><strong>Video</strong></h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/watch?v=KqNYuZD5xdw">
+                            <image src="img/youtube_icon.png" height="60px">
+                                <h4><strong>Video</strong></h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/lovelyqian/AMeFu-Net">
+                            <image src="img/github.png" height="60px">
+                                <h4><strong>Code</strong></h4>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+        </div>
+
+
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    <b>Abstract</b>
+                </h3>
+                <image src="img/abstract.png" class="img-responsive" alt="overview"><br>
+                <p class="text-justify">
+                    Humans can easily recognize actions with only a few examples given, while the existing video recognition models still heavily rely on the large-scale labeled data inputs. This observation has motivated an increasing interest in few-shot video action recognition, which aims at learning new actions with only very few labeled samples. In this paper, we propose a depth guided Adaptive Meta-Fusion Network for few-shot video recognition which is termed as AMeFu-Net. Concretely, we tackle the few-shot recognition problem from three aspects: firstly, we alleviate this extremely data-scarce problem by introducing depth information as a carrier of the scene, which will bring extra visual information to our model; secondly, we fuse the representation of original RGB clips with multiple non-strictly corresponding depth clips sampled by our temporal asynchronization augmentation mechanism, which synthesizes new instances at feature-level; thirdly, a novel Depth Guided Adaptive Instance Normalization (DGAdaIN) fusion module is proposed to fuse the two-stream modalities efficiently. Additionally, to better mimic the few-shot recognition process, our model is trained in the meta-learning way. Extensive experiments on several action recognition benchmarks demonstrate the effectiveness of our model.
+                </p> 
+            </div>
+        </div>
+            
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                   <b>Introdcution</b>
+                </h3>
+                <p class="text-justify">
+                   <b>Task:</b> few-shot video action recognition. 
+                </p>
+                <p class="text-justify">
+                   <b>Challenges:</b> labeled examples are limited; fsl in video is more complex than fsl in image.
+                </p>
+                <p class="text-justify">
+                   <b>Motivation:</b> explore how can multi modality especially the less explored depth helps in this problem.  
+                </p>
+            </div>
+        </div>
+            
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                   <b>AMeFu-Net Method</b>
+                </h3>
+                <p class="text-justify">
+                    <b>Main two insights:</b>
+                    <ol>
+                        <li><b>multi-modality fusion:</b> design a more advanced method to fuse the RGB and depth features rather than naively concating;</li>
+                        <li><b>temporal augmentation:</b> ultize the asynchronization between depth and RGB clips to augment videos temporally. </li>
+                    </ol>
+                    The multi-modality fusion results in our <b>novel depth guided adaptive fusion (DGAdaIN) module</b>, while the temporal augmentation results in our <b>temporal asynchronization augmentation</b> strategy.
+                </p>
+                <p class="text-justify">
+                    Our whole model is illustrated as: for each RGB clip, we will:
+                    <ol>
+                       <li>sample another depth clip with our temporal asynchronization sampling;</li>
+                       <li>gets the RGB frature map and depth feature map;</li>
+                       <li>use the DGAdaIN module to fuse the two features;</li>
+                       <li>train the FSL classifier by meta learning. </li>
+                    </ol>
+                </p>
+                <p style="text-align:center;">
+                    <image src="img/framework.png" class="img-responsive" alt="scales">
+                </p>
+                <p class="text-justify">
+                   Empirically, both the RGB feature extractor and the depth feature extractor are pretrained on its corresponding modality use the supervised classification tasks. 
+                </p>
+            
+                <p>
+                    For the novel DGAdaIN, we are inspired from the AdaIN which is a flagship work in style transfer.
+                    <p style="text-align:center;">
+                        <image src="img/module1.png" class="img-responsive" alt="scales">
+                    </p>
+                    Generally,
+                    <ul>
+                        <li>the AdaIN takes a content image I<sub>a</sub> and a style image I<sub>b</sub> as input, and transfers the style of I<sub>a</sub> towards the I<sub>b</sub> </li>
+                        <li> our DGAdaIN takes the rgb feature I<sub>rgb</sub> and the depth feature I<sub>d</sub> as input, and transfers the "style" of I<sub>rgb</sub> towards I<sub>d</sub> but making the new "style" learnable.</li>
+                    </ul>
+                </p>
+                
+                
+                <p>
+                    For the temporal asynchronization augmentation, we sample not strictly matched RGB and depth pairs to augment the fused feature.
+                </p>
+                <p style="text-align:center;">
+                    <image src="img/module2.png" class="img-responsive" alt="scales">
+                </p>
+            </div>
+        </div>
+            
+
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                <b>Results</b>
+                </h3>
+                <p class="text-justify">
+                    We compare with previous methods on Kinetics.  Also, we perform experiments on UCF101 and HMDB51 (results can be found in paper). 
+                </p>  
+                <p style="text-align:center;">
+                    <image src="img/result.png" class="img-responsive" alt="scales">
+                </p>
+                <p class="text-justify">
+                   We also provide the visulization result. Results show with depth guidance, the model recognize the key content better. </p> 
+                <p style="text-align:center;">
+                    <image src="img/vis.png" class="img-responsive" alt="scales">
+                </p> 
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    <b>Related Links</b>
+                </h3>
+                <p class="text-justify">
+                    <ul>
+                        <li> <a href="https://zhuanlan.zhihu.com/p/252748892">Chinese blog</a> of AMeFu-Net and other few-shot video action recognition works. </li>
+                        <li> We also have works explore the same task, namely <a href="https://github.com/lovelyqian/Embodied-One-Shot-Video-Recognition">Embodied Learning (ACM MM 20 oral)</a> and <a href="https://arxiv.org/pdf/2308.07119.pdf">SA-CT (ACM MM23)</a>. </li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+        
+            
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    <b>Citation</b>
+                </h3>
+                <div class="form-group col-md-10 col-md-offset-1">
+                    <textarea id="bibtex" class="form-control" readonly>
+@inproceedings{fu2021meta,
+    title={Meta-fdmixup: Cross-domain few-shot learning guided by labeled target data},
+    author={Fu, Yuqian and Fu, Yanwei and Jiang, Yu-Gang},
+    booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+    pages={5326--5334},
+    year={2021}
+  }
+
+@article{fu2022generalized,
+    title={Generalized meta-fdmixup: Cross-domain few-shot learning guided by labeled target data},
+    author={Fu, Yuqian and Fu, Yanwei and Chen, Jingjing and Jiang, Yu-Gang},
+    journal={IEEE Transactions on Image Processing},
+    volume={31},
+    pages={7078--7090},
+    year={2022},
+    publisher={IEEE}
+  }
+</textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

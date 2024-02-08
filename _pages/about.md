@@ -169,7 +169,7 @@ Publications
              <span style="font-size:18px">Depth Guided Adaptive Meta-Fusion Network for Few-shot Video Recognition</span><br>
             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Li Zhang, Junke Wang, Yanwei Fu, Yu-Gang Jiang</span></span><br>
             <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2020. (<strong>Oral</strong>)</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2010.09982.pdf">Paper</a>][<a href="https://github.com/lovelyqian/AMeFu-Net">Code</a>][<a href="https://www.youtube.com/watch?v=KqNYuZD5xdw">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1i44y1t78U?spm_id_from=333.999.0.0">Bilibili Video</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2010.09982.pdf">Paper</a>][<a href="https://github.com/lovelyqian/AMeFu-Net">Code</a>][<a href="https://www.youtube.com/watch?v=KqNYuZD5xdw">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1i44y1t78U?spm_id_from=333.999.0.0">Bilibili Video</a>][<a href="http://yuqianfu.com/PJ-AMeFuNet">Project Page</a>]</span>
     </th>
   </tr> 
 </table>
