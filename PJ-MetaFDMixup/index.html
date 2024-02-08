@@ -1,0 +1,298 @@
+
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>Meta-FDMixup</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- <base href="/"> -->
+
+        <!--FACEBOOK-->
+    <meta property="og:image" content="https://jonbarron.info/mipnerf/img/rays_square.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="682">
+    <meta property="og:image:height" content="682">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://jonbarron.info/mipnerf/"/>
+    <meta property="og:title" content="mip-NeRF" />
+    <meta property="og:description" content="Project page for Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields." />
+
+        <!--TWITTER-->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="mip-NeRF" />
+    <meta name="twitter:description" content="Project page for Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields." />
+    <meta name="twitter:image" content="https://jonbarron.info/mipnerf/img/rays_square.png" />
+
+
+<!--     <link rel="apple-touch-icon" href="apple-touch-icon.png"> -->
+  <!-- <link rel="icon" type="image/png" href="img/seal_icon.png"> -->
+    <!-- Place favicon.ico in the root directory -->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.8.0/codemirror.min.css">
+    <link rel="stylesheet" href="css/app.css">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.8.0/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.3/clipboard.min.js"></script>
+    
+    <script src="js/app.js"></script>
+</head>
+
+<body>
+    <div class="container" id="main">
+        <div class="row">
+            <h2 class="col-md-12 text-center">
+                <b>Meta-FDMixup: Cross-Domain Few-Shot Learning Guided by Labeled Target Data</b> </br>
+                <small>
+                    ACM MM 2023
+                </small>
+            </h2>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <ul class="list-inline">
+                    <li>
+                        <a href="http://yuqianfu.com/">
+                          Yuqian Fu
+                        </a>
+                        </br>Fudan 
+                    </li>
+                    <li>
+                        <a href="https://yanweifu.github.io/">
+                          Yanwei Fu
+                        </a>
+                        </br>Fudan 
+                    </li>
+                    <li>
+                        <a href="https://fvl.fudan.edu.cn/people/yugangjiang">
+                          Yu-Gang Jiang
+                        </a>
+                        </br>Fudan
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="row">
+                <div class="col-md-4 col-md-offset-4 text-center">
+                    <ul class="nav nav-pills nav-justified">
+                        <li>
+                            <a href="https://arxiv.org/pdf/2107.11978.pdf">
+                            <image src="img/paper_icon.png" height="60px">
+                                <h4><strong>Paper</strong></h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.bilibili.com/video/BV1xT4y1f7B6?spm_id_from=333.999.0.0&vd_source=668a0bb77d7d7b855bde68ecea1232e7">
+                            <image src="img/bilibili_icon.png" height="60px">
+                                <h4><strong>Video</strong></h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/watch?v=G8Mlde4FpsU">
+                            <image src="img/youtube_icon.png" height="60px">
+                                <h4><strong>Video</strong></h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/lovelyqian/Meta-FDMixup">
+                            <image src="img/github.png" height="60px">
+                                <h4><strong>Code</strong></h4>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+        </div>
+
+
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    <b>Abstract</b>
+                </h3>
+                <image src="img/abstract.png" class="img-responsive" alt="overview"><br>
+                <p class="text-justify">
+                    A recent study finds that existing few-shot learning methods, trained on the source domain, fail to generalize to the novel target domain when a domain gap is observed. This motivates the task of Cross-Domain Few-Shot Learning (CD-FSL). In this paper, we realize that the labeled target data in CD-FSL has not been leveraged in anyway to help the learning process. Thus, we advocate utilizing few labeled target data to 
+                    guide the model learning. Technically, a novel meta-FDMixup network is proposed. We tackle this problem mainly from two aspects. Firstly, to utilize the source and the newly introduced target data of two different class sets, a mixup module is re-proposed and integrated into the meta-learning mechanism. Secondly, a novel disentangle module together with a domain classifier is proposed to extract the
+                    disentangled domain-irrelevant and domain-specific features. These two modules together enable our model to narrow the domain gap thus generalizing well to the target datasets. Additionally, a detailed feasibility and pilot study is conducted to reflect the intuitive understanding of CD-FSL under our new setting. Experimental results show the effectiveness of our new setting and the proposed method.
+                </p> 
+            </div>
+        </div>
+            
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                   <b>CD-FSL with Few-Labeled Target Examples</b>
+                </h3>
+                <p class="text-justify">
+                    The most standard CD-FSL assumes there is a single source data and several novel target dataset with different domains. Models are required to train on the source data only and then transfers to the novel data.  Technically, CD-FSL intergrates the challenges of few-shot learning and domain generalization. 
+                </p>
+                <p class="text-justify">
+                    Facing such a challenginig task, though much efforts have been made to improve the single-source CD-FSL, the performance is still limited.  Thus, we advocate to learn CD-FSL with few-labeled examples from target domain. Specically, here comes the formulation of the new setting. 
+                </p>
+                <p style="text-align:center;">
+                    <image src="img/task-setting.png" class="img-responsive" alt="scales">
+                </p>
+                <p class="text-justify">
+                    For sepecific target dataset, we will divide it into disjoint target base and target novel. For target base, num_target labeled examples per class will be sampled to construct the auxiliary target training data, while the target novel will be kept as testing data. Note that: 
+                </p>
+                <p>
+                    <ul>
+                        <li>the class sets of the source training, auxiliary target training, and target novel testing are strictly disjoint, obeying the basic settiing of FSL; </li>
+                        <li>collecting few labeled examples is always feasible in real-world applications. We recomment num_target as 5 and use this setting for our main experiments; </li>
+                        <li>with small-regime data introduce, the performance of CD-FSL models could be improved obviously. </li>
+                    </ul>
+                </p>
+                <p style="text-align:center;">
+                    <image src="img/task-setting-exp.png" class="img-responsive" alt="scales">
+                </p>
+                As we said, to balance the cost and performance, we recommend num_target as 5. 
+            </div>
+        </div>
+            
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                   <b>Meta-FDMixup Method</b>
+                </h3>
+                <p class="text-justify">
+                    Main challenges to be solved: 
+                    <ol>
+                        <li>data imbalance: the number of examples for the source training and the auxiliary target training are extremly imbalanced i.e., 600:5 </li>
+                        <li>domain gap: the domain shift problem still exists. </li>
+                    </ol>
+                </p>
+                <p class="text-justify">
+                    Our Meta-FDMixup contains two stages:
+                    <ol>
+                        <li>pretraining stage: use the classical supervised classification learning task to learn a good feature extractor; </li>
+                        <li>meta-train stage: meta-train the meta-FDMixup model on source dataset and auxiliary target dataset with our novel meta-mixup module and feature disentangle module. </li>
+                    </ol>
+                </p>
+                <p style="text-align:center;">
+                    <image src="img/framework.png" class="img-responsive" alt="scales">
+                </p>
+
+                <p class="text-justify">
+                   Only source data is used for pretraining, while in the meta-train stage, a source episode and a auxiliary target episide are randomly sampled from the source and target datasets, respectively.
+                 </p>
+            
+                <p>
+                    For the novel meta-mixup, we: 
+                    <ol>
+                        <li>mixup the query images of the source episode and the auxiliary target episode with ratio &lambda; while keep their support images unchanged. </li>
+                        <li>classify the mixed query to source support with confidence score as &lambda; and to target support with confidence score as (1-&lambda;). </li>
+                    </ol>
+                </p>
+                <p style="text-align:center;">
+                    <image src="img/mixup.png" class="img-responsive" alt="scales">
+                </p>
+                
+                <p>
+                    For the novel feature disentange module, we: 
+                    <ol>
+                        <li>design two branches to extract the domain-irrelevant and domain-specific features from the whole visual features. </li>
+                        <li>perform domain classification tasks i.e. domain-specific features should be classied into its corresponding domain while domain-irrelevant features shoule confuse the domain classifier. </li>
+                    </ol>
+                </p>
+                <p style="text-align:center;">
+                    <image src="img/fd.png" class="img-responsive" alt="scales">
+                </p>
+                <p class="text-justify">
+                   The details of how we achieve the meta-mixup, the feature distentange, and pretrain/meta-train the network please refer to our <a href="https://arxiv.org/pdf/2107.11978.pdf">paper</a>. 
+                </p>
+            </div>
+        </div>
+            
+
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                <b>Results</b>
+                </h3>
+                <p class="text-justify">
+                    We take mini-ImageNet as source, and conduct experiments on CUB, Cars, Places, and Plantae.   
+                </p>  
+                <p style="text-align:center;">
+                    <image src="img/result.png" class="img-responsive" alt="scales">
+                </p>
+                <p class="text-justify">
+                   We also provide the visulization result. We highlight that with the help of auxiliary target data and our method, we are able to adjust the models' attention to more important areas. 
+                </p> 
+                <p style="text-align:center;">
+                    <image src="img/vis-1.png" class="img-responsive" alt="scales">
+                </p> 
+                <p class="text-justify">
+                   This figure shows that we do disentangle the domain-irrelevant and domain-specific features.  [Fig is taken from our extension work <a href="https://www.semanticscholar.org/reader/505e4766795ec2d117d8dfb07d5911b429eb3178">GMeta-FDMixup(TIP)</a> .]
+                </p> 
+                 <p style="text-align:center;">
+                     <image src="img/vis-2.png" class="img-responsive" alt="scales">
+                 </p> 
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    <b>Related Links</b>
+                </h3>
+                <p class="text-justify">
+                    <ul>
+                        <li> <a href="https://zhuanlan.zhihu.com/p/443240482">Chinese blog of Meta-FDMixup</a> </li>
+                        <li> Entention of Meta-FDMixup: <a href="https://ieeexplore.ieee.org/abstract/document/9942934">GMeta-FDMixup (TIP)</a>.  We enhance the pretrain stage, conduct more exps on ChestX, EuorSAT, CropDisease, and ISIC, and provide more results. </li>
+                        <li> Based on Meta-FDMixup, we have follow-up works including <a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Me-D2N (ACM MM22)</a>,<a href="https://arxiv.org/abs/2210.05392">TGDM (ACM MM22)</a> addressing CD-FSL with few-labeled target examples.</li>
+                        <li> We also have works explore single-source CD-FSL, <a href="https://github.com/lovelyqian/wave-SAN-CDFSL">wave-SAN</a> and <a href="http://yuqianfu.com/PJ-StyleAdv/">StyleAdv (CVPR23)</a>. </li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+        
+            
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    <b>Citation</b>
+                </h3>
+                <div class="form-group col-md-10 col-md-offset-1">
+                    <textarea id="bibtex" class="form-control" readonly>
+@inproceedings{fu2021meta,
+    title={Meta-fdmixup: Cross-domain few-shot learning guided by labeled target data},
+    author={Fu, Yuqian and Fu, Yanwei and Jiang, Yu-Gang},
+    booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+    pages={5326--5334},
+    year={2021}
+  }
+
+@article{fu2022generalized,
+    title={Generalized meta-fdmixup: Cross-domain few-shot learning guided by labeled target data},
+    author={Fu, Yuqian and Fu, Yanwei and Chen, Jingjing and Jiang, Yu-Gang},
+    journal={IEEE Transactions on Image Processing},
+    volume={31},
+    pages={7078--7090},
+    year={2022},
+    publisher={IEEE}
+  }
+</textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

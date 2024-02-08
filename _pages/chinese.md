@@ -100,7 +100,7 @@ redirect_from:
             <span style="font-size:18px">StyleAdv: Meta Style Adversarial Training for Cross-Domain Few-Shot Learning</span><br>
             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yu Xie, Yanwei Fu, Yu-Gang Jiang</span></span><br>
              <span style="font-weight:normal;font-size:16px">IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.09309.pdf">Paper</a>][<a href="https://github.com/lovelyqian/StyleAdv-CDFSL">Code</a>][<a href="https://youtu.be/YB-S2YF22mc">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV1th4y1s78H/?spm_id_from=333.999.0.0&vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili Video</a>][<a href="http://yuqianfu.com/PJ-StyleAdv">Project Page</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.09309.pdf">论文</a>][<a href="https://github.com/lovelyqian/StyleAdv-CDFSL">代码</a>][<a href="https://youtu.be/YB-S2YF22mc">Youtube视频</a>][<a href="https://www.bilibili.com/video/BV1th4y1s78H/?spm_id_from=333.999.0.0&vd_source=668a0bb77d7d7b855bde68ecea1232e7">B站视频</a>][<a href="http://yuqianfu.com/PJ-StyleAdv">项目主页</a>]</span>
     </th>
   </tr> 
 </table>
@@ -172,7 +172,7 @@ redirect_from:
             <span style="font-size:18px">Meta-FDMixup: Cross-Domain Few-Shot Learning Guided by Labeled Target Data</span><br>
             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yanwei Fu, Yu-Gang Jiang</span></span><br>
             <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2021.</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2107.11978.pdf">论文</a>][<a href="https://github.com/lovelyqian/Meta-FDMixup">代码</a>][<a href="https://www.youtube.com/watch?v=G8Mlde4FpsU">Youtube视频</a>][<a href="https://www.bilibili.com/video/BV1xT4y1f7B6?spm_id_from=333.999.0.0&vd_source=668a0bb77d7d7b855bde68ecea1232e7">B站视频</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2107.11978.pdf">论文</a>][<a href="https://github.com/lovelyqian/Meta-FDMixup">代码</a>][<a href="https://www.youtube.com/watch?v=G8Mlde4FpsU">Youtube视频</a>][<a href="https://www.bilibili.com/video/BV1xT4y1f7B6?spm_id_from=333.999.0.0&vd_source=668a0bb77d7d7b855bde68ecea1232e7">B站视频</a>][<a href="http://yuqianfu.com/PJ-MetaFDMixup">项目主页</a>]</span>
     </th>
   </tr> 
 </table>
