@@ -17,8 +17,7 @@ I received my Ph.D. degree from School of Computer Science, Fudan University, Ch
 
 My research topics are computer vision and deep learning. I mainly focus on few-shot learning and cross domain issues, especially cross-domain few-shot learning, and few-shot video action recognition during my Ph.D period.  Currently, I am also exploring multimodal approaches e.g., grounding and multi-sensor fusion. 
 
-<strong>Recently, I have several <p><font color="red">open positions</font></p> for visiting/master/PhD in INSAIT especially for multimodal related tasks. If your are interested in joining or remotely working with us, feel free to drop an email to me: yuqian.fu@insait.ai. </strong>
-<strong>.</strong>
+Recently, I have <strong>several <font color="red">open positions</font> for visiting/master/PhD in INSAIT especially for multimodal related tasks.</strong> If your are interested in joining or remotely working with us, feel free to drop an email to me: yuqian.fu@insait.ai. 
 
 
 
