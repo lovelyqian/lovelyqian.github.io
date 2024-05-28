@@ -10,10 +10,15 @@ redirect_from:
 
 Biography
 ------
-I am currectly a postdoc researcher at <a href="https://vision.ee.ethz.ch/">Computer Vision Lab (CVL)</a>, ETH Zürich,  Switzerland, working with Prof. <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html">Luc Van Gool</a>. I received my Ph.D. degree from School of Computer Science, Fudan University, China,  advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>, in June 2023. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, China, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>, in June 2018. 
+I am currectly a postdoc researcher at <a href="https://insait.ai/">INSAIT</a>, Sofia, Bulgaria, working with Prof. <a href="https://insait.ai/prof-luc-van-gool/">Luc Van Gool</a> and Dr. <a href="https://insait.ai/dr-danda-paudel/">Danda Paudel</a>. Previously, I was a postdoc researcher at <a href="https://vision.ee.ethz.ch/">Computer Vision Lab (CVL)</a>, ETH Zürich,  Switzerland, , where I was also fortunate to be mentored by Prof. <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html">Luc Van Gool</a>. 
+
+I received my Ph.D. degree from School of Computer Science, Fudan University, China,  in June 2023, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a> and co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>. During my Ph.D studies, I also worked closely with Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, China, , in June 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>.
 
 
-My research topics are computer vision and deep learning. I mainly focus on few-shot learning, especially cross-domain few-shot learning, and few-shot video action recognition. I am also open and willing to explore other 2D vision tasks, e.g., continual learning, prompt learning, domain adaptation/generalization. <strong>If you are interested in my topics, please do not hestitae to reach out.</strong>
+My research topics are computer vision and deep learning. I mainly focus on few-shot learning and cross domain issues, especially cross-domain few-shot learning, and few-shot video action recognition during my Ph.D period.  Currently, I am also exploring multimodal approaches e.g., grounding and multi-sensor fusion. 
+
+<strong>Recently, I have several <p><font color="red">open positions</font></p> for visiting/master/PhD in INSAIT especially for multimodal related tasks. If your are interested in joining or remotely working with us, feel free to drop an email to me: yuqian.fu@insait.ai. </strong>
+<strong>.</strong>
 
 
 
@@ -23,6 +28,8 @@ My research topics are computer vision and deep learning. I mainly focus on few-
 News
 ------
 <ul>
+  <li>[04/2024] I joined INSAIT as a postdoc researcher. </li>
+  <li>[12/2023] One paper is accepted by AAAI2024. </li>
   <li>[09/2023] I joined CVL lab at ETH Zürich. </li>
   <li>[07/2023] One paper is accepted by ACM MM 2023. </li>
   <li>[06/2023] I have earned a doctoral degree. </li>
@@ -52,7 +59,7 @@ News
 
 </div> -->
 
-Publications
+Selected Publications
 ------
 <table style="width:100%">
   <tr>
