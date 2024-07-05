@@ -20,13 +20,13 @@ My research topics are computer vision and deep learning. I mainly focus on few-
 Recently, I have <strong>several <font color="red">open positions</font> for visiting/master/PhD in INSAIT especially for multimodal related tasks.</strong> If you are interested in joining or remotely working with us, feel free to drop an email to me: yuqian.fu@insait.ai. 
 
 
-
  <!--I am currently a Ph.D. Candidate at <a href="https://fvl.fudan.edu.cn">FVL</a> Lab, Fudan University, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, Hangzhou, China, in 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>. My current research topics are computer vision and deep learning, and I am mainly focused on few-shot learning especially cross-domain few-shot learning, and few-shot video action recognition.--> 
   
 
 News
 ------
 <ul>
+  <li>[07/2024] Two papers are accepted by ECCV2024. </li>
   <li>[04/2024] I joined INSAIT as a postdoc researcher. </li>
   <li>[12/2023] One paper is accepted by AAAI2024. </li>
   <li>[09/2023] I joined CVL lab at ETH Zürich. </li>
