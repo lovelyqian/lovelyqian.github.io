@@ -17,7 +17,7 @@ redirect_from:
     <br /> [<a href="https://arxiv.org/pdf/2402.03094">Paper</a>][<a href="https://github.com/lovelyqian/CDFSOD-benchmark">Code</a>][<a href="http://yuqianfu.com/CDFSOD-benchmark">Project Page</a>]</p>
   </li>
   <li>
-    <p><a href="">MinD-3D: Reconstruct High-quality 3D objects in Human Brain</a><br />Jianxiong Gao, <strong>Yuqian Fu</strong>, Yun Wang, Xuelin Qian, Jianfeng Feng, and Yanwei Fu <br/> The European Conference on Computer Vision (<strong>ECCV</strong>), 2024.<br /> [<a href="https://arxiv.org/abs/2312.07485">Paper</a>][<a href="https://huggingface.co/datasets/Fudan-fMRI/fMRI-Shape">Code</a>][<a href="https://jianxgao.github.io/MinD-3D">Project Page</a>]</p>
+    <p><a href="">MinD-3D: Reconstruct High-quality 3D objects in Human Brain</a><br />Jianxiong Gao, <strong>Yuqian Fu</strong>, Yun Wang, Xuelin Qian, Jianfeng Feng, Yanwei Fu <br/> The European Conference on Computer Vision (<strong>ECCV</strong>), 2024.<br /> [<a href="https://arxiv.org/abs/2312.07485">Paper</a>][<a href="https://huggingface.co/datasets/Fudan-fMRI/fMRI-Shape">Code</a>][<a href="https://jianxgao.github.io/MinD-3D">Project Page</a>]</p>
   </li>
   <li>
     <p><a href="">Open-Vocabulary Video Relation Extraction</a><br />Wentao Tian, Zheng Wang, <strong>Yuqian Fu</strong>, Jingjing Chen, Lechao Cheng<br /> AAAI Conference on Artificial Intelligence  (<strong>AAAI</strong>), 2024.<br /> [<a href="https://arxiv.org/abs/2312.15670">Paper</a>]</p>
