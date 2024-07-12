@@ -66,7 +66,7 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../images/cdfsod-framework.jpg" width="350"/>
+      <img src="../images/cdfsod-benchmark.jpg" width="350"/>
     </th>
       <th style="text-align:left" width="70%">
             <span style="font-size:18px">Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector</span><br>
