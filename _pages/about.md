@@ -26,9 +26,9 @@ Recently, I have <strong>several <font color="red">open positions</font> for vis
 News
 ------
 <ul>
-  <li>[07/2024] Two papers are accepted by ECCV2024. </li>
+  <li>[07/2024] Two papers are accepted by ECCV2024. Congrats to Jianxiong, Yu, and Yixuan.</li>
   <li>[04/2024] I joined INSAIT as a postdoc researcher. </li>
-  <li>[12/2023] One paper is accepted by AAAI2024. </li>
+  <li>[12/2023] One paper is accepted by AAAI2024. Congrats to Wentao.</li>
   <li>[09/2023] I joined CVL lab at ETH Zürich. </li>
   <li>[07/2023] One paper is accepted by ACM MM 2023. </li>
   <li>[06/2023] I have earned a doctoral degree. </li>
@@ -60,6 +60,20 @@ News
 
 Selected Publications
 ------
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/cdfsod-benchmark.jpg" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector</span><br>
+            <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yu Wang, Yixuan Pan, Lian Huai, Xingyu Qiu, Zeyu Shangguan, Tong Liu, Yanwei Fu, Luc Van Gool, Xingqun Jiang</span></span><br>
+             <span style="font-weight:normal;font-size:16px">The European Conference on Computer Vision (<strong>ECCV</strong>), 2024</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2402.03094">Paper</a>][<a href="https://github.com/lovelyqian/CDFSOD-benchmark">Code</a>][<a href="http://yuqianfu.com/CDFSOD-benchmark">Project Page</a>]</span>
+    </th>
+  </tr> 
+</table>
+
 <table style="width:100%">
   <tr>
     <th width="30%">

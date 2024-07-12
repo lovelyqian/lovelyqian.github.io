@@ -66,11 +66,41 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <th width="30%">
+      <img src="../images/cdfsod-framework.jpg" width="350"/>
+    </th>
+      <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector</span><br>
+            <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yu Wang, Yixuan Pan, Lian Huai, Xingyu Qiu, Zeyu Shangguan, Tong Liu, Yanwei Fu, Luc Van Gool, Xingqun Jiang</span></span><br>
+             <span style="font-weight:normal;font-size:16px">The European Conference on Computer Vision (<strong>ECCV</strong>), 2024</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2402.03094">论文</a>][<a href="https://github.com/lovelyqian/CDFSOD-benchmark">代码</a>][<a href="http://yuqianfu.com/CDFSOD-benchmark">项目主页</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/mind3d.jpg" width="350"/>
+    </th>
+      <th style="text-align:left" width="70%">
+            <span style="font-size:18px">MinD-3D: Reconstruct High-quality 3D objects
+in Human Brain</span><br>
+            Jianxiong Gao, <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yun Wang, Xuelin Qian, Jianfeng Feng, Yanwei Fu</span></span><br>
+             <span style="font-weight:normal;font-size:16px">The European Conference on Computer Vision (<strong>ECCV</strong>), 2024</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2312.07485">论文</a>][<a href="https://huggingface.co/datasets/Fudan-fMRI/fMRI-Shape">代码</a>][<a href="https://jianxgao.github.io/MinD-3D">项目主页</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
       <img src="../images/framework-OVRE.jpg" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">Open-Vocabulary Video Relation Extraction</span><br>
-            <span style="font-size:16px"><span style="font-weight:normal">Wentao Tian</span>, Zheng Wang, Yuqian Fu<span style="font-weight:normal">, Jingjing Chen, Lechao Cheng</span></span><br>
+            <span style="font-size:16px"><span style="font-weight:normal">Wentao Tian, Zheng Wang, </span> Yuqian Fu<span style="font-weight:normal">, Jingjing Chen, Lechao Cheng</span></span><br>
             <span style="font-weight:normal;font-size:16px">AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024.</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2312.15670">论文</a>]</span>
     </th>
