@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="UnrealAction Dataset">
+  <title>UnrealAction Dataset</title>
+
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script> -->
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+<!--  <link rel="icon" href="./static/images/favicon.svg">-->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="https://lovelyqian.github.io/">
+      <span class="icon">
+          <i class="fas fa-home"></i>
+      </span>
+      </a>
+    </div>
+
+  </div>
+</nav>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title"> UnrealAction Dataset</h1>
+        
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <span class="link-block">
+                <a href="https://drive.google.com/file/d/15HFCSZk7I9VWJklpymPTPin5mdakin5H/view?usp=sharing"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class=""></i>
+                  </span>
+                  <span>Google Drive Download</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://github.com/lovelyqian/CDFSOD-benchmark"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class=""></i>
+                  </span>
+                  <span>百 度 网 盘 下 载 链 接</span>
+                  </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <div class="content has-text-justified">
+            <center>
+            <img src="./imgs/dataset.png" width="95%"/>
+            </center>
+            <p>
+            <b>UnrealAction dataset:</b> with 14 atom actions, for each one, we have 100 virtual videos and 10 real videos. 
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">What is UnrealAction?</h2>
+        <div class="content has-text-justified">
+          <p>
+          <b><font color=#2980B9>UnrealAction</font></b> is a <b><font color=#2980B9> dataset that contains the videos generated from embodied agents</font></b>. Since the generated videos looks largely different from the realworld ones, we term this dataset as "UnrealAction".
+          As shown in the above figure, UnrealAction has <font color=#2980B9><b>14</b></font> actions classes, and each action class has <font color=#2980B9><b>100</b></font> videos from the <font color=#2980B9><b>virtual</b></font> domainand <font color=#2980B9><b>10</b></font> videos from the <font color=#2980B9><b>realworld</b></font> domain. </em>  </li>
+          <ol>
+            <li> <em></em><b>Virtual: </b> actions of the agent captured by virtual cameras in Unreal Engine 4. </em>  </li>
+            <li> <em></em><b>Realworld: </b> videos from Youtube and published datasets: UCF101, and Kinetics. </em>  </li>
+          </ol>
+          <b>Action Classes:</b>  jazz dancing, samba dancing, break dancing, house dancing, ymca dancing, capoeira, chicken dance, bow, clapping, holding a baby, saluting, show bicep, throwing, waving hand.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Examples of Virtual Videos</h2>
+        <div class="content has-text-justified">
+          <p>
+            <table><tr>
+            <td align="center"><img src="./imgs/1.gif" alt="GIF Image"></td>
+            <td align="center"><img src="./imgs/2.gif" alt="GIF Image"></td>
+            </tr>
+            <tr>
+              <td align="center"> waving hand </td>
+              <td align="center"> throwing </td>
+            </tr>
+            </table>
+            <table><tr>
+              <td align="center"><img src="./imgs/3.gif" alt="GIF Image"></td>
+              <td align="center"><img src="./imgs/4.gif" alt="GIF Image"></td>
+              </tr>
+              <tr>
+                <td align="center"> saluting </td>
+                <td align="center"> break dancing </td>
+              </tr>
+            </table>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+ 
+</section>
+
+
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">More Information</h2>
+        <div class="content has-text-justified">
+          <p>
+            <b><h3> >> How we create this dataset?</h3></b>
+            We take advantage of <b><font color=#2980B9>Unreal Engine 4</font></b>, a popular game engine, to build our simulator. Unreal Engine 4 provides Blueprint, a visual script, to control the virtual world.
+            <center>
+              <img src="./imgs/produce.png" width="95%"/>
+            </center>
+            As shown in the figure, our simulator is mainly composed of <font color=#2980B9><b>several agents</b></font> and <font color=#2980B9><b>virtual environments</b></font>. Generally, we first let the agentes to perform <font color=#2980B9><b>actions</b></font> in the virtual enviroments, and then record the actions of the agent by virtual cameras. 
+            We use BluePrint to define the actions of the agent, the motion of the virtual camera, and the reaction of the environment. Specifically, 
+            <ul> 
+              <li> <b><font color=#2980B9>Enviroments:</font></b> We take several game maps as our environment.  The game maps include indoor scenes, urban scenes, and natural scenes. </li>
+              <li> <b><font color=#2980B9>Agents:</font></b> We collect tens of character models as alternative appearances of our agent. The agents are in different clothes, hairstyles, genders, and races. They also have skeletons, which enable the characters to perform skeletal animations. </li>
+              <li> <b><font color=#2980B9>Actions:</font></b> We collect 14 action classes of animations, all of the actions are atom i.e, perform one well-defined action.   We make these animations compatible with all of our agent skeletons. Therefore, all the characters can perform all the actions. </li>
+            </ul>
+          </p>
+
+          <p>  
+          <b><h3> >> Dataset Folders</h3></b>
+          Once you download our dataset from <a href="https://drive.google.com/file/d/15HFCSZk7I9VWJklpymPTPin5mdakin5H/view?usp=sharing">Google Drive</a> or <a href="https://pan.baidu.com/s/1zYtfCpLR2iPcp5kHtsWQ5w?pwd=5ff7">百度云盘</a>, you will see these sub folders:
+            <ul> 
+              <li> <b><font color=#2980B9>DatasetInfo:</font></b> It contains the "ClassInd.txt", "RealVideoList.text", and "VirtualVideoList.txt". </li>
+              <li> <b><font color=#2980B9>RealVideos:</font></b> It contains 14 sub folders, each is named by the action class with 10 videos. </li>
+              <li> <b><font color=#2980B9>VirtualVideos:</font></b> It contains 14 sub folders, each is named by the action class with 100 videos. </li>
+            </ul>
+          </p> 
+        </div>
+      </div>
+    </div>
+  </div>
+ 
+</section>
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">What tasks can be performed using this dataset?</h2>
+        <div class="content has-text-justified">
+          <p>
+            The UnrealAction dataset is characterized by its <b><font color=#2980B9>virtual action videos</b></font> generated by embodied agents, as well as the unique design of <b><font color=#2980B9>atomic actions</b></font> within the videos. 
+            Thus, we suppose it could be useful as a testbed for: 
+          </p>
+          <ul> 
+            <li> <b><font color=#2980B9>cross-domain</font> related video tasks;</b></li>
+            <li> <b><font color=#2980B9>fine-grained</font> ralted video tasks;</b></li>
+            <li> ... </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">Citation</h2>
+    <b>This dataset is proposed in our paper <a href="https://www.cs.cmu.edu/~yuxiongw/research/Embodied_One-Shot_Video_Recognition_Learning_from_Actions_of_a_Virtual_Embodied_Agent.pdf">Embodied one-shot video recognition: Learning from actions of a virtual embodied agent</a>, if you use this dataset, please cite it.</b>   <br><br>
+<br>
+    <pre><code>
+      @inproceedings{fu2019embodied,
+        title={Embodied one-shot video recognition: Learning from actions of a virtual embodied agent},
+        author={Fu, Yuqian and Wang, Chengrong and Fu, Yanwei and Wang, Yu-Xiong and Bai, Cong and Xue, Xiangyang and Jiang, Yu-Gang},
+        booktitle={Proceedings of the 27th ACM international conference on multimedia},
+        pages={411--419},
+        year={2019}
+      }
+    </code></pre>
+  </div>
+</section>
+
+</body>
+</html>

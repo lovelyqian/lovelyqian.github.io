@@ -26,6 +26,7 @@ Recently, I have <strong>several <font color="red">open positions</font> for vis
 News
 ------
 <ul>
+  <li>[07/2024] We have relaunched the [<a href="http://yuqianfu.com/UnrealAction-Dataset">UnrealAction</a>] dataset. </li>
   <li>[07/2024] Two papers are accepted by ECCV2024. Congrats to Jianxiong, Yu, and Yixuan.</li>
   <li>[04/2024] I joined INSAIT as a postdoc researcher. </li>
   <li>[12/2023] One paper is accepted by AAAI2024. Congrats to Wentao.</li>
@@ -204,7 +205,7 @@ Selected Publications
             <span style="font-size:18px">Embodied One-Shot Video Recognition: Learning from Actions of a Virtual Embodied Agent</span><br>
             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Chengrong Wang, Yanwei Fu, Yu-Xiong Wang, Cong Bai, Xiangyang Xue, Yu-Gang Jiang</span></span><br>
             <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2019. (<strong>Oral</strong>)</span><br>
-            <span style="font-weight:normal;font-size:16px"> [<a href="http://www.cs.cmu.edu/~yuxiongw/research/Embodied_One-Shot_Video_Recognition_Learning_from_Actions_of_a_Virtual_Embodied_Agent.pdf">Paper</a>][<a href="https://github.com/lovelyqian/Embodied-One-Shot-Video-Recognition">Code</a>][<a href="http://www.sdspeople.fudan.edu.cn/fuyanwei/dataset/UnrealAction/">UnrealAction Dataset</a>]</span>
+            <span style="font-weight:normal;font-size:16px"> [<a href="http://www.cs.cmu.edu/~yuxiongw/research/Embodied_One-Shot_Video_Recognition_Learning_from_Actions_of_a_Virtual_Embodied_Agent.pdf">Paper</a>][<a href="https://github.com/lovelyqian/Embodied-One-Shot-Video-Recognition">Code</a>][<a href="http://yuqianfu.com/UnrealAction-Dataset">UnrealAction Dataset</a>]</span>
     </th>
   </tr> 
 </table>

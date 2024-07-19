@@ -248,7 +248,7 @@ in Human Brain</span><br>
             <span style="font-size:18px">Embodied One-Shot Video Recognition: Learning from Actions of a Virtual Embodied Agent</span><br>
             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Chengrong Wang, Yanwei Fu, Yu-Xiong Wang, Cong Bai, Xiangyang Xue, Yu-Gang Jiang</span></span><br>
             <span style="font-weight:normal;font-size:16px">ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2019. (<strong>Oral</strong>)</span><br>
-            <span style="font-weight:normal;font-size:16px"> [<a href="http://www.cs.cmu.edu/~yuxiongw/research/Embodied_One-Shot_Video_Recognition_Learning_from_Actions_of_a_Virtual_Embodied_Agent.pdf">论文</a>][<a href="https://github.com/lovelyqian/Embodied-One-Shot-Video-Recognition">代码</a>][<a href="http://www.sdspeople.fudan.edu.cn/fuyanwei/dataset/UnrealAction/">UnrealAction数据集</a>]</span>
+            <span style="font-weight:normal;font-size:16px"> [<a href="http://www.cs.cmu.edu/~yuxiongw/research/Embodied_One-Shot_Video_Recognition_Learning_from_Actions_of_a_Virtual_Embodied_Agent.pdf">论文</a>][<a href="https://github.com/lovelyqian/Embodied-One-Shot-Video-Recognition">代码</a>][<a href="http://yuqianfu.com/UnrealAction-Dataset">UnrealAction数据集</a>]</span>
     </th>
   </tr> 
 </table>
