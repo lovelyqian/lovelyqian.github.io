@@ -26,7 +26,7 @@ Recently, I have <strong>several <font color="red">open positions</font> for vis
 News
 ------
 <ul>
-  <li>[07/2024] We have relaunched the [<a href="http://yuqianfu.com/UnrealAction-Dataset">UnrealAction</a>] dataset. </li>
+  <li>[07/2024] We have relaunched the <a href="http://yuqianfu.com/UnrealAction-Dataset">UnrealAction</a> dataset. </li>
   <li>[07/2024] Two papers are accepted by ECCV2024. Congrats to Jianxiong, Yu, and Yixuan.</li>
   <li>[04/2024] I joined INSAIT as a postdoc researcher. </li>
   <li>[12/2023] One paper is accepted by AAAI2024. Congrats to Wentao.</li>
