@@ -72,7 +72,7 @@ redirect_from:
             <span style="font-size:18px">Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector</span><br>
             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yu Wang, Yixuan Pan, Lian Huai, Xingyu Qiu, Zeyu Shangguan, Tong Liu, Yanwei Fu, Luc Van Gool, Xingqun Jiang</span></span><br>
              <span style="font-weight:normal;font-size:16px">The European Conference on Computer Vision (<strong>ECCV</strong>), 2024</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2402.03094">论文</a>][<a href="https://github.com/lovelyqian/CDFSOD-benchmark">代码</a>][<a href="http://yuqianfu.com/CDFSOD-benchmark">项目主页</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2402.03094">论文</a>][<a href="https://github.com/lovelyqian/CDFSOD-benchmark">代码</a>][<a href="https://www.youtube.com/watch?v=t5vREYQIup8">Youtube视频</a>][<a href="https://www.bilibili.com/video/BV17v4UetEdF/?vd_source=668a0bb77d7d7b855bde68ecea1232e7#reply113142138936707">Bilibili视频</a>][<a href="http://yuqianfu.com/CDFSOD-benchmark">项目主页</a>]</span>
     </th>
   </tr> 
 </table>

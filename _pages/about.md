@@ -15,9 +15,9 @@ I am currectly a postdoc researcher at <a href="https://insait.ai/">INSAIT</a>, 
 I received my Ph.D. degree from School of Computer Science, Fudan University, China,  in June 2023, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a> and co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>. During my Ph.D studies, I also worked closely with Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, China, in June 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>.
 
 
-My research topics are computer vision and deep learning. I mainly focus on few-shot learning and cross domain issues, especially cross-domain few-shot learning, and few-shot video action recognition during my Ph.D period.  Currently, I am also exploring multimodal approaches e.g., grounding and multi-sensor fusion. 
+My research topics are computer vision and deep learning. I mainly focus on transfer learning during my Ph.D period especially few-shot learning and cross domain issues.  Currently, I am also exploring open-vocabulary learning and multimodal approaches.
 
-Recently, I have <strong>several <font color="red">open positions</font> for visiting/master/PhD in INSAIT especially for multimodal related tasks.</strong> If you are interested in joining or remotely working with us, feel free to drop an email to me: yuqian.fu@insait.ai. 
+Recently, INSAIT still has <strong>several <font color="red">open positions</font> for PhD especially for multimodal related tasks.</strong> If you are interested in joining or remotely working with us, feel free to drop an email to me: yuqian.fu@insait.ai. 
 
 
  <!--I am currently a Ph.D. Candidate at <a href="https://fvl.fudan.edu.cn">FVL</a> Lab, Fudan University, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, Hangzhou, China, in 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>. My current research topics are computer vision and deep learning, and I am mainly focused on few-shot learning especially cross-domain few-shot learning, and few-shot video action recognition.--> 
@@ -70,7 +70,7 @@ Selected Publications
             <span style="font-size:18px">Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector</span><br>
             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Yu Wang, Yixuan Pan, Lian Huai, Xingyu Qiu, Zeyu Shangguan, Tong Liu, Yanwei Fu, Luc Van Gool, Xingqun Jiang</span></span><br>
              <span style="font-weight:normal;font-size:16px">The European Conference on Computer Vision (<strong>ECCV</strong>), 2024</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2402.03094">Paper</a>][<a href="https://github.com/lovelyqian/CDFSOD-benchmark">Code</a>][<a href="http://yuqianfu.com/CDFSOD-benchmark">Project Page</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2402.03094">Paper</a>][<a href="https://github.com/lovelyqian/CDFSOD-benchmark">Code</a>][<a href="https://www.youtube.com/watch?v=t5vREYQIup8">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV17v4UetEdF/?vd_source=668a0bb77d7d7b855bde68ecea1232e7#reply113142138936707">Bilibili Video</a>][<a href="http://yuqianfu.com/CDFSOD-benchmark">Project Page</a>]</span>
     </th>
   </tr> 
 </table>
