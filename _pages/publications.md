@@ -14,7 +14,7 @@ redirect_from:
 <ul>
     <li>
     <p><a href="">Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community</a><br />Jiancheng Pan, Yanxing Liu, <strong>Yuqian Fu ‡</strong>, Muyuan Ma, Jiahao Li, Danda Pani Paudel, Luc Van Gool, Xiaomeng Huang ‡<br /> The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025. 
-    <br /> [<a href="https://arxiv.org/pdf/2408.09110">Paper</a>][<a href="https://github.com/jaychempan/LAE-DINO">Code</a>][<a href="">Youtube Video (coming soon) </a>][<a href="">Bilibili Video (coming soon) </a>][<a href="">Project Page (coming soon) </a>]</p>
+    <br /> [<a href="https://arxiv.org/pdf/2408.09110">Paper</a>][<a href="https://github.com/jaychempan/LAE-DINO">Code</a>][<a href="">Youtube Video (coming soon) </a>][<a href="">Bilibili Video (coming soon) </a>][<a href="https://jianchengpan.space/LAE-website/index.html">Project Page</a>]</p>
   </li>
     <li>
     <p><a href="">Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector</a><br /><strong>Yuqian Fu</strong>, Yu Wang, Yixuan Pan, Lian Huai, Xingyu Qiu, Zeyu Shangguan, Tong Liu, Yanwei Fu, Luc Van Gool, Xingqun Jiang<br /> The European Conference on Computer Vision (<strong>ECCV</strong>), 2024. 

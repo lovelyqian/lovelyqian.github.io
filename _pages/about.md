@@ -71,7 +71,7 @@ Selected Publications
             <span style="font-size:18px">Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community</span><br>
             Jiancheng Pan, Yanxing Liu, <span style="font-size:16px">Yuqian Fu ‡<span style="font-weight:normal">, Muyuan Ma, Jiahao Li, Danda Pani Paudel, Luc Van Gool, Xiaomeng Huang ‡</span></span><br>
              <span style="font-weight:normal;font-size:16px">The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2408.09110">Paper</a>][<a href="https://github.com/jaychempan/LAE-DINO">Code</a>][<a href="">Youtube Video (coming soon) </a>][<a href="">Bilibili Video  (coming soon) </a>][<a href="">Project Page  (coming soon) </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2408.09110">Paper</a>][<a href="https://github.com/jaychempan/LAE-DINO">Code</a>][<a href="">Youtube Video (coming soon) </a>][<a href="">Bilibili Video  (coming soon) </a>][<a href="https://jianchengpan.space/LAE-website/index.html">Project Page </a>]</span>
     </th>
   </tr> 
 </table>
