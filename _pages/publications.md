@@ -13,8 +13,16 @@ redirect_from:
 
 <ul>
     <li>
+    <p><a href="">Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community</a><br />Jiancheng Pan, Yanxing Liu, <strong>Yuqian Fu ‡</strong>, Muyuan Ma, Jiahao Li, Danda Pani Paudel, Luc Van Gool, Xiaomeng Huang ‡<br /> The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025. 
+    <br /> [<a href="https://arxiv.org/pdf/2408.09110">Paper</a>][<a href="https://github.com/jaychempan/LAE-DINO">Code</a>][<a href="">Youtube Video (coming soon) </a>][<a href="">Bilibili Video (coming soon) </a>][<a href="">Project Page (coming soon) </a>]</p>
+  </li>
+    <li>
     <p><a href="">Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector</a><br /><strong>Yuqian Fu</strong>, Yu Wang, Yixuan Pan, Lian Huai, Xingyu Qiu, Zeyu Shangguan, Tong Liu, Yanwei Fu, Luc Van Gool, Xingqun Jiang<br /> The European Conference on Computer Vision (<strong>ECCV</strong>), 2024. 
     <br /> [<a href="https://arxiv.org/pdf/2402.03094">Paper</a>][<a href="https://github.com/lovelyqian/CDFSOD-benchmark">Code</a>][<a href="https://www.youtube.com/watch?v=t5vREYQIup8">Youtube Video</a>][<a href="https://www.bilibili.com/video/BV17v4UetEdF/?vd_source=668a0bb77d7d7b855bde68ecea1232e7#reply113142138936707">Bilibili Video</a>][<a href="http://yuqianfu.com/CDFSOD-benchmark">Project Page</a>]</p>
+  </li>
+  <li>
+    <p><a href="">Unified View Empirical Study for Large Pretrained Model on Cross-Domain Few-Shot Learning</a><br />Linhai Zhuo, <strong>Yuqian Fu</strong>, Jingjing Chen, Yixin Cao, Yu-Gang Jiang<br /> ACM Transactions on Multimedia Computing, Communications and Applications (<strong>TOMM</strong>), 2024. 
+    <br /> [<a href="https://dl.acm.org/doi/full/10.1145/3673231?casa_token=ss6gdrAiQHkAAAAA:JLszbgQbVbh-Tp9DPPw4GCw0_0n6ZrcyAcUBvN5kxsubNSso3b31t4pupPhIjIcXxajpkq5_R9DoLQ">Paper</a>]</p>
   </li>
   <li>
     <p><a href="">MinD-3D: Reconstruct High-quality 3D objects in Human Brain</a><br />Jianxiong Gao, <strong>Yuqian Fu</strong>, Yun Wang, Xuelin Qian, Jianfeng Feng, Yanwei Fu <br/> The European Conference on Computer Vision (<strong>ECCV</strong>), 2024.<br /> [<a href="https://arxiv.org/abs/2312.07485">Paper</a>][<a href="https://huggingface.co/datasets/Fudan-fMRI/fMRI-Shape">Code</a>][<a href="https://jianxgao.github.io/MinD-3D">Project Page</a>]</p>

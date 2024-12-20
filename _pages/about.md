@@ -26,6 +26,7 @@ Recently, INSAIT still has <strong>several <font color="red">open positions</fon
 News
 ------
 <ul>
+  <li>[12/2024] One paper is accepted by AAAI2025. Congrats to Jiancheng.</li>
   <li>[07/2024] We have relaunched the <a href="http://yuqianfu.com/UnrealAction-Dataset">UnrealAction</a> dataset. </li>
   <li>[07/2024] Two papers are accepted by ECCV2024. Congrats to Jianxiong, Yu, and Yixuan.</li>
   <li>[04/2024] I joined INSAIT as a postdoc researcher. </li>
@@ -61,6 +62,20 @@ News
 
 Selected Publications
 ------
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/LAE.jpg" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community</span><br>
+            Jiancheng Pan, Yanxing Liu, <span style="font-size:16px">Yuqian Fu ‡<span style="font-weight:normal">, Muyuan Ma, Jiahao Li, Danda Pani Paudel, Luc Van Gool, Xiaomeng Huang ‡</span></span><br>
+             <span style="font-weight:normal;font-size:16px">The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2408.09110">Paper</a>][<a href="https://github.com/jaychempan/LAE-DINO">Code</a>][<a href="">Youtube Video (coming soon) </a>][<a href="">Bilibili Video  (coming soon) </a>][<a href="">Project Page  (coming soon) </a>]</span>
+    </th>
+  </tr> 
+</table>
+
 <table style="width:100%">
   <tr>
     <th width="30%">
