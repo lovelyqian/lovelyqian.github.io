@@ -26,7 +26,6 @@ Recently, INSAIT still has <strong>several <font color="red">open positions</fon
 News
 ------
 <ul>
-  <li>[02/2025] We are hosting the 1-st Cross-Domain Few-Shot Object Detection (CD-FSOD) Challenge @ NTIRE Workshop, CVPR 2025.
   <li>[01/2025] One paper is accepted by RA-L. Congrats to Tim. </li>
   <li>[12/2024] One paper is accepted by AAAI2025. Congrats to Jiancheng.</li>
   <li>[07/2024] We have relaunched the <a href="http://yuqianfu.com/UnrealAction-Dataset">UnrealAction</a> dataset. </li>
@@ -59,7 +58,6 @@ News
             <div class="details" >
             <p><a href="">ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning</a><br /><strong>Yuqian Fu</strong>, Yu Xie, Yanwei Fu, Jingjing Chen, Yu-Gang Jiang<br /> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2022.<br /> [<a href="">Paper Coming Soon</a>][<a href="https://github.com/lovelyqian/ME-D2N_for_CDFSL">Code</a>]</p>
             </div>
-
 </div> -->
 
 Selected Publications
