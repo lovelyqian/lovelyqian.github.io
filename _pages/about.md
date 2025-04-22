@@ -26,6 +26,7 @@ Recently, INSAIT still has <strong>several <font color="red">open positions</fon
 News
 ------
 <ul>
+  <li>[04/2025] We successfully hosted the 1-st CD-FSOD Challenge @ NTIRE25 CVPR Workshop. Workshop paper <a href="https://arxiv.org/pdf/2504.10685">here</a>. </li>
   <li>[01/2025] One paper is accepted by RA-L. Congrats to Tim. </li>
   <li>[12/2024] One paper is accepted by AAAI2025. Congrats to Jiancheng.</li>
   <li>[07/2024] We have relaunched the <a href="http://yuqianfu.com/UnrealAction-Dataset">UnrealAction</a> dataset. </li>

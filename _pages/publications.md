@@ -13,6 +13,10 @@ redirect_from:
 
 <ul>
     <li>
+    <p><a href="">NTIRE2025 Challenge on Cross-Domain Few-Shot Object Detection: Methods and Results</a><br /><strong>Yuqian Fu</strong>, Xingyu Qiu, Bin Ren, Yanwei Fu, Radu Timofte, Nicu Sebe, Ming-Hsuan Yang, Luc Van Gool, and others<br />IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (<strong>CVPRW</strong>), 2025. 
+    <br /> [<a href="https://arxiv.org/pdf/2504.10685">Paper</a>][<a href="https://github.com/lovelyqian/NTIRE2025_CDFSOD">Code</a>]</p>
+  </li>
+    <li>
     <p><a href="">CAFuser: Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes</a><br />Tim Brödermann ‡, Christos Sakaridis, <strong>Yuqian Fu ‡</strong>, Luc Van Gool<br />IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2025. 
     <br /> [<a href="https://arxiv.org/pdf/2410.10791?">Paper</a>][<a href="https://github.com/timbroed/CAFuser">Code</a>][<a href="">Youtube Video (coming soon) </a>][<a href="">Bilibili Video (coming soon)</a>][<a href="">Project Page (combing soon)</a>]</p>
   </li>
