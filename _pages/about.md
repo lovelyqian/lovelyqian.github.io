@@ -15,9 +15,9 @@ I am currectly a postdoc researcher at <a href="https://insait.ai/">INSAIT</a>, 
 I received my Ph.D. degree from School of Computer Science, Fudan University, China,  in June 2023, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a> and co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>. During my Ph.D studies, I also worked closely with Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, China, in June 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>.
 
 
-My research topics are computer vision and deep learning. I mainly focus on transfer learning during my Ph.D period especially few-shot learning and cross domain issues.  Currently, I am also exploring open-vocabulary learning and multimodal approaches.
+My research topics are computer vision and deep learning. I mainly aim to build more generalizable vision modelsby addressing challenges that arise when applying them to downstream tasks, such as few-shot learning,  cross-domain learning, open-vocabulary learning, and multimodal fusion.  Recently, my interests have expanded toward cross-view learning, particularly in bridging exo-centric and ego-centric vision. I am excited about advancing intelligent assistants for egocentric vision understanding.
 
-Recently, INSAIT still has <strong>several <font color="red">open positions</font> for PhD especially for multimodal related tasks.</strong> If you are interested in joining or remotely working with us, feel free to drop an email to me: yuqian.fu@insait.ai. 
+<i>If you're interested in discussing potential collaborations or considering joining us as a visiting researcher or PhD student, please feel free to drop an email to me: yuqian.fu@insait.ai. <i>
 
 
  <!--I am currently a Ph.D. Candidate at <a href="https://fvl.fudan.edu.cn">FVL</a> Lab, Fudan University, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, Hangzhou, China, in 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>. My current research topics are computer vision and deep learning, and I am mainly focused on few-shot learning especially cross-domain few-shot learning, and few-shot video action recognition.--> 
@@ -26,6 +26,7 @@ Recently, INSAIT still has <strong>several <font color="red">open positions</fon
 News
 ------
 <ul>
+  <li>[06/2025] We were awarded 2nd place in the Correspondences track of the 2025 EgoVis Ego-Exo4D Challenge. Workshop paper <a href="https://arxiv.org/abs/2506.05856">here</a>. </li>
   <li>[04/2025] We successfully hosted the 1-st CD-FSOD Challenge @ NTIRE25 CVPR Workshop. Workshop paper <a href="https://arxiv.org/pdf/2504.10685">here</a>. </li>
   <li>[01/2025] One paper is accepted by RA-L. Congrats to Tim. </li>
   <li>[12/2024] One paper is accepted by AAAI2025. Congrats to Jiancheng.</li>

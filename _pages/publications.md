@@ -12,6 +12,10 @@ redirect_from:
 
 
 <ul>
+ <li>
+    <p><a href="">Cross-View Multi-Modal Segmentation @ Ego-Exo4D Challenges 2025</a><br /><strong>Yuqian Fu</strong>, Runze Wang, Yanwei Fu, Danda Pani Paudel, Luc Van Gool, and others<br />IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (<strong>CVPRW</strong>), 2025. 
+    <br /> [<a href="https://arxiv.org/abs/2506.05856">Paper</a>][<a href="https://github.com/lovelyqian/ObjectRelator">Code</a>]</p>
+  </li>
     <li>
     <p><a href="">NTIRE2025 Challenge on Cross-Domain Few-Shot Object Detection: Methods and Results</a><br /><strong>Yuqian Fu</strong>, Xingyu Qiu, Bin Ren, Yanwei Fu, Radu Timofte, Nicu Sebe, Ming-Hsuan Yang, Luc Van Gool, and others<br />IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (<strong>CVPRW</strong>), 2025. 
     <br /> [<a href="https://arxiv.org/pdf/2504.10685">Paper</a>][<a href="https://github.com/lovelyqian/NTIRE2025_CDFSOD">Code</a>]</p>
