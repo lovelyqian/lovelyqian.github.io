@@ -17,7 +17,7 @@ I received my Ph.D. degree from School of Computer Science, Fudan University, Ch
 
 My research topics are computer vision and deep learning. I mainly aim to build more generalizable vision models by addressing challenges that arise when applying them to downstream tasks, such as few-shot learning,  cross-domain learning, open-vocabulary learning, and multimodal fusion.  Recently, my interests have expanded toward cross-view learning, particularly in bridging exo-centric and ego-centric vision. I am excited about advancing intelligent assistants for egocentric vision understanding.
 
-<i>If you're interested in discussing potential collaborations or considering joining us as a visiting researcher or PhD student, please feel free to drop an email to me: yuqian.fu@insait.ai. <i>
+<i>If you're interested in discussing potential collaborations or considering joining us as a visiting researcher or PhD student, especially on the topic with egocentric vision, please feel free to drop an email to me: yuqian.fu@insait.ai. <i>
 
 
  <!--I am currently a Ph.D. Candidate at <a href="https://fvl.fudan.edu.cn">FVL</a> Lab, Fudan University, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, Hangzhou, China, in 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>. My current research topics are computer vision and deep learning, and I am mainly focused on few-shot learning especially cross-domain few-shot learning, and few-shot video action recognition.--> 
@@ -26,19 +26,21 @@ My research topics are computer vision and deep learning. I mainly aim to build 
 News
 ------
 <ul>
-  <li>[06/2025] We were awarded 2nd place in the Correspondences track of the 2025 EgoVis Ego-Exo4D Challenge. Workshop paper <a href="https://arxiv.org/abs/2506.05856">here</a>. </li>
-  <li>[04/2025] We successfully hosted the 1-st CD-FSOD Challenge @ NTIRE25 CVPR Workshop. Workshop paper <a href="https://arxiv.org/pdf/2504.10685">here</a>. </li>
+  <li>[06/2025] Four papers are accepted by ICCV 2025. Check out <a href="https://arxiv.org/pdf/2411.19083">ObjectRelator</a>, <a href="">3D-MOOD</a>, <a href="https://arxiv.org/pdf/2405.17773">XTrack</a>, and <a href="https://arxiv.org/pdf/2412.01370">Museum</a>.</li>
+  <li>[06/2025] Two papers are accepted by IROS 2025. Check out <a href="https://arxiv.org/pdf/2506.18856">RAG-6DPose</a> and <a href="https://arxiv.org/pdf/2503.09078">SeqMultiGrasp</a>.</li>
+  <li>[06/2025] We were awarded 2nd place in the Correspondences track of the 2025 EgoVis Ego-Exo4D Challenge. Technical report <a href="https://arxiv.org/abs/2506.05856">here</a>. </li>
+  <li>[04/2025] We successfully hosted the 1-st CD-FSOD Challenge @ NTIRE CVPR Workshop 2025. Workshop paper <a href="https://arxiv.org/pdf/2504.10685">here</a>. </li>
   <li>[01/2025] One paper is accepted by RA-L. Congrats to Tim. </li>
-  <li>[12/2024] One paper is accepted by AAAI2025. Congrats to Jiancheng.</li>
+  <li>[12/2024] One paper is accepted by AAAI 2025. Congrats to Jiancheng.</li>
   <li>[07/2024] We have relaunched the <a href="http://yuqianfu.com/UnrealAction-Dataset">UnrealAction</a> dataset. </li>
-  <li>[07/2024] Two papers are accepted by ECCV2024. Congrats to Jianxiong, Yu, and Yixuan.</li>
+  <li>[07/2024] Two papers are accepted by ECCV 2024. Congrats to Jianxiong, Yu, and Yixuan.</li>
   <li>[04/2024] I joined INSAIT as a postdoc researcher. </li>
-  <li>[12/2023] One paper is accepted by AAAI2024. Congrats to Wentao.</li>
+  <li>[12/2023] One paper is accepted by AAAI 2024. Congrats to Wentao.</li>
   <li>[09/2023] I joined CVL lab at ETH Zürich. </li>
   <li>[07/2023] One paper is accepted by ACM MM 2023. </li>
   <li>[06/2023] I have earned a doctoral degree. </li>
   <li>[04/2023] I have received 100 citations! </li>
-  <li>[02/2023] One paper is accepted by CVPR2023. </li>
+  <li>[02/2023] One paper is accepted by CVPR 2023. </li>
   <li>[10/2022] One paper is accepted by TIP. </li>
   <li>[06/2022] Two papers are accepted by ACM MM 2022.</li>
   <li>[12/2021] I am recognized as an outstanding student of Fudan University.</li>
@@ -64,6 +66,48 @@ News
 
 Selected Publications
 ------
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/ObjectRelator.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">ObjectRelator: Enabling Cross-View Object Relation Understanding in Ego-Centric and Exo-Centric Perspectives</span><br>
+             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Runze Wang, Bin Ren, Guolei Sun, Biao Gong, Yanwei Fu, Danda Pani Paudel, Xuanjing Huang, Luc Van Gool</span></span><br>
+             <span style="font-weight:normal;font-size:16px"> International Conference on Computer Vision (<strong>ICCV</strong>), 2025</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2411.19083">Paper</a>][<a href="https://github.com/lovelyqian/ObjectRelator">Code</a>][<a href="">Project Page (Coming Soon) </a>]</span>
+    </th>
+  </tr> 
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/RAG6DPose.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base</span>
+            <br>Kuanning Wang, <span style="font-size:16px">Yuqian Fu ‡<span style="font-weight:normal">, Tianyu Wang, Yanwei Fu, Longfei Liang, Yu-Gang Jiang, Xiangyang Xue</span></span><br>
+             <span style="font-weight:normal;font-size:16px"> International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2506.18856">Paper</a>][<a href="">Code (Coming Soon)</a>][<a href="https://sressers.github.io/RAG-6DPose/">Project Page </a>]</span>
+    </th>
+  </tr> 
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/CAFuser.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">CAFuser: Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes</span>
+            <br>Tim Brodermann ‡, Christos Sakaridis, <span style="font-size:16px">Yuqian Fu ‡<span style="font-weight:normal">, Luc Van Gool</span></span><br>
+             <span style="font-weight:normal;font-size:16px">IEEE Robotics and Automation Letters (<strong>RAL</strong>), 2025</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2410.10791">Paper</a>][<a href="https://github.com/timbroed/CAFuser">Code</a>]</span>
+    </th>
+  </tr> 
+</table>
+
 <table style="width:100%">
   <tr>
     <th width="30%">
