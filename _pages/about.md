@@ -75,10 +75,11 @@ Selected Publications
             <span style="font-size:18px">ObjectRelator: Enabling Cross-View Object Relation Understanding in Ego-Centric and Exo-Centric Perspectives</span><br>
              <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Runze Wang, Bin Ren, Guolei Sun, Biao Gong, Yanwei Fu, Danda Pani Paudel, Xuanjing Huang, Luc Van Gool</span></span><br>
              <span style="font-weight:normal;font-size:16px"> International Conference on Computer Vision (<strong>ICCV</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2411.19083">Paper</a>][<a href="https://github.com/lovelyqian/ObjectRelator">Code</a>][<a href="">Project Page (Coming Soon) </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2411.19083">Paper</a>][<a href="https://github.com/lovelyqian/ObjectRelator">Code</a>][<a href="">Youtube Video (Coming Soon) </a>][<a href="">Bilibili Video (Coming Soon) </a>][<a href="">Project Page (Coming Soon) </a>]</span>
     </th>
   </tr> 
 </table>
+
 
 <table style="width:100%">
   <tr>
@@ -87,8 +88,10 @@ Selected Publications
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base</span>
-            <br>Kuanning Wang, <span style="font-size:16px">Yuqian Fu ‡<span style="font-weight:normal">, Tianyu Wang, Yanwei Fu, Longfei Liang, Yu-Gang Jiang, Xiangyang Xue</span></span><br>
-             <span style="font-weight:normal;font-size:16px"> International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025</span><br>
+            <br><span style="font-size:16px; font-weight:normal">
+            Kuanning Wang, <strong>Yuqian Fu ‡</strong>, Tianyu Wang, Yanwei Fu, Longfei Liang, Yu-Gang Jiang, Xiangyang Xue
+            </span><br>
+            <span style="font-weight:normal;font-size:16px"> International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2506.18856">Paper</a>][<a href="">Code (Coming Soon)</a>][<a href="https://sressers.github.io/RAG-6DPose/">Project Page </a>]</span>
     </th>
   </tr> 
