@@ -13,7 +13,34 @@ redirect_from:
 
 <ul>
  <li>
-    <p><a href="">Cross-View Multi-Modal Segmentation @ Ego-Exo4D Challenges 2025</a><br /><strong>Yuqian Fu</strong>, Runze Wang, Yanwei Fu, Danda Pani Paudel, Luc Van Gool, and others<br />IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (<strong>CVPRW</strong>), 2025. 
+    <p><a href="">ObjectRelator: Enabling Cross-View Object Relation Understanding in Ego-Centric and Exo-Centric Videos</a><br/><strong>Yuqian Fu</strong>, Runze Wang, Bin Ren, Guolei Sun, Biao Gong, Yanwei Fu, Danda Pani Paudel, Xuanjing Huang, Luc Van Gool<br /> International Conference on Computer Vision  (<strong>ICCV</strong>), 2025. 
+    <br /> [<a href="https://arxiv.org/pdf/2411.19083">Paper</a>][<a href="https://github.com/lovelyqian/ObjectRelator">Code</a>][<a href="">Youtube Video (Coming Soon) </a>][<a href="">Bilibili Video (Coming Soon) </a>][<a href="">Project Page (Coming Soon) </a>]</p>
+  </li>
+   <li>
+    <p><a href="">XTrack: Multimodal Training Boosts RGB-X Video Object Trackers</a>
+    <br/>Yuedong Tan, Zongwei Wu, <strong>Yuqian Fu</strong>, Zhuyun Zhou, Guolei Sun, Eduard Zamfir, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte<br /> International Conference on Computer Vision  (<strong>ICCV</strong>), 2025. 
+    <br /> [<a href="">Paper</a>][<a href="">Code</a>]</p>
+  </li>
+     <li>
+    <p><a href="">3D-MOOD: Lifting 2D to 3D for Monocular Open-Set Object Detection</a>
+    <br/>Yung-Hsu Yang, Luigi Piccinelli, Mattia Segu, Siyuan Li, Rui Huang, <strong>Yuqian Fu</strong>, Marc Pollefeys, Hermann Blum, Zuria Bauer<br /> International Conference on Computer Vision  (<strong>ICCV</strong>), 2025. 
+    <br /> [<a href="">Paper</a>][<a href="">Code</a>]</p>
+  </li>
+    <li>
+    <p><a href="">Understanding Museum Exhibits using Vision-Language Reasoning</a>
+    <br/>Ada-Astrid Balauca, Sanjana Garai, Stefan Balauca, Rasesh Udayakumar Shetty, Naitik Agrawal, Dhwanil Subhashbhai Shah, <strong>Yuqian Fu</strong>, Xi Wang, Kristina Toutanova, Danda Pani Paudel, Luc Van Gool<br /> International Conference on Computer Vision  (<strong>ICCV</strong>), 2025. 
+    <br /> [<a href="https://arxiv.org/pdf/2412.01370">Paper</a>][<a href="">Code</a>]</p>
+  </li>
+ <li>
+    <p><a href="">RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base</a><br/>Kuanning Wang, <strong>Yuqian Fu</strong>, Tianyu Wang, Yanwei Fu, Longfei Liang, Yu-Gang Jiang, Xiangyang Xue<br /> International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025. 
+    <br /> [<a href="https://arxiv.org/pdf/2506.18856">Paper</a>][<a href="https://sressers.github.io/RAG-6DPose/">Project Page</a>]</p>
+  </li>
+ <li>
+    <p><a href="">Sequential Multi-Object Grasping with One Dexterous Hand</a><br />Sicheng He, Zeyu Shangguan, Kuanning Wang, Yongchong Gu,<strong>Yuqian Fu</strong>, Yanwei Fu, Daniel Seita<br /> International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025. 
+    <br /> [<a href="https://arxiv.org/pdf/2503.09078">Paper</a>][<a href="https://hesic73.github.io/SeqMultiGrasp/">Project Page</a>]</p>
+  </li>
+ <li>
+    <p><a href="">Cross-View Multi-Modal Segmentation @ Ego-Exo4D Challenges 2025</a><br /><strong>Yuqian Fu</strong>, Runze Wang, Yanwei Fu, Danda Pani Paudel, Luc Van Gool, and others<br /> <strong>2nd Place Award</strong> of Correspondences, Ego-Exo4D Challenge @ CVPRW, 2025. 
     <br /> [<a href="https://arxiv.org/abs/2506.05856">Paper</a>][<a href="https://github.com/lovelyqian/ObjectRelator">Code</a>]</p>
   </li>
     <li>

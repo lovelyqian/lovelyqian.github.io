@@ -29,7 +29,7 @@ redirect_from:
 
 学术任职
 ------
-* 期刊审稿人：IJCV, TIP, TMLR, TNNLS, Information Fusion, TMM, TCSVT, Neurocomputing, TOMM, MVAP
+* 期刊审稿人：TPAMI, IJCV, TIP, TMLR, TNNLS, Information Fusion, TMM, TCSVT, Neurocomputing, TOMM, MVAP
 * 会议审稿人：CVPR(2023/24), ECCV-2024, ICCV-2023, ACM MM(2023/24), AAAI-2022, WACV-2024
 <!-- * AAAI 2022 程序委员会成员（PC）-->
 
@@ -38,6 +38,7 @@ redirect_from:
 
 学术活动
 ------
+* 第一届跨域小样本物体检测CD-FSOD挑战赛组织者 （2025）
 * 2021/2022 国际青少年人工智能交流展示会（IAIF）<strong>专家评委</strong>
 * 2021 世界人工智能大会（WAIC）<strong>秘书处成员</strong>
 * 中国计算机学会（CCF）校园宣传大使 (2019-2022)
@@ -46,6 +47,7 @@ redirect_from:
 
 奖项荣誉
 ------
+* 第二届EgoVis（第一人称视角）Ego-Exo4D Correspondence挑战赛第二名 （2025）
 * 上海市优秀毕业生 (2023) 
 * <strong>复旦大学优秀学生标兵</strong> (2021) (全校仅<strong>10</strong>名，<strong>Top 0.03%</strong>)
 * 研究生<strong>国家奖学金</strong> (2019) (<strong>Top 2%</strong>)
@@ -63,6 +65,37 @@ redirect_from:
 
 科研工作
 ------
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/ObjectRelator.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">ObjectRelator: Enabling Cross-View Object Relation Understanding in Ego-Centric and Exo-Centric Perspectives</span><br>
+             <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Runze Wang, Bin Ren, Guolei Sun, Biao Gong, Yanwei Fu, Danda Pani Paudel, Xuanjing Huang, Luc Van Gool</span></span><br>
+             <span style="font-weight:normal;font-size:16px"> International Conference on Computer Vision (<strong>ICCV</strong>), 2025</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2411.19083">论文</a>][<a href="https://github.com/lovelyqian/ObjectRelator">代码</a>][<a href="">Youtube视频 (Coming Soon) </a>][<a href="">Bilibili视频 (Coming Soon) </a>][<a href="">项目主页(Coming Soon) </a>]</span>
+    </th>
+  </tr> 
+</table>
+
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/RAG6DPose.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base</span>
+            <br><span style="font-size:16px; font-weight:normal">
+            Kuanning Wang, <strong>Yuqian Fu ‡</strong>, Tianyu Wang, Yanwei Fu, Longfei Liang, Yu-Gang Jiang, Xiangyang Xue
+            </span><br>
+            <span style="font-weight:normal;font-size:16px"> International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2506.18856">论文</a>][<a href="">代码 (Coming Soon)</a>][<a href="https://sressers.github.io/RAG-6DPose/">项目主页</a>]</span>
+    </th>
+  </tr> 
+</table>
+
 <table style="width:100%">
   <tr>
     <th width="30%">
