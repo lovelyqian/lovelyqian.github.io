@@ -49,7 +49,8 @@ Services and Leadership
 
 Awards
 ------
-* Second Award of Ego-Exo4D Correspondence Challenge @CVPRW25（2025）
+* <strong>Second Award</strong> of Ego-Exo4D Correspondence Challenge @CVPRW25（2025）
+* <strong>Outstanding PhD Dissertation</strong> Award Recipient, Fudan University (2024) (<strong>One per School</strong>) 
 * <strong>Outstanding Graduate</strong> in Shanghai (2023) 
 * <strong>Outstanding Student of Fudan University</strong> (2021) (<strong>Top 0.03%</strong>)
 * Graduate Chinese <strong>National Scholarship</strong> (2019) (<strong>Top 2%</strong>)

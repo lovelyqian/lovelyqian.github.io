@@ -48,6 +48,7 @@ redirect_from:
 奖项荣誉
 ------
 * 第二届EgoVis（第一人称视角）Ego-Exo4D Correspondence挑战赛第二名 @CVPRW25（2025）
+* 复旦大学优秀博士毕业论文 （2024）（全院仅<strong>1</strong>名）
 * 上海市优秀毕业生 (2023) 
 * <strong>复旦大学优秀学生标兵</strong> (2021) (全校仅<strong>10</strong>名，<strong>Top 0.03%</strong>)
 * 研究生<strong>国家奖学金</strong> (2019) (<strong>Top 2%</strong>)
