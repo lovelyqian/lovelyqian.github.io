@@ -55,7 +55,12 @@
       <div class="columns is-centered">
         <div class="column has-text-centered">
           <h1 class="title is-1 publication-title"> ObjectRelator: Enabling Cross-View Object Relation Understanding Across Ego-Centric and Exo-Centric Perspectives</h1>
-          <h2><font color=#2980B9 size="5">ICCV 2025</font></h2> <br>
+          <h2>
+            <span style="color: #0d0e0c; font-size: 1.5em;"><b>ICCV 2025</b></span>
+            <span style="color: #e33825; font-size: 1.5em; font-weight: bold;"> (Highlight)</span>
+          </h2>
+
+          <br>
           <div class="is-size-5 publication-authors">
                <span class="author-block">
               <div>Yuqian Fu<sup>1</sup>, </div>
@@ -129,22 +134,18 @@
 </section>
 
 
-<section class="hero teaser">
+
+
+<section class="section">
   <div class="container is-max-desktop">
-      <div class="columns is-centered has-text-centered">
-        <div class="column is-four-fifths">
-          <div class="content has-text-justified">
-            <center>
-            <img src="./imgs/benchmark.png" width="95%"/>
-            </center>
-            <p>
-            <b>CD-FSOD benchmark:</b> <font color=#2980B9>COCO</font> serves as the training source data, while six datasets including <font color=#2980B9>ArTaxOr</font>, <font color=#2980B9>Clipart1k</font>, <font color=#2980B9>DIOR</font>, <font color=#2980B9>DeepFish</font>, <font color=#2980B9>NEU-DET</font>, and <font color=#2980B9>UODD</font> are utilized as novel testing target datasets.
-            <b> Dataset metrics:</b> We introduce <font color=#2980B9>styles</font>, inter-class variance (<font color=#2980B9>ICV</font>), and indefinable boundaries (<font color=#2980B9>IB</font>) as metrics for evaluating the domain gap issue in CD-FSOD. Our target datasets exhibit variations in these metrics.
-            </p>
-          </div>
-        </div>
+    <div class="content has-text-justified">
+      <p>
+        <span style="font-size: 1.2em; font-weight: bold;"> 
+        <span style="color: #ef5b4b; font-size: 1.2em; font-weight: bold;"> We tackle the task of Ego-Exo Object Correspondence</span> which is recently proposed in  <span style="color: #ef5b4b; font-size: 1.2em; font-weight: bold;"> Ego-Exo4D</span>.  Given object queries from one perspective (e.g., ego view),  the task involves predicting the corresponding object masks in another perspective (e.g., exo view). 
+        Solving this task unlocks new possibilities in  <span style="color: #ef5b4b; font-size: 1.2em; font-weight: bold;"> VR and Robotics</span>, e.g., enabling virtual agents or robots to manipulate ego-view actions by learning from exo-view demonstrations. 
+        </span>
+      </p>
       </div>
-    </div>
   </div>
 </section>
 
@@ -152,28 +153,37 @@
 
 <section class="section">
   <div class="container is-max-desktop">
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths">
-        <h2 class="title is-3">Motivations</h2>
-        <div class="content has-text-justified">
-          <p>
-          TODO Cross-domain Few-Shot Learning (CD-FSL) aims at transferring knowledge from a source dataset to new target domains with few labeled data. 
-          However, most of the exitsing CD-FSL works focus on the classification task, overlooking <font color=#2980B9><b>object detection</b></font>. Thus, this paper delves into object detection tasks in CD-FSL, also known as <font color=#2980B9><b>cross-domain few-shot object detection (CD-FSOD)</b></font>.
-          Previous traditional FSOD methods could roughtly grouped into meta-learning based ones and finetuning based ones, while a recent transformer-based open-set detector, DE-ViT, shows exceptional performance in FSOD, surpassing other methods as depicted in the below figure. This inspired us to study:
-          <ol>
-            <li> <em></em>Can such <b><font color=#2980B9> open-set detection methods easily generalize</font></b> to CD-FSOD?</em>  </li>
-            <li> <em></em>If not, how can <b><font color=#2980B9> models be enhanced</font></b> when facing huge domain gaps?</em>  </li>
-          </pl>
-        </p>
-          <center>
-            <img src="./imgs/motivation.png" width="95%"/>
-          </center>
-          <p>
-            <b>a) Our motivation:</b> The DE-ViT open-set detector excels in FSOD but strug-gles in CD-FSOD, inspiring our creation of CD-ViTO. <b>(b) Technical motivation:</b> FSOD
-models face challenges when dealing with cross-domain targets, such as small inter-class variance (ICV), indefinable boundaries (IB), and varying appearances (styles).
-          </p>
-          <br>
-        </div>
+    <h2 class="title is-3 has-text-centered">Video Demos on Ego-Exo4D</h2>
+    <div class="video-scroll-container">
+      <div class="video-card">
+        <video controls>
+          <source src="./videos/video1.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="video-card">
+        <video controls>
+          <source src="./videos/video2.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="video-card">
+        <video controls>
+          <source src="./videos/video3.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="video-card">
+        <video controls>
+          <source src="./videos/video4.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="video-card">
+        <video controls>
+          <source src="./videos/video5.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="video-card">
+        <video controls>
+          <source src="./videos/video6.mp4" type="video/mp4">
+        </video>
       </div>
     </div>
   </div>
@@ -182,119 +192,97 @@ models face challenges when dealing with cross-domain targets, such as small int
 
 <section class="section">
   <div class="container is-max-desktop">
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths">
-        <h2 class="title is-3">Contributions</h2>
-        <div class="content has-text-justified">
-          <p>   
-          <p>
-            <b><h3> >> To answer the first question:</h3></b></b>
-            <ul> 
-              <li> We employ <font color=#2980B9><b>metrics</b></font> including style, ICV, and IB to understand the domain gap in CD-FSOD. 
-              </li>
-              <li> Based on these metrics, we establish <font color=#2980B9><b>a new benchmark</b></font> with diverse targets for CD-FSOD. 
-              </li>
-              <li> We conduct <font color=#2980B9><b>extensive study</b></font> of existing detectors revealing the challenges posed by CD-FSOD. 
-              </li>
-            </ul>
-          </p>
-          <p>
-            <b><h3> >> To answer the second question:</h3></b></b>
-            We build a new <b> <font color=#2980B9>CD-ViTO</font></b> method via enhancing the existing DE-ViT with the following novel modules:
-            <ul> 
-              <li> <b><font color=#2980B9>Learnable Instance Features:</font></b> align initial fixed instances with target categories, thus tackle the <b>small ICV</b> issue by enhancing feature distinctiveness. 
-              </li>
-              <li> <b><font color=#2980B9>Instance Reweighting Module:</font></b> assigns higher importance to high-quality instances with slight IB, thus alleviate the <b>significant IB</b> issue.
-              </li>
-              <li> <b><font color=#2980B9>Domain Prompter:</font></b> encourages features resilient to different styles by synthesizing imaginary domains without altering semantic contents, thus improve model's robustness to <b>different styles</b>. 
-              </li>
-            </ul>
-          As indicated in the above figure, our <b><font color=#2980B9>enhanced CD-ViTO (orange stars) makes the DE-ViT (green stars) great again</font></b> on CD-FSOD targets.
-          </p>
-
-
-        </div>
-      </div>
+    <h2 class="title is-3 has-text-centered">Breif Summary & Main Contributions</h2>
+    <div class="content has-text-justified">
+      <p><span style="font-size: 1.2em; font-weight: bold;"> 
+        Despite the importance of this task, <span style="color: #ef5b4b; font-size: 1.2em; font-weight: bold;"> most existing segmentation models</span> (e.g., Mask2Former, SAM, LISA) operate on <span style="color: #ef5b4b; font-size: 1.2em; font-weight: bold;"> single-view inputs</span>, making them <span style="color: #ef5b4b; font-size: 1.2em; font-weight: bold;"> nontrival</span> for it. To address this, we:
+      </span>
+      </p>
+      <p>
+        <ul>
+          <span style="font-size: 1.2em;"> 
+          <li><strong><span style="color: #ef5b4b; font-weight: bold;">Toward Ego-Exo Object Correspondence Task:</span></strong> We conduct an <strong> early exploration</strong> of this challenging task, analyzing its unique difficulties, constructing several baselines, and proposing a new method.</li>
+          <li><strong><span style="color: #ef5b4b; font-weight: bold;">ObjectRelator Framework:</span></strong> We introduce <strong> ObjectRelator</strong>, a cross-view object segmentation method combining MCFuse and XObjAlign. <strong>MCFuse</strong> for the first time introduces the text modality into this task and improves localization using multimodal cues for the same object(s), while <strong>XObjAlign</strong> boosts performance under appearance variations with an object-level consistency constraint.</li>
+          <li><strong><span style="color: #ef5b4b; font-weight: bold;">New Testbed and SOTA Results:</span></strong> Alongside <strong> Ego-Exo4D</strong>, we present <strong> HANDAL-X</strong> as an additional benchmark. ObjectRelator achieves <strong> SOTA</strong> results on both datasets.</li>
+        </ul></span>
+      </p>
     </div>
   </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">Framework Overview</h2>
+  <p> <span style="font-size: 1.2em;">  <span style="color: #ef5b4b; font-weight: bold;">Ego2Exo</span> is used as an example in the frameork. Our method builds on the <strong>PSALM</strong> baseline (pink blocks) and
+tailors it for Ego-Exo Object Correspondence with two novel modules: <strong>Multimodal Condition Fusion (MCFuse)</strong> and <strong>Cross-View Object Alignment (XObjAlign)</strong>. More details please refer to our paper.</span></p>
+
+    <div class="has-text-centered">
+      <img src="./imgs/framework.png" style="max-width: 100%;" alt="Framework Figure">
+    </div>
  
-</section>
+  </div>
+  </section>
+
+
+  <section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">Main Results on Ego-Exo4D</h2>
+  <p> <span style="font-size: 1.2em;"> <span style="color: #ef5b4b; font-weight: bold;">We highlight that:</span> 1) Results are reported on <strong>Val</strong> set due to the lack of GT of testing set. 2) We construct a <strong>"Small TrainSet"</strong>(1/3 data) and "Full TrainSet". Splits are released for the community which are <strong>especially friendly to the GPU/Storage limited groups</strong>. 3) Our Method clearly <strong>outperforms</strong> baselines and competitors. </span></p>
+    <div class="has-text-centered">
+      <img src="./imgs/result.png" style="max-width: 100%;" alt="Framework Figure">
+    </div>
+  </div>
+  </section>
+
+
+  <section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">Visulization Results</h2>
+    <p> <span style="font-size: 1.2em;"> <span style="color: #ef5b4b; font-weight: bold;">Visulization results</span> show that: 1) Our MCFuse enhances <strong>object localization</strong> ability by using text as an extra prompt; 2) Our XObjAlign improves model's performance upon <strong>huge view shift</strong>.</span></p>
+    <div class="has-text-centered">
+      <img src="./imgs/vis.png" style="max-width: 100%;" alt="Framework Figure">
+    </div>
+  </div>
+  </section>
+
+
+
+  <section class="section">
+  <div class="container is-max-desktop">
+    <p> <span style="font-size: 1.2em;"><span style="color: #ef5b4b; font-weight: bold;">More:</span>  We also adapt <strong>HANDAL-X</strong>, a benchmark featuring robot-friendly objects, as an additional testbed for cross-view object segmentation. For detailed results and more visualizations, please refer to our paper. </span></p>
+  </div>
+  </section>
+
+
+
 
 
 
 <section class="section">
   <div class="container is-max-desktop">
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths">
-        <h2 class="title is-3">Datasets</h2>
-        <div class="content has-text-justified">
-          <p>
-            In addition to the visual examples as shown in the benchmark figure, we further provide more infomations here. <b>All the target datasets could be found on our <a href="https://github.com/lovelyqian/CDFSOD-benchmark">github repo</a>.</b>
-          </p>
-          <center>
-            <img src="./imgs/datainfo.png" width="95%"/>
-          </center>
-        </div>
+    <h2 class="title is-3 has-text-centered">Video Demos on Our Adapted HANDAL-X and Human2Robot</h2>
+    <div class="video-scroll-container">
+      <div class="video-card">
+        <video controls>
+          <source src="./videos/video1.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="video-card">
+        <video controls>
+          <source src="./videos/video2.mp4" type="video/mp4">
+        </video>
+      </div>
       </div>
     </div>
   </div>
 </section>
 
 
-
 <section class="section">
   <div class="container is-max-desktop">
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths">
-        <h2 class="title is-3">CD-ViTO Method</h2>
-        <div class="content has-text-justified">
-          <b>Overall framework</b> of our CD-ViTO: 
-
-          <center>
-            <img src="./imgs/framework.png" width="95%"/>
-          </center>
-
-          <p>
-             We build our method upon the base open-set detector (DE-ViT) and finetune our method using few labeled instances of target domain. Modules in blue are inherited from DE-ViT while modules in orange are proposed by us. 
-             New improvements include <b><font color=#2980B9>learnable instance features, instance reweighting, domain prompter, and finetuning</font></b>; More details about the modules please refer to our paper. 
-             <br><br>
-             We hightlight that all the modules are very <b><font color=#2980B9>lightwight</font></b> causing very negligible or even no cost. 
-        </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="section">
-  <div class="container is-max-desktop">
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths">
-        <h2 class="title is-3">Main Results</h2>
-        <div class="content has-text-justified">
-          A <b><font color=#2980B9>wide broader of existing detectors</font></b> are studied, incuding: 1) <b>typical FSOD</b> methods e.g., meta-RCNN, TFA, FSCE, and DeFRCN; 2) <b>CD-FSOD</b> methods e.g., distill-cdfsod; 3) <b>ViT-based</b> detector e.g., ViTDeT; 4) <b>open-set</b> detector e.g., DE-ViT and Detic. 
-          <br><br>
-          The comparsional results are as follows. ( "FT" means we apply the finetuning on the original model.)
-          <p>
-            <center>
-              <img src="./imgs/result.png" width="95%"/>
-            </center>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-
-
-
-
-<section class="section" id="BibTeX">
-  <div class="container is-max-desktop content">
-    <h2 class="title">Citation</h2>
-    <b>Please consider cite us if you find our tackled data, code, or model is useful to you.</b>      <br><br>
+    <h2 class="title is-3 has-text-centered">Citations</h2>
+     <b>Please consider cite us if you find our tackled data, code, or model is useful to you.</b>      <br><br>
     Also feel free to ask questions or if you are interested in working on this topic together, thanks!   :) 
 <br>
     <pre><code>
@@ -315,5 +303,8 @@ models face challenges when dealing with cross-domain targets, such as small int
   </div>
 </section>
 
+
+
 </body>
 </html>
+
