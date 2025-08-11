@@ -75,7 +75,7 @@ redirect_from:
             <span style="font-size:18px">ObjectRelator: Enabling Cross-View Object Relation Understanding in Ego-Centric and Exo-Centric Perspectives</span><br>
              <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Runze Wang, Bin Ren, Guolei Sun, Biao Gong, Yanwei Fu, Danda Pani Paudel, Xuanjing Huang, Luc Van Gool</span></span><br>
              <span style="font-weight:normal;font-size:16px"> International Conference on Computer Vision (<strong>ICCV</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2411.19083">论文</a>][<a href="https://github.com/lovelyqian/ObjectRelator">代码</a>][<a href="">Youtube视频 (Coming Soon) </a>][<a href="">Bilibili视频 (Coming Soon) </a>][<a href="">项目主页(Coming Soon) </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2411.19083">论文</a>][<a href="https://github.com/lovelyqian/ObjectRelator">代码</a>][<a href="">Youtube视频 (Coming Soon) </a>][<a href="">Bilibili视频 (Coming Soon) </a>][<a href="http://yuqianfu.com/ObjectRelator/">项目主页</a>]</span>
     </th>
   </tr> 
 </table>
@@ -106,7 +106,7 @@ redirect_from:
             <span style="font-size:18px">CAFuser: Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes</span><br>
             Tim Brödermann ‡, Christos Sakaridis,  <span style="font-size:16px">Yuqian Fu ‡<span style="font-weight:normal">, Luc Van Gool</span></span><br>
              <span style="font-weight:normal;font-size:16px">IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2410.10791">论文</a>][<a href="https://github.com/timbroed/CAFuser">代码</a>][<a href="">Youtube视频 (coming soon) </a>][<a href="">Bilibili视频 (coming soon) </a>][<a href="">项目主页 (coming soon)</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2410.10791">论文</a>][<a href="https://github.com/timbroed/CAFuser">代码</a>]</span>
     </th>
   </tr> 
 </table>
@@ -120,7 +120,7 @@ redirect_from:
             <span style="font-size:18px">Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community</span><br>
             Jiancheng Pan, Yanxing Liu, <span style="font-size:16px">Yuqian Fu ‡<span style="font-weight:normal">, Muyuan Ma, Jiahao Li, Danda Pani Paudel, Luc Van Gool, Xiaomeng Huang ‡</span></span><br>
              <span style="font-weight:normal;font-size:16px">The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2408.09110">论文</a>][<a href="https://github.com/jaychempan/LAE-DINO">代码</a>][<a href="">Youtube视频 (coming soon) </a>][<a href="">Bilibili视频 (coming soon) </a>][<a href="https://jianchengpan.space/LAE-website/index.html">项目主页</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2408.09110">论文</a>][<a href="https://github.com/jaychempan/LAE-DINO">代码</a>][<a href="https://www.bilibili.com/video/BV1YWAkeMEGz/?vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili视频</a>][<a href="https://jianchengpan.space/LAE-website/index.html">项目主页</a>]</span>
     </th>
   </tr> 
 </table>

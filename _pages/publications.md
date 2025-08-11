@@ -14,17 +14,17 @@ redirect_from:
 <ul>
  <li>
     <p><a href="">ObjectRelator: Enabling Cross-View Object Relation Understanding in Ego-Centric and Exo-Centric Videos</a><br/><strong>Yuqian Fu</strong>, Runze Wang, Bin Ren, Guolei Sun, Biao Gong, Yanwei Fu, Danda Pani Paudel, Xuanjing Huang, Luc Van Gool<br /> International Conference on Computer Vision  (<strong>ICCV</strong>), 2025. 
-    <br /> [<a href="https://arxiv.org/pdf/2411.19083">Paper</a>][<a href="https://github.com/lovelyqian/ObjectRelator">Code</a>][<a href="">Youtube Video (Coming Soon) </a>][<a href="">Bilibili Video (Coming Soon) </a>][<a href="">Project Page (Coming Soon) </a>]</p>
+    <br /> [<a href="https://arxiv.org/pdf/2411.19083">Paper</a>][<a href="https://github.com/lovelyqian/ObjectRelator">Code</a>][<a href="">Youtube Video (Coming Soon) </a>][<a href="">Bilibili Video (Coming Soon) </a>][<a href="http://yuqianfu.com/ObjectRelator/">Project Page</a>]</p>
   </li>
    <li>
     <p><a href="">XTrack: Multimodal Training Boosts RGB-X Video Object Trackers</a>
     <br/>Yuedong Tan, Zongwei Wu, <strong>Yuqian Fu</strong>, Zhuyun Zhou, Guolei Sun, Eduard Zamfir, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte<br /> International Conference on Computer Vision  (<strong>ICCV</strong>), 2025. 
-    <br /> [<a href="">Paper</a>][<a href="">Code</a>]</p>
+    <br /> [<a href="">Paper</a>][<a href="https://royyang0714.github.io/3D-MOOD/">Code</a>]</p>
   </li>
      <li>
     <p><a href="">3D-MOOD: Lifting 2D to 3D for Monocular Open-Set Object Detection</a>
     <br/>Yung-Hsu Yang, Luigi Piccinelli, Mattia Segu, Siyuan Li, Rui Huang, <strong>Yuqian Fu</strong>, Marc Pollefeys, Hermann Blum, Zuria Bauer<br /> International Conference on Computer Vision  (<strong>ICCV</strong>), 2025. 
-    <br /> [<a href="">Paper</a>][<a href="">Code</a>]</p>
+    <br /> [<a href="https://arxiv.org/pdf/2507.23567?">Paper</a>][<a href="">Code</a>]</p>
   </li>
     <li>
     <p><a href="">Understanding Museum Exhibits using Vision-Language Reasoning</a>

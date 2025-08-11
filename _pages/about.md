@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 ------
-I am currectly a postdoc researcher at <a href="https://insait.ai/">INSAIT</a>, Sofia, Bulgaria, working with Prof. <a href="https://insait.ai/prof-luc-van-gool/">Luc Van Gool</a> and Dr. <a href="https://insait.ai/dr-danda-paudel/">Danda Paudel</a>. Previously, I was a postdoc researcher at <a href="https://vision.ee.ethz.ch/">Computer Vision Lab (CVL)</a>, ETH Zürich,  Switzerland, where I was also fortunate to be mentored by Prof. <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html">Luc Van Gool</a>. 
+I am currectly a research scientist at <a href="https://insait.ai/">INSAIT</a>, Sofia, Bulgaria, working with Prof. <a href="https://insait.ai/prof-luc-van-gool/">Luc Van Gool</a> and Dr. <a href="https://insait.ai/dr-danda-paudel/">Danda Paudel</a>. Previously, I was a postdoc researcher at <a href="https://vision.ee.ethz.ch/">Computer Vision Lab (CVL)</a>, ETH Zürich,  Switzerland, where I was also fortunate to be mentored by Prof. <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html">Luc Van Gool</a>. 
 
 I received my Ph.D. degree from School of Computer Science, Fudan University, China,  in June 2023, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a> and co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>. During my Ph.D studies, I also worked closely with Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, China, in June 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>.
 
@@ -26,7 +26,8 @@ My research topics are computer vision and deep learning. I mainly aim to build 
 News
 ------
 <ul>
-  <li>[06/2025] Four papers are accepted by ICCV 2025. Check out <a href="https://arxiv.org/pdf/2411.19083">ObjectRelator</a>, <a href="">3D-MOOD</a>, <a href="https://arxiv.org/pdf/2405.17773">XTrack</a>, and <a href="https://arxiv.org/pdf/2412.01370">Museum</a>.</li>
+  <li>[08/2025] I was promoted to Research Scientist at INSAIT.</li>
+  <li>[06/2025] Four papers are accepted by ICCV 2025. Check out <a href="https://arxiv.org/pdf/2411.19083">ObjectRelator</a>, <a href="https://arxiv.org/pdf/2507.23567?">3D-MOOD</a>, <a href="https://arxiv.org/pdf/2405.17773">XTrack</a>, and <a href="https://arxiv.org/pdf/2412.01370">Museum</a>.</li>
   <li>[06/2025] Two papers are accepted by IROS 2025. Check out <a href="https://arxiv.org/pdf/2506.18856">RAG-6DPose</a> and <a href="https://arxiv.org/pdf/2503.09078">SeqMultiGrasp</a>.</li>
   <li>[06/2025] We were awarded 2nd place in the Correspondences track of the 2025 EgoVis Ego-Exo4D Challenge. Technical report <a href="https://arxiv.org/abs/2506.05856">here</a>. </li>
   <li>[04/2025] We successfully hosted the 1-st CD-FSOD Challenge @ NTIRE CVPR Workshop 2025. Workshop paper <a href="https://arxiv.org/pdf/2504.10685">here</a>. </li>
@@ -75,7 +76,7 @@ Selected Publications
             <span style="font-size:18px">ObjectRelator: Enabling Cross-View Object Relation Understanding in Ego-Centric and Exo-Centric Perspectives</span><br>
              <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Runze Wang, Bin Ren, Guolei Sun, Biao Gong, Yanwei Fu, Danda Pani Paudel, Xuanjing Huang, Luc Van Gool</span></span><br>
              <span style="font-weight:normal;font-size:16px"> International Conference on Computer Vision (<strong>ICCV</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2411.19083">Paper</a>][<a href="https://github.com/lovelyqian/ObjectRelator">Code</a>][<a href="">Youtube Video (Coming Soon) </a>][<a href="">Bilibili Video (Coming Soon) </a>][<a href="">Project Page (Coming Soon) </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2411.19083">Paper</a>][<a href="https://github.com/lovelyqian/ObjectRelator">Code</a>][<a href="">Youtube Video (Coming Soon) </a>][<a href="">Bilibili Video (Coming Soon) </a>][<a href="http://yuqianfu.com/ObjectRelator/">Project Page </a>]</span>
     </th>
   </tr> 
 </table>
@@ -124,7 +125,7 @@ Selected Publications
              Jiancheng Pan, Yanxing Liu, <strong>Yuqian Fu ‡</strong>, Muyuan Ma, Jiahao Li, Danda Pani Paudel, Luc Van Gool, Xiaomeng Huang ‡
             </span><br>
              <span style="font-weight:normal;font-size:16px">The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2408.09110">Paper</a>][<a href="https://github.com/jaychempan/LAE-DINO">Code</a>][<a href="">Youtube Video (coming soon) </a>][<a href="https://www.bilibili.com/video/BV1YWAkeMEGz/?vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili Video</a>][<a href="https://jianchengpan.space/LAE-website/index.html">Project Page </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2408.09110">Paper</a>][<a href="https://github.com/jaychempan/LAE-DINO">Code</a>][<a href="https://www.bilibili.com/video/BV1YWAkeMEGz/?vd_source=668a0bb77d7d7b855bde68ecea1232e7">Bilibili Video</a>][<a href="https://jianchengpan.space/LAE-website/index.html">Project Page </a>]</span>
     </th>
   </tr> 
 </table>
