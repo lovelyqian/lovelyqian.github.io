@@ -74,7 +74,7 @@ redirect_from:
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">ObjectRelator: Enabling Cross-View Object Relation Understanding in Ego-Centric and Exo-Centric Perspectives</span><br>
              <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Runze Wang, Bin Ren, Guolei Sun, Biao Gong, Yanwei Fu, Danda Pani Paudel, Xuanjing Huang, Luc Van Gool</span></span><br>
-             <span style="font-weight:normal;font-size:16px"> International Conference on Computer Vision (<strong>ICCV</strong>), 2025</span><br>
+             <span style="font-weight:normal;font-size:16px"> International Conference on Computer Vision (<strong>ICCV Highlight</strong>), 2025</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2411.19083">论文</a>][<a href="https://github.com/lovelyqian/ObjectRelator">代码</a>][<a href="">Youtube视频 (Coming Soon) </a>][<a href="">Bilibili视频 (Coming Soon) </a>][<a href="http://yuqianfu.com/ObjectRelator/">项目主页</a>]</span>
     </th>
   </tr> 

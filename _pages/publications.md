@@ -13,7 +13,11 @@ redirect_from:
 
 <ul>
  <li>
-    <p><a href="">ObjectRelator: Enabling Cross-View Object Relation Understanding in Ego-Centric and Exo-Centric Videos</a><br/><strong>Yuqian Fu</strong>, Runze Wang, Bin Ren, Guolei Sun, Biao Gong, Yanwei Fu, Danda Pani Paudel, Xuanjing Huang, Luc Van Gool<br /> International Conference on Computer Vision  (<strong>ICCV</strong>), 2025. 
+    <p><a href="">MinD-3D++: Advancing fMRI-Based 3D Reconstruction with High-Quality Textured Mesh Generation and a Comprehensive Dataset</a><br/>Jianxiong Gao, Yanwei Fu, <strong>Yuqian Fu</strong>, Yun Wang, Xuelin Qian, Jianfeng Feng<br /> IEEE Transactions on Pattern Analysis and Machine Intelligence  (<strong>TPAMI</strong>), 2025. 
+    <br /> [<a href="https://arxiv.org/abs/2409.11315">Paper</a>][<a href="https://github.com/JianxGao/MinD-3D">Code</a>][<a href="https://jianxgao.github.io/MinD-3D/">Project Page</a>]</p>
+  </li>
+ <li>
+    <p><a href="">ObjectRelator: Enabling Cross-View Object Relation Understanding in Ego-Centric and Exo-Centric Videos</a><br/><strong>Yuqian Fu</strong>, Runze Wang, Bin Ren, Guolei Sun, Biao Gong, Yanwei Fu, Danda Pani Paudel, Xuanjing Huang, Luc Van Gool<br /> International Conference on Computer Vision  (<strong>ICCV Highlight</strong>), 2025. 
     <br /> [<a href="https://arxiv.org/pdf/2411.19083">Paper</a>][<a href="https://github.com/lovelyqian/ObjectRelator">Code</a>][<a href="">Youtube Video (Coming Soon) </a>][<a href="">Bilibili Video (Coming Soon) </a>][<a href="http://yuqianfu.com/ObjectRelator/">Project Page</a>]</p>
   </li>
    <li>

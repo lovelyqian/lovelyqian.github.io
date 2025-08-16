@@ -26,8 +26,9 @@ My research topics are computer vision and deep learning. I mainly aim to build 
 News
 ------
 <ul>
+  <li>[08/2025] One paper is accepted by TPAMI. Congrats to Jianxiong. Check out <a href="https://arxiv.org/abs/2409.11315">MinD-3D++</a>.</li>
   <li>[08/2025] I was promoted to Research Scientist at INSAIT.</li>
-  <li>[06/2025] Four papers are accepted by ICCV 2025. Check out <a href="https://arxiv.org/pdf/2411.19083">ObjectRelator</a>, <a href="https://arxiv.org/pdf/2507.23567?">3D-MOOD</a>, <a href="https://arxiv.org/pdf/2405.17773">XTrack</a>, and <a href="https://arxiv.org/pdf/2412.01370">Museum</a>.</li>
+  <li>[06/2025] Four papers are accepted by ICCV 2025. Check out <a href="https://arxiv.org/pdf/2411.19083">ObjectRelator (<strong>Highlight</strong>)</a>, <a href="https://arxiv.org/pdf/2507.23567?">3D-MOOD</a>, <a href="https://arxiv.org/pdf/2405.17773">XTrack</a>, and <a href="https://arxiv.org/pdf/2412.01370">Museum</a>.</li>
   <li>[06/2025] Two papers are accepted by IROS 2025. Check out <a href="https://arxiv.org/pdf/2506.18856">RAG-6DPose</a> and <a href="https://arxiv.org/pdf/2503.09078">SeqMultiGrasp</a>.</li>
   <li>[06/2025] We were awarded 2nd place in the Correspondences track of the 2025 EgoVis Ego-Exo4D Challenge. Technical report <a href="https://arxiv.org/abs/2506.05856">here</a>. </li>
   <li>[04/2025] We successfully hosted the 1-st CD-FSOD Challenge @ NTIRE CVPR Workshop 2025. Workshop paper <a href="https://arxiv.org/pdf/2504.10685">here</a>. </li>
@@ -75,7 +76,7 @@ Selected Publications
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">ObjectRelator: Enabling Cross-View Object Relation Understanding in Ego-Centric and Exo-Centric Perspectives</span><br>
              <span style="font-size:16px">Yuqian Fu<span style="font-weight:normal">, Runze Wang, Bin Ren, Guolei Sun, Biao Gong, Yanwei Fu, Danda Pani Paudel, Xuanjing Huang, Luc Van Gool</span></span><br>
-             <span style="font-weight:normal;font-size:16px"> International Conference on Computer Vision (<strong>ICCV</strong>), 2025</span><br>
+             <span style="font-weight:normal;font-size:16px"> International Conference on Computer Vision (<strong>ICCV Highlight</strong>), 2025</span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2411.19083">Paper</a>][<a href="https://github.com/lovelyqian/ObjectRelator">Code</a>][<a href="">Youtube Video (Coming Soon) </a>][<a href="">Bilibili Video (Coming Soon) </a>][<a href="http://yuqianfu.com/ObjectRelator/">Project Page </a>]</span>
     </th>
   </tr> 
