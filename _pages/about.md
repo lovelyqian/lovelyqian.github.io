@@ -32,7 +32,7 @@ to explore exciting frontiers in <strong>egocentric vision with MLLMs</strong>. 
 News
 ------
 <ul>
-  <li>[08/2025] Excited to share that our project on <strong>egocentric vision with MLLMs</strong> has been funded by <span style="color:red; font-weight:bold;">Google</span>. PhD positions will be announced soon — stay tuned! <a href="https://www.linkedin.com/posts/martinvechev_insait-google-ai-activity-7365662899433783296-Zwjk?utm_source=share&utm_medium=member_ios&rcm=ACoAAE8Eu5AB0jJHHV4bVOWa2UW5mJaECUQ62Uk" target="_blank"> More details here. </a></li>
+  <li>[08/2025] Excited to share that our project on <strong>egocentric vision with MLLMs</strong> has been funded by <span style="color:red; font-weight:bold;">Google</span>. PhD positions will be announced soon — stay tuned! <a href="https://www.linkedin.com/posts/martinvechev_insait-google-ai-activity-7365662899433783296-Zwjk?utm_source=share&utm_medium=member_ios&rcm=ACoAAE8Eu5AB0jJHHV4bVOWa2UW5mJaECUQ62Uk" target="_blank">More details here.</a></li>
   <li>[08/2025] One paper is accepted by TPAMI. Congrats to Jianxiong. Check out <a href="https://arxiv.org/abs/2409.11315">MinD-3D++</a>.</li>
   <li>[08/2025] I was promoted to Research Scientist at INSAIT.</li>
   <li>[06/2025] Four papers are accepted by ICCV 2025. Check out <a href="https://arxiv.org/pdf/2411.19083">ObjectRelator (<strong>Highlight</strong>)</a>, <a href="https://arxiv.org/pdf/2507.23567?">3D-MOOD</a>, <a href="https://arxiv.org/pdf/2405.17773">XTrack</a>, and <a href="https://arxiv.org/pdf/2412.01370">Museum</a>.</li>
