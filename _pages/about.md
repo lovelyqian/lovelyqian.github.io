@@ -17,7 +17,13 @@ I received my Ph.D. degree from School of Computer Science, Fudan University, Ch
 
 My research topics are computer vision and deep learning. I mainly aim to build more generalizable vision models by addressing challenges that arise when applying them to downstream tasks, such as few-shot learning,  cross-domain learning, open-vocabulary learning, and multimodal fusion.  Recently, my interests have expanded toward cross-view learning, particularly in bridging exo-centric and ego-centric vision. I am excited about advancing intelligent assistants for egocentric vision understanding.
 
-<i>If you're interested in discussing potential collaborations or considering joining us as a visiting researcher or PhD student, especially on the topic with egocentric vision, please feel free to drop an email to me: yuqian.fu@insait.ai. <i>
+<!-- <i>If you're interested in discussing potential collaborations or considering joining us as a visiting researcher or PhD student, especially on the topic with egocentric vision, please feel free to drop an email to me: yuqian.fu@insait.ai. <i> -->
+
+<i>
+🚀 Thanks to the funding from <span style="color:red; font-weight:bold;">Google</span>, we are opening new <span style="color:red; font-weight:bold;">PhD positions</span> 
+to explore exciting frontiers in <strong>egocentric vision with MLLMs</strong>. If you are interested, please feel free to apply on <a href="https://insait.ai/phd/" target="_blank"><strong>https://insait.ai/phd/</strong></a> and drop me an email: <strong>yuqian.fu@insait.ai</strong>.
+</i>
+
 
 
  <!--I am currently a Ph.D. Candidate at <a href="https://fvl.fudan.edu.cn">FVL</a> Lab, Fudan University, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a>, co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>, and Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, Hangzhou, China, in 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>. My current research topics are computer vision and deep learning, and I am mainly focused on few-shot learning especially cross-domain few-shot learning, and few-shot video action recognition.--> 
@@ -26,6 +32,7 @@ My research topics are computer vision and deep learning. I mainly aim to build 
 News
 ------
 <ul>
+  <li>[08/2025] Excited to share that our project on <strong>egocentric vision with multimodal LLMs</strong> has been funded by Google. PhD positions will be announced soon — stay tuned! <a href="https://www.linkedin.com/posts/martinvechev_insait-google-ai-activity-7365662899433783296-Zwjk?utm_source=share&utm_medium=member_ios&rcm=ACoAAE8Eu5AB0jJHHV4bVOWa2UW5mJaECUQ62Uk" target="_blank"> More details here. </li>
   <li>[08/2025] One paper is accepted by TPAMI. Congrats to Jianxiong. Check out <a href="https://arxiv.org/abs/2409.11315">MinD-3D++</a>.</li>
   <li>[08/2025] I was promoted to Research Scientist at INSAIT.</li>
   <li>[06/2025] Four papers are accepted by ICCV 2025. Check out <a href="https://arxiv.org/pdf/2411.19083">ObjectRelator (<strong>Highlight</strong>)</a>, <a href="https://arxiv.org/pdf/2507.23567?">3D-MOOD</a>, <a href="https://arxiv.org/pdf/2405.17773">XTrack</a>, and <a href="https://arxiv.org/pdf/2412.01370">Museum</a>.</li>
