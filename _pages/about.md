@@ -32,6 +32,7 @@ to explore exciting frontiers in <strong>egocentric vision with MLLMs</strong>. 
 News
 ------
 <ul>
+  <li>[09/2025] Two papers are accepted by NeurIPS 2025. Check out <a href="https://arxiv.org/pdf/2506.05872?">Domain-RAG</a> and <a href="https://arxiv.org/pdf/2503.19730?">CamSAM2</a>.</li>
   <li>[08/2025] Excited to share that our project on <strong>egocentric vision with MLLMs</strong> has been funded by <span style="color:red; font-weight:bold;">Google</span>. PhD positions will be announced soon — stay tuned! <a href="https://www.linkedin.com/posts/martinvechev_insait-google-ai-activity-7365662899433783296-Zwjk?utm_source=share&utm_medium=member_ios&rcm=ACoAAE8Eu5AB0jJHHV4bVOWa2UW5mJaECUQ62Uk" target="_blank">More details here.</a></li>
   <li>[08/2025] One paper is accepted by TPAMI. Congrats to Jianxiong. Check out <a href="https://arxiv.org/abs/2409.11315">MinD-3D++</a>.</li>
   <li>[08/2025] I was promoted to Research Scientist at INSAIT.</li>
@@ -75,6 +76,22 @@ News
 
 Selected Publications
 ------
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/DomainRAG.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection</span><br>
+            <br><span style="font-size:16px; font-weight:normal">
+            Yu Li, Xingyu Qiu, <strong>Yuqian Fu ‡</strong>, Jie Chen, Tianwen Qian, Xu Zheng, Danda Pani Paudel, Yanwei Fu, Xuanjing Huang, Luc Van Gool, Yu-Gang Jiang
+            </span><br>
+             <span style="font-weight:normal;font-size:16px"> Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2506.05872?">Paper</a>][<a href="">Code</a>][<a href="">Youtube Video (Coming Soon) </a>][<a href="">Bilibili Video (Coming Soon) </a>][<a href="">Project Page </a>]</span>
+    </th>
+  </tr> 
+</table>
+
 <table style="width:100%">
   <tr>
     <th width="30%">

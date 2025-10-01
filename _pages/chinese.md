@@ -69,6 +69,22 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <th width="30%">
+      <img src="../images/DomainRAG.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection</span><br>
+            <br><span style="font-size:16px; font-weight:normal">
+            Yu Li, Xingyu Qiu, <strong>Yuqian Fu ‡</strong>, Jie Chen, Tianwen Qian, Xu Zheng, Danda Pani Paudel, Yanwei Fu, Xuanjing Huang, Luc Van Gool, Yu-Gang Jiang
+            </span><br>
+             <span style="font-weight:normal;font-size:16px"> Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2506.05872?">论文</a>][<a href="">代码</a>][<a href="">Youtube视频 (Coming Soon) </a>][<a href="">Bilibili视频 (Coming Soon) </a>][<a href="">项目主页</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
       <img src="../images/ObjectRelator.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">

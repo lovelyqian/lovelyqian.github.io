@@ -13,6 +13,14 @@ redirect_from:
 
 <ul>
  <li>
+    <p><a href="">Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection</a><br/>Yu Li, Xingyu Qiu, <strong>Yuqian Fu ‡</strong>, Jie Chen, Tianwen Qian, Xu Zheng, Danda Pani Paudel, Yanwei Fu, Xuanjing Huang, Luc Van Gool, Yu-Gang Jiang<br /> Conference on Neural Information Processing Systems  (<strong>NeurIPS</strong>), 2025. 
+    <br /> [<a href="https://arxiv.org/pdf/2506.05872?">Paper</a>][<a href="">Code</a>][<a href="">Project Page</a>]</p>
+  </li>
+  <li>
+    <p><a href="">CamSAM2: Segment Anything Accurately in Camouflaged Videos</a><br/>Yuli Zhou, Guolei Sun, Yawei Li, <strong>Yuqian Fu</strong>, Luca Benini, Ender Konukoglu<br /> Conference on Neural Information Processing Systems  (<strong>NeurIPS</strong>), 2025. 
+    <br /> [<a href="https://arxiv.org/pdf/2503.19730?">Paper</a>][<a href="">Code</a>][<a href="">Project Page</a>]</p>
+  </li>
+ <li>
     <p><a href="">MinD-3D++: Advancing fMRI-Based 3D Reconstruction with High-Quality Textured Mesh Generation and a Comprehensive Dataset</a><br/>Jianxiong Gao, Yanwei Fu, <strong>Yuqian Fu</strong>, Yun Wang, Xuelin Qian, Jianfeng Feng<br /> IEEE Transactions on Pattern Analysis and Machine Intelligence  (<strong>TPAMI</strong>), 2025. 
     <br /> [<a href="https://arxiv.org/abs/2409.11315">Paper</a>][<a href="https://github.com/JianxGao/MinD-3D">Code</a>][<a href="https://jianxgao.github.io/MinD-3D/">Project Page</a>]</p>
   </li>
@@ -36,7 +44,7 @@ redirect_from:
     <br /> [<a href="https://arxiv.org/pdf/2412.01370">Paper</a>][<a href="">Code</a>]</p>
   </li>
  <li>
-    <p><a href="">RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base</a><br/>Kuanning Wang, <strong>Yuqian Fu</strong>, Tianyu Wang, Yanwei Fu, Longfei Liang, Yu-Gang Jiang, Xiangyang Xue<br /> International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025. 
+    <p><a href="">RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base</a><br/>Kuanning Wang, <strong>Yuqian Fu ‡</strong>, Tianyu Wang, Yanwei Fu, Longfei Liang, Yu-Gang Jiang, Xiangyang Xue<br /> International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025. 
     <br /> [<a href="https://arxiv.org/pdf/2506.18856">Paper</a>][<a href="https://sressers.github.io/RAG-6DPose/">Project Page</a>]</p>
   </li>
  <li>
