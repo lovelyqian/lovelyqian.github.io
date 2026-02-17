@@ -10,13 +10,12 @@ redirect_from:
 
 {% include base_path %}
 
-
+<ul>
  <li>
     <p><a href="">SeGDP: Source-free Cross-domain Few-shot Learning via Semantic Guided Diversity Prompting</a><br/>Linhai Zhuo, Zheng Wang, Tianwen Qian, <strong>Yuqian Fu</strong><br /> ACM Transactions on Multimedia Computing, Communications and Applications (<strong>TOMM</strong>), 2026. 
     <br /> [<a href="https://arxiv.org/abs/2412.00767">Paper</a>]</p>
   </li>
 
-<ul>
  <li>
     <p><a href="">OCRA: Object-Centric Learning with 3D and Tactile Priors for Human-to-Robot Action Transfer</a><br/>Kuanning Wang, Ke Fan, <strong>Yuqian Fu ‡</strong>, Siyu Lin, Hu Luo, Daniel Seita, Yanwei Fu, Yu-Gang Jiang, Xiangyang Xue<br /> IEEE International Conference on Robotics & Automation (<strong>ICRA</strong>), 2026. 
     <br /> [<a href="">Paper</a>][<a href="">Code</a>][<a href="">Project Page </a>]</p>

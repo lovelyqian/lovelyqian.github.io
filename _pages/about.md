@@ -33,7 +33,7 @@ to explore exciting frontiers in <strong>egocentric vision with MLLMs</strong>. 
 
 News
 ------
-<ul>
+<ul class="news">
   <li>[01/2026] Two papers are accepted by IRCA 2026. Check out <a href="https://arxiv.org/pdf/2510.11566">SCOOP'D</a> and <a href="">OCRA</a>.</li>
   <li>[01/2026] Two papers are accepted by ICLR 2026. Check out <a href="https://arxiv.org/pdf/2510.06218?">EgoNight</a> and <a href="https://arxiv.org/pdf/2505.18679?">MIRAGE</a>.</li>
   <li>[01/2026] Two papers are accepted by AAAI 2025. Check out <a href="https://arxiv.org/pdf/2508.10729">EgoCross</a> and <a href="https://arxiv.org/pdf/2511.15580">CompTrack</a>.</li>
@@ -66,6 +66,39 @@ News
   <li>[07/2019] One paper is accepted by ACM MM 2019.</li>
   <li>[09/2018] I joined FVL lab at Fudan University. </li>
 </ul>
+<!-- <ul>
+  <li>[01/2026] Two papers are accepted by IRCA 2026. Check out <a href="https://arxiv.org/pdf/2510.11566">SCOOP'D</a> and <a href="">OCRA</a>.</li>
+  <li>[01/2026] Two papers are accepted by ICLR 2026. Check out <a href="https://arxiv.org/pdf/2510.06218?">EgoNight</a> and <a href="https://arxiv.org/pdf/2505.18679?">MIRAGE</a>.</li>
+  <li>[01/2026] Two papers are accepted by AAAI 2025. Check out <a href="https://arxiv.org/pdf/2508.10729">EgoCross</a> and <a href="https://arxiv.org/pdf/2511.15580">CompTrack</a>.</li>
+  <li>[09/2025] Two papers are accepted by NeurIPS 2025. Check out <a href="https://arxiv.org/pdf/2506.05872?">Domain-RAG</a> and <a href="https://arxiv.org/pdf/2503.19730?">CamSAM2</a>.</li>
+  <li>[08/2025] Excited to share that our project on <strong>egocentric vision with MLLMs</strong> has been funded by <span style="color:red; font-weight:bold;">Google</span>. PhD positions will be announced soon — stay tuned! <a href="https://www.linkedin.com/posts/martinvechev_insait-google-ai-activity-7365662899433783296-Zwjk?utm_source=share&utm_medium=member_ios&rcm=ACoAAE8Eu5AB0jJHHV4bVOWa2UW5mJaECUQ62Uk" target="_blank">More details here.</a></li>
+  <li>[08/2025] One paper is accepted by TPAMI. Congrats to Jianxiong. Check out <a href="https://arxiv.org/abs/2409.11315">MinD-3D++</a>.</li>
+  <li>[08/2025] I was promoted to Research Scientist at INSAIT.</li>
+  <li>[06/2025] Four papers are accepted by ICCV 2025. Check out <a href="https://arxiv.org/pdf/2411.19083">ObjectRelator (<strong>Highlight</strong>)</a>, <a href="https://arxiv.org/pdf/2507.23567?">3D-MOOD</a>, <a href="https://arxiv.org/pdf/2405.17773">XTrack</a>, and <a href="https://arxiv.org/pdf/2412.01370">Museum</a>.</li>
+  <li>[06/2025] Two papers are accepted by IROS 2025. Check out <a href="https://arxiv.org/pdf/2506.18856">RAG-6DPose</a> and <a href="https://arxiv.org/pdf/2503.09078">SeqMultiGrasp</a>.</li>
+  <li>[06/2025] We were awarded 2nd place in the Correspondences track of the 2025 EgoVis Ego-Exo4D Challenge. Technical report <a href="https://arxiv.org/abs/2506.05856">here</a>. </li>
+  <li>[04/2025] We successfully hosted the 1-st CD-FSOD Challenge @ NTIRE CVPR Workshop 2025. Workshop paper <a href="https://arxiv.org/pdf/2504.10685">here</a>. </li>
+  <li>[01/2025] One paper is accepted by RA-L. Congrats to Tim. </li>
+  <li>[12/2024] One paper is accepted by AAAI 2025. Congrats to Jiancheng.</li>
+  <li>[07/2024] We have relaunched the <a href="http://yuqianfu.com/UnrealAction-Dataset">UnrealAction</a> dataset. </li>
+  <li>[07/2024] Two papers are accepted by ECCV 2024. Congrats to Jianxiong, Yu, and Yixuan.</li>
+  <li>[04/2024] I joined INSAIT as a postdoc researcher. </li>
+  <li>[12/2023] One paper is accepted by AAAI 2024. Congrats to Wentao.</li>
+  <li>[09/2023] I joined CVL lab at ETH Zürich. </li>
+  <li>[07/2023] One paper is accepted by ACM MM 2023. </li>
+  <li>[06/2023] I have earned a doctoral degree. </li>
+  <li>[04/2023] I have received 100 citations! </li>
+  <li>[02/2023] One paper is accepted by CVPR 2023. </li>
+  <li>[10/2022] One paper is accepted by TIP. </li>
+  <li>[06/2022] Two papers are accepted by ACM MM 2022.</li>
+  <li>[12/2021] I am recognized as an outstanding student of Fudan University.</li>
+  <li>[06/2021] One paper is accepted by ACM MM 2021.</li>
+  <li>[04/2021] One paper is accepted by ICMR 2021.</li>
+  <li>[07/2020] One paper is accepted by ACM MM 2020.</li>
+  <li>[12/2019] I am awarded the Chinese National Scholarship.</li>
+  <li>[07/2019] One paper is accepted by ACM MM 2019.</li>
+  <li>[09/2018] I joined FVL lab at Fudan University. </li>
+</ul> -->
 
 <!-- Selected Publications
 # To update this
