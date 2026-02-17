@@ -66,6 +66,7 @@ News
   <li>[07/2019] One paper is accepted by ACM MM 2019.</li>
   <li>[09/2018] I joined FVL lab at Fudan University. </li>
 </ul>
+
 <!-- <ul>
   <li>[01/2026] Two papers are accepted by IRCA 2026. Check out <a href="https://arxiv.org/pdf/2510.11566">SCOOP'D</a> and <a href="">OCRA</a>.</li>
   <li>[01/2026] Two papers are accepted by ICLR 2026. Check out <a href="https://arxiv.org/pdf/2510.06218?">EgoNight</a> and <a href="https://arxiv.org/pdf/2505.18679?">MIRAGE</a>.</li>

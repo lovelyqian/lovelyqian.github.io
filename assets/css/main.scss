@@ -40,7 +40,48 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+// .news {
+//   max-height: 300px;
+//   overflow-y: auto;
+// }
+
 .news {
   max-height: 300px;
   overflow-y: auto;
+  padding-right: 10px; /* 为滚动条留出微小间距 */
+  
+  /* 方案 2：边缘渐变遮罩 (Mask) */
+  /* 效果：让顶部和底部边缘呈现透明虚化，暗示内容连续 */
+  -webkit-mask-image: linear-gradient(
+    to bottom,
+    transparent 0%,
+    black 8%,    /* 顶部 8% 开始完全显示 */
+    black 92%,   /* 底部 92% 开始虚化 */
+    transparent 100%
+  );
+  mask-image: linear-gradient(
+    to bottom,
+    transparent 0%,
+    black 8%,
+    black 92%,
+    transparent 100%
+  );
+
+  /* 方案 1：精细化滚动条 (Webkit 内核) */
+  &::-webkit-scrollbar {
+    width: 4px; /* 极细滚动条，更具现代感 */
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.15); /* 浅灰色半透明 */
+    border-radius: 10px;
+    
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.3); /* 鼠标移上去颜色加深 */
+    }
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent; /* 轨道完全透明 */
+  }
 }
