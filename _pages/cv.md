@@ -12,7 +12,9 @@ redirect_from:
 
 Education
 ------
-* Postdoc: ETH Zürich (2023-)
+* Postdoc and then Research Scientist: INSAIT (2024-2025)
+  * Research Interests: Multimodal Video Language Models, Egocentric Video Understanding.
+* Postdoc: ETH Zürich (2023-2024)
   * Research Interests: Few-Shot Learning, Domain Generalization, Open-Vocabulary Learning, Human Brain Reading
 * Ph.D: Fudan University (2018-2023)
   * GPA: 3.7/4.0 (<strong>Top 1</strong>)

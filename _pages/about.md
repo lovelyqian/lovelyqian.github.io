@@ -10,19 +10,21 @@ redirect_from:
 
 Biography
 ------
-I am currectly a research scientist at <a href="https://insait.ai/">INSAIT</a>, Sofia, Bulgaria, working with Prof. <a href="https://insait.ai/prof-luc-van-gool/">Luc Van Gool</a> and Dr. <a href="https://insait.ai/dr-danda-paudel/">Danda Paudel</a>. Previously, I was a postdoc researcher at <a href="https://vision.ee.ethz.ch/">Computer Vision Lab (CVL)</a>, ETH Zürich,  Switzerland, where I was also fortunate to be mentored by Prof. <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html">Luc Van Gool</a>. 
+I am currently a visiting scholar at <a href="https://soai.sjtu.edu.cn/">Scholar of Artifical Intelligence, SJTU</a>. Right before, I worked as a research scientist at <a href="https://insait.ai/">INSAIT</a>, Sofia, Bulgaria, working with Prof. <a href="https://insait.ai/prof-luc-van-gool/">Luc Van Gool</a> and Dr. <a href="https://insait.ai/dr-danda-paudel/">Danda Paudel</a>. Previously, I was a postdoc researcher at <a href="https://vision.ee.ethz.ch/">Computer Vision Lab (CVL)</a>, ETH Zürich,  Switzerland, where I was also fortunate to be mentored by Prof. <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html">Luc Van Gool</a>. 
 
 I received my Ph.D. degree from School of Computer Science, Fudan University, China,  in June 2023, advised by Prof. <a href="https://fvl.fudan.edu.cn/people/yugangjiang">Yu-Gang Jiang</a> and co-advised by Prof. <a href="https://yanweifu.github.io/">Yanwei Fu</a>. During my Ph.D studies, I also worked closely with Associate Professor <a href="http://vireo.cs.cityu.edu.hk/jingjing">Jingjing Chen</a>. Before that, I received my bachelor’s degree in computer science from Zhejiang University of Technology, China, in June 2018, supervised by Associate Professor <a href ="http://www.homepage.zjut.edu.cn/congbai/">Cong Bai</a>.
 
 
 My research topics are computer vision and deep learning. I mainly aim to build more generalizable vision models by addressing challenges that arise when applying them to downstream tasks, such as few-shot learning,  cross-domain learning, open-vocabulary learning, and multimodal fusion.  Recently, my interests have expanded toward cross-view learning, particularly in bridging exo-centric and ego-centric vision. I am excited about advancing intelligent assistants for egocentric vision understanding.
 
-<!-- <i>If you're interested in discussing potential collaborations or considering joining us as a visiting researcher or PhD student, especially on the topic with egocentric vision, please feel free to drop an email to me: yuqian.fu@insait.ai. <i> -->
-
 <i>
+📮 If you're interested in discussing potential collaborations, especially on the topic with egocentric vision, please feel free to drop an email to me: <strong>yuqian.fu.ai@gmail.com</strong>.
+</i> 
+
+<!-- <i>
 🚀 Thanks to the funding from <span style="color:red; font-weight:bold;">Google</span>, we are opening new <span style="color:red; font-weight:bold;">PhD positions</span> 
 to explore exciting frontiers in <strong>egocentric vision with MLLMs</strong>. If you are interested, please feel free to apply on <a href="https://insait.ai/phd/" target="_blank"><strong>https://insait.ai/phd/</strong></a> and drop me an email: <strong>yuqian.fu@insait.ai</strong>.
-</i>
+</i> -->
 
 
 
@@ -32,6 +34,9 @@ to explore exciting frontiers in <strong>egocentric vision with MLLMs</strong>. 
 News
 ------
 <ul>
+  <li>[01/2026] Two papers are accepted by IRCA 2026. Check out <a href="https://arxiv.org/pdf/2510.11566">SCOOP'D</a> and <a href="">OCRA</a>.</li>
+  <li>[01/2026] Two papers are accepted by ICLR 2026. Check out <a href="https://arxiv.org/pdf/2510.06218?">EgoNight</a> and <a href="https://arxiv.org/pdf/2505.18679?">MIRAGE</a>.</li>
+  <li>[01/2026] Two papers are accepted by AAAI 2025. Check out <a href="https://arxiv.org/pdf/2508.10729">EgoCross</a> and <a href="https://arxiv.org/pdf/2511.15580">CompTrack</a>.</li>
   <li>[09/2025] Two papers are accepted by NeurIPS 2025. Check out <a href="https://arxiv.org/pdf/2506.05872?">Domain-RAG</a> and <a href="https://arxiv.org/pdf/2503.19730?">CamSAM2</a>.</li>
   <li>[08/2025] Excited to share that our project on <strong>egocentric vision with MLLMs</strong> has been funded by <span style="color:red; font-weight:bold;">Google</span>. PhD positions will be announced soon — stay tuned! <a href="https://www.linkedin.com/posts/martinvechev_insait-google-ai-activity-7365662899433783296-Zwjk?utm_source=share&utm_medium=member_ios&rcm=ACoAAE8Eu5AB0jJHHV4bVOWa2UW5mJaECUQ62Uk" target="_blank">More details here.</a></li>
   <li>[08/2025] One paper is accepted by TPAMI. Congrats to Jianxiong. Check out <a href="https://arxiv.org/abs/2409.11315">MinD-3D++</a>.</li>
@@ -76,6 +81,38 @@ News
 
 Selected Publications
 ------
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/egonight.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">EgoNight: Towards Egocentric Vision Understanding at Night with a Challenging Benchmark</span><br>
+            <br><span style="font-size:16px; font-weight:normal">
+            Deheng Zhang, <strong>Yuqian Fu ‡</strong>, Runyi Yang, Yang Miao, Tianwen Qian, Xu Zheng, Guolei Sun, Ajad Chhatkuli, Xuanjing Huang, Yu-Gang Jiang, Luc Van Gool, Danda Pani Paudel
+            </span><br>
+             <span style="font-weight:normal;font-size:16px"> International Conference on Learning Representations (<strong>ICLR</strong>), 2026</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2510.06218?">Paper</a>][<a href="">Code</a>][<a href="">Project Page </a>]</span>
+    </th>
+  </tr> 
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/egocross.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">EgoCross: Benchmarking Multimodal Large Language Models for Cross-Domain Egocentric Video Question Answering</span><br>
+            <br><span style="font-size:16px; font-weight:normal">
+            Yanjun Li, <strong>Yuqian Fu</strong>, Tianwen Qian, Qi'ao Xu, Silong Dai, Danda Pani Paudel, Luc Van Gool, Xiaoling Wang
+            </span><br>
+             <span style="font-weight:normal;font-size:16px"> The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2508.10729">Paper</a>][<a href="https://github.com/MyUniverse0726/EgoCross">Code</a>][<a href="https://egocross-benchmark.github.io/">Project Page </a>]</span>
+    </th>
+  </tr> 
+</table>
+
 <table style="width:100%">
   <tr>
     <th width="30%">

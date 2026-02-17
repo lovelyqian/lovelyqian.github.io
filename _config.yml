@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yuqian Fu"
   avatar           : "profile.png"
-  bio              : "Research Scientist"
-  location         : "Bulgaria"
+  bio              : Postdoc #"Research Scientist"
+  location         : #"Bulgaria"
   employer         : #"Fudan University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=y3Bpp1IAAAAJ&hl=zh-CN"

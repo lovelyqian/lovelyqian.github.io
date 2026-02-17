@@ -11,7 +11,36 @@ redirect_from:
 {% include base_path %}
 
 
+ <li>
+    <p><a href="">SeGDP: Source-free Cross-domain Few-shot Learning via Semantic Guided Diversity Prompting</a><br/>Linhai Zhuo, Zheng Wang, Tianwen Qian, <strong>Yuqian Fu</strong><br /> ACM Transactions on Multimedia Computing, Communications and Applications (<strong>TOMM</strong>), 2026. 
+    <br /> [<a href="https://arxiv.org/abs/2412.00767">Paper</a>]</p>
+  </li>
+
 <ul>
+ <li>
+    <p><a href="">OCRA: Object-Centric Learning with 3D and Tactile Priors for Human-to-Robot Action Transfer</a><br/>Kuanning Wang, Ke Fan, <strong>Yuqian Fu ‡</strong>, Siyu Lin, Hu Luo, Daniel Seita, Yanwei Fu, Yu-Gang Jiang, Xiangyang Xue<br /> IEEE International Conference on Robotics & Automation (<strong>ICRA</strong>), 2026. 
+    <br /> [<a href="">Paper</a>][<a href="">Code</a>][<a href="">Project Page </a>]</p>
+  </li>
+ <li>
+    <p><a href="">SCOOP'D: Learning Mixed-Liquid-Solid Scooping via Sim2Real Generative Policy</a><br/>Kuanning Wang, Yongchong Gu, <strong>Yuqian Fu</strong>, Zeyu Shangguan, Sicheng He, Xiangyang Xue, Yanwei Fu, Daniel Seita<br /> IEEE International Conference on Robotics & Automation (<strong>ICRA</strong>), 2026. 
+    <br /> [<a href="https://arxiv.org/pdf/2510.11566">Paper</a>][<a href="">Code</a>][<a href="https://scoopdiff.github.io/">Project Page </a>]</p>
+  </li>
+ <li>
+    <p><a href="">Egonight: Towards Egocentric Vision Understanding at Night with a Challenging Benchmark</a><br/>Deheng Zhang, <strong>Yuqian Fu ‡</strong>, Runyi Yang, Yang Miao, Tianwen Qian, Xu Zheng, Guolei Sun, Ajad Chhatkuli, Xuanjing Huang, Yu-Gang Jiang, Luc Van Gool, Danda Pani Paudel<br /> International Conference on Learning Representations (<strong>ICLR</strong>), 2026. 
+    <br /> [<a href="https://arxiv.org/pdf/2510.06218?">Paper</a>][<a href="">Code</a>][<a href="">Project Page </a>]</p>
+  </li>
+ <li>
+    <p><a href="">Efficient Degradation-agnostic Image Restoration via Channel-Wise Functional Decomposition and Manifold Regularization</a><br/>Bin Ren, Yawei Li, Xu Zheng, <strong>Yuqian Fu</strong>, Danda Pani Paudel, Hong Liu, Ming-Hsuan Yang, Luc Van Gool, Nicu Sebe<br /> International Conference on Learning Representations (<strong>ICLR</strong>), 2026. 
+    <br /> [<a href="https://arxiv.org/pdf/2505.18679?">Paper</a>]</p>
+  </li>
+ <li>
+    <p><a href="">EgoCross: Benchmarking Multimodal Large Language Models for Cross-Domain Egocentric Video Question Answering</a><br/>Yanjun Li, <strong>Yuqian Fu</strong>, Tianwen Qian, Qi'ao Xu, Silong Dai, Danda Pani Paudel, Luc Van Gool, Xiaoling Wang<br /> The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025. 
+    <br /> [<a href="https://arxiv.org/pdf/2508.10729">Paper</a>][<a href="https://github.com/MyUniverse0726/EgoCross">Code</a>][<a href="https://egocross-benchmark.github.io/">Project Page </a>]</p>
+  </li>
+ <li>
+    <p><a href="">CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking</a><br/>Sifan Zhou, Yichao Cao, Jiahao Nie, <strong>Yuqian Fu</strong>, Ziyu Zhao, Xiaobo Lu, Shuo Wang <br /> The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025. 
+    <br /> [<a href="https://arxiv.org/pdf/2511.15580">Paper</a>]</p>
+  </li>
  <li>
     <p><a href="">Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection</a><br/>Yu Li, Xingyu Qiu, <strong>Yuqian Fu ‡</strong>, Jie Chen, Tianwen Qian, Xu Zheng, Danda Pani Paudel, Yanwei Fu, Xuanjing Huang, Luc Van Gool, Yu-Gang Jiang<br /> Conference on Neural Information Processing Systems  (<strong>NeurIPS</strong>), 2025. 
     <br /> [<a href="https://arxiv.org/pdf/2506.05872?">Paper</a>][<a href="">Code</a>][<a href="">Project Page</a>]</p>

@@ -13,7 +13,9 @@ redirect_from:
 
 教育背景
 ------
-* <strong>苏黎世联邦理工学院</strong> (2023-)
+* <strong>保加利亚INSAIT研究院</strong> (2024-2025)
+  * 博士后, 研究员
+* <strong>苏黎世联邦理工学院</strong> (2023-2024)
   * 博士后
 * <strong>复旦大学</strong> (2018-2023)
   * 硕博连读生
@@ -66,6 +68,38 @@ redirect_from:
 
 科研工作
 ------
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/egonight.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">EgoNight: Towards Egocentric Vision Understanding at Night with a Challenging Benchmark</span><br>
+            <br><span style="font-size:16px; font-weight:normal">
+            Deheng Zhang, <strong>Yuqian Fu ‡</strong>, Runyi Yang, Yang Miao, Tianwen Qian, Xu Zheng, Guolei Sun, Ajad Chhatkuli, Xuanjing Huang, Yu-Gang Jiang, Luc Van Gool, Danda Pani Paudel
+            </span><br>
+             <span style="font-weight:normal;font-size:16px"> International Conference on Learning Representations (<strong>ICLR</strong>), 2026</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2510.06218?">论文</a>][<a href="">代码</a>][<a href="">项目主页</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../images/egocross.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">EgoCross: Benchmarking Multimodal Large Language Models for Cross-Domain Egocentric Video Question Answering</span><br>
+            <br><span style="font-size:16px; font-weight:normal">
+            Yanjun Li, <strong>Yuqian Fu</strong>, Tianwen Qian, Qi'ao Xu, Silong Dai, Danda Pani Paudel, Luc Van Gool, Xiaoling Wang
+            </span><br>
+             <span style="font-weight:normal;font-size:16px"> The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2508.10729">论文</a>][<a href="https://github.com/MyUniverse0726/EgoCross">代码</a>][<a href="https://egocross-benchmark.github.io/">项目主页</a>]</span>
+    </th>
+  </tr> 
+</table>
+
 <table style="width:100%">
   <tr>
     <th width="30%">

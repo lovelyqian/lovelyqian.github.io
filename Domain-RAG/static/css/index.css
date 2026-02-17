@@ -1,0 +1,265 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+
+.footer .icon-link {
+    font-size: 25px;
+    color: #000;
+}
+
+.link-block a {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.dnerf {
+  font-variant: small-caps;
+}
+
+
+.teaser .hero-body {
+  padding-top: 0;
+  padding-bottom: 3rem;
+}
+
+.teaser {
+  font-family: 'Google Sans', sans-serif;
+}
+
+
+.publication-title {
+}
+
+.publication-banner {
+  max-height: parent;
+
+}
+
+.publication-banner video {
+  position: relative;
+  left: auto;
+  top: auto;
+  transform: none;
+  object-fit: fit;
+}
+
+.publication-header .hero-body {
+}
+
+.publication-title {
+    font-family: 'Google Sans', sans-serif;
+}
+
+.publication-authors {
+    font-family: 'Google Sans', sans-serif;
+}
+
+.publication-venue {
+    color: #555;
+    width: fit-content;
+    font-weight: bold;
+}
+
+.publication-awards {
+    color: #ff3860;
+    width: fit-content;
+    font-weight: bolder;
+}
+
+.publication-authors {
+}
+
+.publication-authors a {
+   color: hsl(204, 86%, 53%) !important;
+}
+
+.publication-authors a:hover {
+    text-decoration: underline;
+}
+
+.author-block {
+  display: inline-block;
+}
+
+.publication-banner img {
+}
+
+.publication-authors {
+  /*color: #4286f4;*/
+}
+
+.publication-video {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+
+    overflow: hidden;
+    border-radius: 10px !important;
+}
+
+.publication-video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.publication-body img {
+}
+
+.results-carousel {
+  overflow: hidden;
+}
+
+.results-carousel .item {
+  margin: 5px;
+  overflow: hidden;
+  border: 1px solid #bbb;
+  border-radius: 10px;
+  padding: 0;
+  font-size: 0;
+}
+
+.results-carousel video {
+  margin: 0;
+}
+
+
+.interpolation-panel {
+  background: #f5f5f5;
+  border-radius: 10px;
+}
+
+.interpolation-panel .interpolation-image {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.interpolation-video-column {
+}
+
+.interpolation-panel .slider {
+  margin: 0 !important;
+}
+
+.interpolation-panel .slider {
+  margin: 0 !important;
+}
+
+#interpolation-image-wrapper {
+  width: 100%;
+}
+#interpolation-image-wrapper img {
+  border-radius: 5px;
+}
+
+
+/* .video-scroll-container {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 1rem;
+  padding: 1rem 0;
+  -webkit-overflow-scrolling: touch;
+} */
+
+/* .video-scroll-container::-webkit-scrollbar {
+  display: none;
+} */
+
+/* .video-card {
+  flex: 0 0 80%;
+  scroll-snap-align: center;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+} */
+
+/* .video-card video {
+  width: 100%;
+  height: auto;
+  display: block;
+} */
+
+/* 横向滚动容器：2 行网格 */
+.video-scroll-container{
+  display: grid;
+  grid-auto-flow: column;        /* 按列填充 */
+  grid-template-rows: repeat(2, auto); /* 固定 2 行 */
+  grid-auto-columns: 1200px;      /* 每列宽度固定 */
+  gap: 16px;
+  overflow-x: auto;
+  padding-bottom: 6px;
+}
+
+/* 卡片外观 */
+.video-card{
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,.08);
+  background: #fff;
+  overflow: hidden;
+}
+
+/* 视频等高显示 */
+.video-card video{
+  display: block;
+  width: 100%;
+  height: 440px;       /* 可以调大，比如 300px */
+  object-fit: cover;   /* 保持比例并裁切（无黑边） */
+}
+
+
+
+/* 横向滚动容器：每列一个视频对，2 行无关了，这里改成单行 */
+.video-scroll-container2{
+  display: grid;
+  grid-auto-flow: column;        /* 按列排列 */
+  grid-auto-columns: 1200px;     /* 每列宽度（放得下2个视频） */
+  gap: 16px;
+  overflow-x: auto;
+  padding-bottom: 6px;
+  justify-content: center; /* 让内容居中 */
+}
+
+
+
+/* 每列的视频对 */
+.video-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* 左右两列 */
+  gap: 16px;
+}
+
+
+
+.hero {
+  background-color: #ffd54f; /* 温暖的浅黄色 */
+}
+
+.hero .title,
+.hero .publication-authors,
+.hero .affiliations {
+  color: #0f172a; /* 深色文字，保证对比度 */
+}
+
+
+
+
+/* 放宽页面内容最大宽度 */
+.container.is-max-desktop{
+  max-width: 1440px;   /* 你也可以用 1200/1440 */
+}
+
+
+
+
+
+
+
+
+
+
+

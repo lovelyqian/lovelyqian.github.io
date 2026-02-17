@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="ObjectRelator: Enabling Cross-View Object Relation Understanding Across Ego-Centric and Exo-Centric Perspectives">
+  <meta name="keywords" content="Cross-View Object Relation Understanding · Egocentric Vision · Ego-Exo4D">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ObjectRelator</title>
+
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="https://lovelyqian.github.io/">
+      <span class="icon">
+          <i class="fas fa-home"></i>
+      </span>
+      </a>
+    </div>
+
+  </div>
+</nav>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title"> ObjectRelator: Enabling Cross-View Object Relation Understanding Across Ego-Centric and Exo-Centric Perspectives</h1>
+          <h2>
+            <span style="color: #0d0e0c; font-size: 1.5em;"><b>ICCV 2025</b></span>
+            <span style="color: #e33825; font-size: 1.5em; font-weight: bold;"> (Highlight)</span>
+          </h2>
+
+          <br>
+          <div class="is-size-5 publication-authors">
+               <span class="author-block">
+              <div>Yuqian Fu<sup>1</sup>, </div>
+            </span>
+            <span class="author-block">
+              <div>Runze Wang<sup>2</sup>, </div>
+            </span>
+            <span class="author-block">
+              <div>Bin Ren<sup>1,3,4</sup>, </div>
+            </span>
+            <span class="author-block">
+              <div>Guolei Sun<sup>5</sup>, </div>
+            </span>
+            <span class="author-block">
+              <div>Biao Gong<sup>6</sup>, </div>  
+            </span> <br>
+            <span class="author-block">
+              <div>Yanwei Fu<sup>2</sup>, </div>
+            </span>
+            <span class="author-block">
+              <div>Danda Pani Paudel<sup>1</sup>, </div>
+            </span>
+            <span class="author-block">
+              <div>Xuanjing Huang<sup>2</sup>, </div>
+            </span>
+            <span class="author-block">
+              <div>Luc Van Gool<sup>1</sup></div>
+            </span>
+          </div>
+
+          <h2><font color=#424949 size="3"> <sup>1</sup>INSAIT, <sup>2</sup>Fudan University, <sup>3</sup>University of Trento, <sup>4</sup>University of Pisa, <sup>5</sup>ETH Zurich, <sup>6</sup>Ant Group</font></h2>
+</font></h2>
+          <br>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <span class="link-block">
+                <a href="https://arxiv.org/pdf/2411.19083"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://github.com/lovelyqian/ObjectRelator"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Data & Code</span>
+                  </a>
+              </span>
+              <!-- Demo Link -->
+             <span class="link-block">
+              <a href="https://huggingface.co/spaces/YuqianFu/ObjectRelatorDemo"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                    <i class="fas fa-play-circle"></i>
+                </span>
+                <span>Live Demo</span>
+              </a>
+            </span>
+              <!-- Video Link. -->
+             <span class="link-block">
+               <a href=""
+                  class="external-link button is-normal is-rounded is-dark">
+                 <span class="icon">
+                     <i class="fab fa-youtube"></i>
+                 </span>
+                 <span>Video (coming soon) </span>
+               </a>
+             </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="content has-text-justified">
+      <p>
+        <span style="font-size: 1.2em; font-weight: bold;"> 
+        <span style="color: #ef5b4b; font-size: 1.2em; font-weight: bold;"> We tackle the task of Ego-Exo Object Correspondence</span> which is recently proposed in  <span style="color: #ef5b4b; font-size: 1.2em; font-weight: bold;"> Ego-Exo4D</span>.  Given object queries from one perspective (e.g., ego view),  the task involves predicting the corresponding object masks in another perspective (e.g., exo view). 
+        Solving this task unlocks new possibilities in  <span style="color: #ef5b4b; font-size: 1.2em; font-weight: bold;"> VR and Robotics</span>, e.g., enabling virtual agents or robots to manipulate ego-view actions by learning from exo-view demonstrations. 
+        </span>
+      </p>
+      </div>
+  </div>
+</section>
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">Video Demos on Ego-Exo4D</h2>
+    <p>
+        <span style="font-size: 1.2em; font-weight: bold;"> 
+         The first row shows Ego2Exo, while the second row shows Exo2Ego. <br> <br>
+        </span>
+    </p>
+
+    <div class="video-scroll-container">
+      <div class="video-card">
+        <video controls>
+          <source src="./imgs/ego2exo_ball.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="video-card">
+        <video controls>
+          <source src="./imgs/exo2ego_soccer.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="video-card">
+        <video controls>
+          <source src="./imgs/ego2exo_bike.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="video-card">
+        <video controls>
+          <source src="./imgs/exo2ego_health.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="video-card">
+        <video controls>
+          <source src="./imgs/ego2exo_piano.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="video-card">
+        <video controls>
+          <source src="./imgs/exo2ego_chicken.mp4" type="video/mp4">
+      </video>
+      </div>
+    </div>
+
+    <p>
+      <br> <br>
+   <span style="font-size: 1.2em; font-weight: bold;"> 
+  More demo can be played here: 
+  <a href="https://huggingface.co/spaces/YuqianFu/ObjectRelatorDemo" target="_blank">
+    https://huggingface.co/spaces/YuqianFu/ObjectRelatorDemo
+  </a>.
+</span>
+    </p>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">Breif Summary & Main Contributions</h2>
+    <div class="content has-text-justified">
+      <p><span style="font-size: 1.2em; font-weight: bold;"> 
+        Despite the importance of this task, <span style="color: #ef5b4b; font-size: 1.2em; font-weight: bold;"> most existing segmentation models</span> (e.g., Mask2Former, SAM, LISA) operate on <span style="color: #ef5b4b; font-size: 1.2em; font-weight: bold;"> single-view inputs</span>, making them <span style="color: #ef5b4b; font-size: 1.2em; font-weight: bold;"> nontrival</span> for it. To address this, we:
+      </span>
+      </p>
+      <p>
+        <ul>
+          <span style="font-size: 1.2em;"> 
+          <li><strong><span style="color: #ef5b4b; font-weight: bold;">Toward Ego-Exo Object Correspondence Task:</span></strong> We conduct an <strong> early exploration</strong> of this challenging task, analyzing its unique difficulties, constructing several baselines, and proposing a new method.</li>
+          <li><strong><span style="color: #ef5b4b; font-weight: bold;">ObjectRelator Framework:</span></strong> We introduce <strong> ObjectRelator</strong>, a cross-view object segmentation method combining MCFuse and XObjAlign. <strong>MCFuse</strong> for the first time introduces the text modality into this task and improves localization using multimodal cues for the same object(s), while <strong>XObjAlign</strong> boosts performance under appearance variations with an object-level consistency constraint.</li>
+          <li><strong><span style="color: #ef5b4b; font-weight: bold;">New Testbed and SOTA Results:</span></strong> Alongside <strong> Ego-Exo4D</strong>, we present <strong> HANDAL-X</strong> as an additional benchmark. ObjectRelator achieves <strong> SOTA</strong> results on both datasets.</li>
+        </ul></span>
+      </p>
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">Framework Overview</h2>
+  <p> <span style="font-size: 1.2em;">  <span style="color: #ef5b4b; font-weight: bold;">Ego2Exo</span> is used as an example in the frameork. Our method builds on the <strong>PSALM</strong> baseline (pink blocks) and
+tailors it for Ego-Exo Object Correspondence with two novel modules: <strong>Multimodal Condition Fusion (MCFuse)</strong> and <strong>Cross-View Object Alignment (XObjAlign)</strong>. More details please refer to our paper.</span></p>
+
+    <div class="has-text-centered">
+      <img src="./imgs/framework.png" style="max-width: 100%;" alt="Framework Figure">
+    </div>
+ 
+  </div>
+  </section>
+
+
+  <section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">Main Results on Ego-Exo4D</h2>
+  <p> <span style="font-size: 1.2em;"> <span style="color: #ef5b4b; font-weight: bold;">We highlight that:</span> 1) Results are reported on <strong>Val</strong> set due to the lack of GT of testing set. 2) We construct a <strong>"Small TrainSet"</strong>(1/3 data) and "Full TrainSet". Splits are released for the community which are <strong>especially friendly to the GPU/Storage limited groups</strong>. 3) Our Method clearly <strong>outperforms</strong> baselines and competitors. </span></p>
+    <div class="has-text-centered">
+      <img src="./imgs/result.png" style="max-width: 100%;" alt="Framework Figure">
+    </div>
+
+    <p>
+  <span style="font-size: 1.2em;">
+    <span style="color: #ef5b4b; font-weight: bold;">Results on test set,</span>
+    same as 
+    <a href="https://eval.ai/web/challenges/challenge-page/2288/" target="_blank" style="text-decoration: underline; color: #3273dc;">
+      EgoExo4D Correspondence Challenge
+    </a>
+    and our
+    <a href="https://arxiv.org/pdf/2506.05856?" target="_blank" style="text-decoration: underline; color: #3273dc;">
+      technical report
+    </a>.
+  </span>
+</p>
+    <div class="has-text-centered">
+      <img src="./imgs/testset.png" style="max-width: 100%;" alt="Framework Figure">
+    </div>
+  </div>
+  </section>
+
+
+  <section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">Visulization Results</h2>
+    <p> <span style="font-size: 1.2em;"> <span style="color: #ef5b4b; font-weight: bold;">Visulization results</span> show that: 1) Our MCFuse enhances <strong>object localization</strong> ability by using text as an extra prompt; 2) Our XObjAlign improves model's performance upon <strong>huge view shift</strong>.</span></p>
+    <div class="has-text-centered">
+      <img src="./imgs/vis.png" style="max-width: 100%;" alt="Framework Figure">
+    </div>
+  </div>
+  </section>
+
+
+
+  <section class="section">
+  <div class="container is-max-desktop">
+    <p> <span style="font-size: 1.2em;"><span style="color: #ef5b4b; font-weight: bold;">More:</span>  We also adapt <strong>HANDAL-X</strong>, a benchmark featuring robot-friendly objects, as an additional testbed for cross-view object segmentation. Since HANDAL-X is a cross-view <strong>image</strong> object segmentation benchmark, for detailed results and more visualizations, please refer to our paper. </span></p>
+  </div>
+  </section>
+
+
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">Video Demos on Human2Robot</h2>
+
+  <div class="container is-max-desktop">
+    <p> <span style="font-size: 1.2em;"><span style="color: #ef5b4b; font-weight: bold;">Updates:</span>  Using our trained ObjectRelator, we can adapt it to a simple human2robotic demo, the detailed solution will be published in an extension paper (hopefully will be done soon!) </div>
+
+  <div class="video-scroll-container2">
+  <div class="video-pair">
+    <div class="video-card">
+      <video controls>
+        <source src="./imgs/human2robotics_demo1.mp4" type="video/mp4">
+      </video>
+    </div>
+    <div class="video-card">
+      <video controls>
+        <source src="./imgs/human2robotics_demo2.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
+</div>
+  </div>
+</section>
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">Citations</h2>
+     <b>Please consider cite us if you find our tackled data, code, or model is useful to you.</b>      <br><br>
+    Also feel free to ask questions or if you are interested in working on this topic together, thanks!   :) 
+<br>
+    <pre><code>
+  @article{fu2024objectrelator,
+      title={Objectrelator: Enabling cross-view object relation understanding in ego-centric and exo-centric videos},
+      author={Fu, Yuqian and Wang, Runze and Bin, Ren and Guolei, Sun and Gong, Biao and Fu, Yanwei and Paudel, Danda Pani and Huang, Xuanjing and Van Gool, Luc},
+      journal={ICCV2025},
+      year={2025}
+    }
+
+  @article{fu2025cross,
+      title={Cross-View Multi-Modal Segmentation@ Ego-Exo4D Challenges 2025},
+      author={Fu, Yuqian and Wang, Runze and Fu, Yanwei and Paudel, Danda Pani and Van Gool, Luc},
+      journal={arXiv preprint arXiv:2506.05856},
+      year={2025}
+    }
+    </code></pre>
+  </div>
+</section>
+
+
+
+</body>
+</html>
+
