@@ -36,7 +36,7 @@ News
 <ul class="news">
   <li>[01/2026] Two papers are accepted by IRCA 2026. Check out <a href="https://arxiv.org/pdf/2510.11566">SCOOP'D</a> and <a href="">OCRA</a>.</li>
   <li>[01/2026] Two papers are accepted by ICLR 2026. Check out <a href="https://arxiv.org/pdf/2510.06218?">EgoNight</a> and <a href="https://arxiv.org/pdf/2505.18679?">MIRAGE</a>.</li>
-  <li>[01/2026] Two papers are accepted by AAAI 2025. Check out <a href="https://arxiv.org/pdf/2508.10729">EgoCross</a> and <a href="https://arxiv.org/pdf/2511.15580">CompTrack</a>.</li>
+  <li>[11/2025] Two papers are accepted by AAAI 2025. Check out <a href="https://arxiv.org/pdf/2508.10729">EgoCross</a> and <a href="https://arxiv.org/pdf/2511.15580">CompTrack</a>.</li>
   <li>[09/2025] Two papers are accepted by NeurIPS 2025. Check out <a href="https://arxiv.org/pdf/2506.05872?">Domain-RAG</a> and <a href="https://arxiv.org/pdf/2503.19730?">CamSAM2</a>.</li>
   <li>[08/2025] Excited to share that our project on <strong>egocentric vision with MLLMs</strong> has been funded by <span style="color:red; font-weight:bold;">Google</span>. PhD positions will be announced soon — stay tuned! <a href="https://www.linkedin.com/posts/martinvechev_insait-google-ai-activity-7365662899433783296-Zwjk?utm_source=share&utm_medium=member_ios&rcm=ACoAAE8Eu5AB0jJHHV4bVOWa2UW5mJaECUQ62Uk" target="_blank">More details here.</a></li>
   <li>[08/2025] One paper is accepted by TPAMI. Congrats to Jianxiong. Check out <a href="https://arxiv.org/abs/2409.11315">MinD-3D++</a>.</li>
